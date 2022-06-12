@@ -1,0 +1,157 @@
+.ProfessorsProfileSection {
+    display: flex;
+    padding: 10px 50px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+.ProfessorCard {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 50%), 0 6px 20px 0 rgb(0 0 0 / 50%);
+    border-radius: 20px;
+    width: 400px;
+    margin: 20px 10px;
+    text-align: center;
+}
+
+.ProfessorImage {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.NoBorderRadius {
+    border-radius: 0 !important;
+}
+
+.ProfessorName {
+    font-size: 1.6em; 
+    font-weight: 800;
+    color: #0d5f79;
+}
+
+.SpecialDesignation {
+    background-color: #074153;
+    color: white;
+    border-radius: 20px 20px 0px 0px;
+    font-size: 1.2em;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.GeneralProfessor {
+    margin: 20px 10px !important;
+}
+
+.ProfessorDesignation {
+    color: #084a5c;
+    font-size: 1.2em;
+    font-weight: 700;
+    padding: 0px 20px 5px 20px;
+}
+
+.ProfessorDetail {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(157, 206, 250);
+    border-radius: 10px;
+}
+
+.ProfessorDetail img {
+    width: 30px;
+    vertical-align: middle; 
+}
+
+.ProfessorDetail h1 {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: 700;
+
+}
+
+.ProfessorDetail h2 {
+    margin: 0;
+    font-size: 2em;
+    font-weight: 500;
+
+}
+
+.ProfessorDetail h3 {
+    margin: 0;
+    font-size: 1.0em;
+    font-weight: 500;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1080px){
+    .ProfessorsProfileSection {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 20px;
+    }
+    
+    .ProfessorCard {
+        border-radius: 10px;
+        width: 300px;
+        margin: 25px 0px;
+    }
+    
+    .ProfessorImage {
+        width: 300px;
+        height: 225px;
+        border-radius: 10px 10px 0px 0px;
+    }
+    
+    .ProfessorName {
+        font-size: 1.4em; 
+        font-weight: 700;
+    }
+    
+    .SpecialDesignation {
+        border-radius: 10px 10px 0px 0px;
+        font-size: 1.2em;
+        font-weight: 500;
+    }
+    
+    .GeneralProfessor {
+        margin: 5px !important;
+    }
+    
+    .ProfessorDesignation {
+        font-size: 1.0em;
+        font-weight: 700;
+    }
+    
+    .ProfessorDetail {
+        grid-template-columns: 40% 60%;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    
+    .ProfessorDetail img {
+        width: 25px;
+    }
+    
+    .ProfessorDetail h1 {
+        font-size: 1.0em;
+    
+    }
+    
+    .ProfessorDetail h2 {
+        font-size: 1.6em;
+    }
+    
+    .ProfessorDetail h3 {
+        font-size: 0.8em;
+    }
+    
+}

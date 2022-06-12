@@ -1,0 +1,392 @@
+.PlacementPage {
+    height: max-content;
+    padding: 20px 15%;
+}
+
+.PlacementSectionBody {
+    display: block; 
+}
+
+.PlacementRecordsContainer {
+    margin: 20px 0px;
+    border-radius: 10px;
+    color: white;
+    background: rgb(50,165,200);
+    background: radial-gradient(circle, rgba(50,165,200,1) 0%, rgba(20,127,161,1) 27%, rgba(7,65,83,1) 100%);
+}
+
+.RecordSummaryContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.RecordsYear {
+    padding: 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px 0px 40px 0px;
+    font-size: 2em;
+    font-weight: 700;
+    height: 60px;
+    width: 200px;
+    text-align: center;
+}
+
+.RecordsSummary {
+    font-size: 1.5em;
+    color: white;
+    font-weight: 500;
+    width: 300px;
+    text-align: center;
+}
+
+.ExpandChartsButton {
+    margin: 0px 20px;
+    text-align: right;
+    width: 200px;
+}
+
+.ExpandChartsButton img {
+    cursor:pointer;
+    background-color: rgb(13, 180, 152);
+    border-radius: 50px;
+    padding: 5px;
+    width: 20px;
+}
+
+.ExpandChartsButton img:hover {
+    transform: scale(1.05);
+}
+
+.RecordsYear:hover {
+    transform: scale(1.02);
+}
+
+.PlacementSummaryContainer {
+    width: 100%;
+    height: max-content;
+    text-align: center;
+}
+
+.SummaryChart {
+    display: inline-block;
+    width: 60vw;
+}
+
+.RecordsCharts {
+    display: block;
+    max-height: 0px;
+    overflow: hidden;
+    text-align: center;
+}
+
+@keyframes expandChart {
+    from {max-height: 0px; padding: 0px;}
+    to {max-height: 700px; padding: 20px;}
+}
+
+@keyframes collapseChart {
+    from {max-height: 700px; padding: 20px;}
+    to {max-height: 0px; padding: 0px;}
+}
+
+.latestYear {
+    display: block;
+    padding: 20px;
+    max-height: max-content;
+}
+
+.expand {
+    display: block;
+    padding: 20px;
+    animation: expandChart 0.5s linear forwards;
+}
+
+.collpase {
+    display: block;
+    animation: collapseChart 0.5s linear forwards;
+}
+
+
+.PieChartContainer {
+    display: inline-block;
+    width: 500px;
+}
+
+.recruitersContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.recruiters {
+    margin: 5px;
+}
+
+.recruiters:hover {
+    transform: scale(1.2);
+    z-index: 100;
+}
+
+.recruiters img {
+    max-width: 100px;
+}
+
+.BrochureLinksContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.BrochureCard {
+    margin: 20px;
+    cursor:pointer;
+    border-radius: 10px;
+    padding: 1px;
+    background-color: #074153;
+    color: white;
+    box-shadow: 0 0 10px 5px rgba(146, 146, 146, 0.781);
+    text-align: center;
+}
+
+.BrochureCard:hover {
+    transform: scale(1.03);
+}
+
+.BrochureCard h1{
+    font-size: 1.1em;
+    font-weight: 500;
+    padding: 8px;
+    margin: 0;
+}
+
+.BrochureCard h2{
+    font-size: 0.9em;
+    font-weight: 500;
+    background-color: #2b92b1;
+    padding: 2px;
+    margin: 0;
+}
+
+.BrochureCard h3{
+    font-size: 0.8em;
+    font-weight: 500;
+    padding: 2px 5px 5px;
+    margin: 0;
+}
+
+.BrochureCard img{
+    max-height: 450px;
+    margin: 0;
+    padding: 0;
+}
+
+.PlacementCoordinatorContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.OnlyOneCard {
+    display: block !important;
+    padding-left: 20px;
+}
+
+.contributorProfileContainer {
+    height: 170px;
+    min-width: 390px;
+    width: max-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    padding: 0px 10px 0px 0px;
+    box-shadow: 0 0 10px 5px rgba(146, 146, 146, 0.781);
+    border-radius: 15px;
+    margin: 25px 25px 25px 0px;
+}
+
+.ContributorCardImage {
+    width: 150px;
+    height: 170px;
+    border-radius: 15px 0px 0px 15px;
+}
+
+.ContributorCardContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    margin: 15px;
+}
+
+.ContributorAboutSection h1 {
+    color: #074153;
+    padding-top: 10px;
+    padding-bottom: 4px;
+    text-align: left;
+    font-size: 1.2em;
+    margin: 0;
+}
+
+.ContributorAboutSection h2 {
+    color: #074153;
+    text-align: left;
+    font-size: 1em;
+    margin: 0;
+}
+
+.ContributorAboutSection h3 {
+    color: #0d7ea0ef;
+    font-style: italic;
+    text-align: left;
+    font-size: 0.9em;
+    margin: 0px 0px 20px;
+}
+
+.ContributorContactSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+.ContributorSectionBorder {
+    border-top: 3px solid #2b92b1;
+    border-radius: 10px;
+    min-width: 80%;
+}
+
+.ContributorCardContent a {
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.ContributorContactIcon {
+    height: 30px;
+    width: 30px;
+    filter: brightness(40%);
+}
+
+.ContributorContactIcon:hover {
+    transform: scale(1.1);
+}
+
+@media only screen and (max-width: 1080px) {
+    .PlacementPage {
+        padding: 10px;
+    }
+    
+    .PlacementRecordsContainer {
+        margin: 10px 0px;
+        border-radius: 5px;
+    }
+    
+    .RecordsYear {
+        padding: 0px;
+        border-radius: 5px 0px 20px 0px;
+        font-size: 1.2em;
+        font-weight: 700;
+        height: 63px;
+        width: 70px;
+    }
+    
+    .RecordsSummary {
+        font-size: 1.0em;
+        font-weight: 400;
+        width: 120px;
+        text-align: center;
+    }
+    
+    .ExpandChartsButton {
+        margin: 0px 10px;
+        text-align: right;
+        width: 30px;
+    }
+    
+    .ExpandChartsButton img {
+        padding: 5px;
+        width: 15px;
+    }
+
+    .SummaryChart {
+        display: inline-block;
+        width: 90vw;
+    }
+    
+    .latestYear {
+        padding: 10px;
+    }
+    
+    .expand {
+        padding: 10px;
+    }  
+    
+    .PieChartContainer {
+        display: inline-block;
+        width: 70vw;
+    }
+    
+    .recruiters img {
+        max-width: 70px;
+    }
+    
+    .OnlyOneCard {
+        padding-left: 10px;
+    }
+    
+    .contributorProfileContainer {
+        height: 120px;
+        min-width: 300px;
+        width: max-content;
+        padding: 0px 5px 0px 0px;
+        border-radius: 10px;
+        margin: 15px 5px 15px 0px;
+    }
+    
+    .ContributorCardImage {
+        width: 100px;
+        height: 120px;
+        border-radius: 10px 0px 0px 10px;
+    }
+    
+    .ContributorCardContent {
+        margin: 5px;
+    }
+    
+    .ContributorAboutSection h1 {
+        padding-top: 5px;
+        padding-bottom: 2px;
+        font-size: 1.1em;
+    }
+    
+    .ContributorAboutSection h2 {
+        font-size: 0.7em;
+    }
+    
+    .ContributorAboutSection h3 {
+        font-size: 0.8em;
+        margin: 0px 0px 8px 0px;
+    }
+    
+    .ContributorSectionBorder {
+        border-top: 2px solid #2b92b1;
+    }
+    
+    .ContributorContactIcon {
+        height: 20px;
+        width: 20px;
+    }
+}

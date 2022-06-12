@@ -1,0 +1,76 @@
+.ContactsContainer {
+    padding: 20px 10%;
+    text-align: center;
+}
+
+.ContactLinksContainer a {
+    text-decoration: none;
+}
+
+.ContactLinksContainer img {
+    width: 100px;
+    margin: 25px;
+}
+
+.ContactLinksContainer img:hover {
+    transform: scale(1.05);
+}
+
+.MessageFormContainer {
+    margin: 10px auto;
+}
+
+.MessageFormContainer h1{
+    font-size: 1.6em;
+    font-weight: 800;
+    margin: 20px auto;
+}
+
+.MessageForm input[type='text'], .MessageForm textarea {
+    font-family: 'Roboto', sans-serif;
+    margin: 10px auto;
+    width: 600px;
+    font-size: 1.2em;
+    padding: 8px 13px;
+    display: block;
+    border-radius: 10px;
+    border: 1px solid rgb(105, 105, 105);
+    outline: none;
+    resize: none;
+}
+
+.MessageForm input[type='text']:focus, .MessageForm textarea:focus  {
+    border: 2px solid rgb(49, 49, 49);
+}
+
+.MessageForm input[type='submit'] {
+    cursor:pointer;
+    display: block;
+    margin: 10px auto;
+    background-color: #074153;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.3em;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+.MessageForm input[type='submit']:hover {
+    transform: scale(1.05);
+}
+
+@media only screen and (max-width: 1080px) {
+    .ContactsContainer {
+        padding: 20px;
+    }
+    
+    .ContactLinksContainer img {
+        width: 70px;
+        margin: 10px;
+    }
+    
+    .MessageForm input[type='text'], .MessageForm textarea  {
+        width: 300px;
+    }
+}

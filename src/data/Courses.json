@@ -1,0 +1,143 @@
+{
+    "MCA": {
+        "FullName": "Master of Computer Application",
+        "Image": "mca.jpg",
+        "Summary": "Master of Computer Application (MCA) is a 2 year (4 semesters) academic programme. The curriculum is regularly updated every 3 years to include the most recent and demanding skills to increase the quality of its contribution to the industry. Our students have excelled in a multitude of fields like Java, .Net, Big Data, Machine Learning, Data Mining, Artificial Intelligence, Networking and Security, Python, MATLAB, and Web Development (J2EE/ASP.Net), etc. Apart from the curriculum, the students participate in several Hackathons and Techfest to hone their skills. Various national and multinational companies have been consistently recruiting our students through campus recruitments and many of our students are placed in public and private sectors in India and abroad. Accenture, Accolite, Britannica.com India, C-DOT, Click Labs, CSC, Daffodil, HCL Technologies, IBM, Infogain, Jabong, JK Technosoft, Josh Technology Group, Libsys, Mahindra Comviva, Maruti Udyog Ltd, Microsoft India, Mindfire Solutions, Nagarro, Navyug, Newgen, NIC, Opera Solutions, payU, Polestar, R&F Technologies, Samsung SEL Noida, Sapient Technologies, Shopatplaces, Snapdeal, Successive, TCS, To The New Digital, Tolexo, Vectoscalar, Wipro, Zillious, Zomato, TFT, EXL, Unicommerce, Truminds, Thought focus, American Express, and NIIT, etc. have been recruiting our students from M.C.A. A significant number of alumni of the department are serving as Data Scientists, Software Engineers, IT consultants, Full stack developers, iOS/Android developers, etc. in reputed organizations. Many of them have proven their entrepreneurship skills and many others are working as NET-JRF scholars, faculty members, and consultants in reputed institutes around the globe.",
+        "Duration": "2 Years",
+        "Type": "Full Time",
+        "Specialization": "Advance/IT",
+        "Syllabus": [
+            {
+                "Name": "SEMESTER I",
+                "Structure": [
+                    {
+                        "Category": "CORE",
+                        "Courses": ["Digital Logic and Computer Architecture", "Discrete Mathematics", "Algorithmics and Program Design", "Database Management Systems"]
+                    },
+                    {
+                        "Category": "ELECTIVE",
+                        "Courses": ["Statistical Computing", "e-Business Systems", "Human Computer Interaction"]
+                    },
+                    {
+                        "Category": "LAB",
+                        "Courses": ["Algorithmics and Program Design", "DBMS"]
+                    }
+                ]
+            },
+            {
+                "Name": "SEMESTER II",
+                "Structure": [
+                    {
+                        "Category": "CORE",
+                        "Courses": ["Software Engineering", "Object Oriented Programming", "Advanced Data Structures", "Operating Systems and Shell Programming"]
+                    },
+                    {
+                        "Category": "ELECTIVE",
+                        "Courses": ["Data Mining and Warehousing", "Software Project Management", "Theory of Computation", "Modelling and Simulation", "Programming with Python"]
+                    },
+                    {
+                        "Category": "LAB",
+                        "Courses": ["OOP", "ADS and Shell Programming"]
+                    }
+                ]
+            },
+            {
+                "Name": "SEMESTER III",
+                "Structure": [
+                    {
+                        "Category": "CORE",
+                        "Courses": ["Data Communication and Networks", "Artificial Intelligence", "Information Security", "Analysis and Design of Algorithms"]
+                    },
+                    {
+                        "Category": "ELECTIVE",
+                        "Courses": ["Cryptography", "Cloud Computing", "Machine Learning", "Numerical Optimization", "Web Based Programming"]
+                    },
+                    {
+                        "Category": "LAB",
+                        "Courses": ["A.I.", "Analysis and Design of Algorithms"]
+                    }
+                ]
+            },
+            {
+                "Name": "SEMESTER IV",
+                "Structure": [
+                    {
+                        "Category": "PROJECT",
+                        "Courses": ["Major Project"]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "MSC": {
+        "FullName": "Master of Science Bioinformatics",
+        "Image": "msc.jpg",
+        "Summary": "Master of Science in Bioinformatics i.e. M.Sc. Bioinformatics is a 2 year (4 semesters) academic, self-financed and evening programme of professional nature. Dr Syed Ismail Ahson took an initiative and started this course during his tenure as the Head of the Department of Computer Science (2001 - 2008). The primary aim of this programme is to prepare biological science graduates with bioinformatics skills for a career in the Post-Genomics era. It is also suitable for especially inspired aspirants from other backgrounds. The programme focuses on helping students build a strong foundation in biotechnology, database management, data mining, statistics, computational mathematics, computer programming, and preparing them for productive careers in fields of bioinformatics, biotechnology, pharmaceutical, and vaccine industries. The programme is designed to equip the students with all the skills required to be a bioinformatician. Programming languages like Python, R, C++, SQL, HTML, PHP, CSS, & JavaScript are taught. To build a strong biological background students are taught Genomics, Molecular Biology, & Biochemistry. To keep up with the current demand the programme ensures that our students have a good grasp on NGS. In order to cater to the requirements of this interdisciplinary course, guest teachers from institutes such as IIT-D, AIIMS, NII, Jamia Hamdard are regularly invited.",
+        "Duration": "2 Years",
+        "Type": "Full Time",
+        "Specialization": "Bioinformatics",
+        "Syllabus": [
+            {
+                "Name": "SEMESTER I",
+                "Structure": [
+                    {
+                        "Category": "CORE",
+                        "Courses": ["Introduction to Bioinformatics", "Computing Fundamentals", "Programming in C++", "Comparative and Functional Genomics", "Chemoinformatics and Chemogenomics"]
+                    },
+                    {
+                        "Category": "LAB",
+                        "Courses": ["Bioinformatics Tools", "C++& Linux"]
+                    }
+                ]
+            },
+            {
+                "Name": "SEMESTER II",
+                "Structure": [
+                    {
+                        "Category": "CORE",
+                        "Courses": ["Systems Biology", "Biochemistry", "Essential Mathematics & Biostatistics", "Database Management System"]
+                    },
+                    {
+                        "Category": "ELECTIVE",
+                        "Courses": ["Programming in Python &Biopython", "Programming in Perl and Bioperl", "Object-Oriented Programming in Java"]
+                    },
+                    {
+                        "Category": "LAB",
+                        "Courses": ["MySql/Oracle", "Systems Biology and Advance Bioinformatics Tools"]
+                    }
+                ]
+            },
+            {
+                "Name": "SEMESTER III",
+                "Structure": [
+                    {
+                        "Category": "CORE",
+                        "Courses": ["NGS Data Analysis", "Structural Bioinformatics and Drug Design", "Programming in R", "Web-based Programming"]
+                    },
+                    {
+                        "Category": "ELECTIVE",
+                        "Courses": ["Artificial Intelligence in Bioinformatics", "Machine Learning Techniques in Bioinformatics", "Soft Computing Techniques in Bioinformatics", "Health Informatics"]
+                    },
+                    {
+                        "Category": "LAB",
+                        "Courses": ["Drug Design + NGS"]
+                    },
+                    {
+                        "Category": "PROJECT",
+                        "Courses": ["Minor Project"]
+                    }
+                ]
+            },
+            {
+                "Name": "SEMESTER IV",
+                "Structure": [
+                    {
+                        "Category": "Project",
+                        "Courses": ["Major Project and Thesis Writing"]
+                    }
+                ]
+            }
+        ]
+    }
+}

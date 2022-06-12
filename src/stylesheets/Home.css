@@ -1,0 +1,410 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+
+.Home {
+    height: 100%;
+    width: 100%;
+}
+
+.FirstSection {
+  position: relative !important;
+}
+
+.HomeSection {
+  width: 100%;
+  height: calc(100vh - 40px);
+}
+
+.slideHolder {
+  width: 100% !important;
+  height: 100% !important;
+  z-index: 0;
+}
+
+
+.slide {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: white
+}
+
+.SlideImage {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  filter: brightness(30%);
+}
+
+@keyframes animateLogo {
+  0%  {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.1);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+.WelcomeContainer {
+  position: absolute;
+  animation: animateLogo 1s forwards ease-out;
+  z-index: 2;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; 
+}
+
+.JamiaLogo {
+  height: 250px;
+  background-image: url('../images/core/logoTransparent.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.WelcomeContainer h1 {
+  font-size: 1.8em;
+  font-weight: 800;
+}
+
+.WelcomeContainer h2 {
+  font-size: 1.3em;
+  font-weight: 1000;
+}
+
+.SecondSection {
+  display: flex;
+  background-color: rgb(7, 65, 83);
+  color: rgb(255, 255, 255);
+}
+
+.SecondSectionContainer {
+  position: relative;
+  min-width: 50%;
+  max-width: 50%;
+  height: 100%;
+}
+
+.SubContainer {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  top: 50%;
+  left: 5%;
+  width: 90%;
+  transform: translateY(-50%) !important;
+}
+
+.AchievementBG {
+  position: relative;
+  height: 7vw;
+  min-width: 12vw;
+  max-width: 15vw;
+  margin: 20px 10px;
+  background-image: url('../images/home/achievementsBg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #e1a40f;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.AchievementBG:hover {
+  transform: scale(1.1);
+}
+
+.AchievementContainer {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 40%;
+  text-align: center;
+}
+
+.AchievementHead {
+  font-size: 1vw;
+}
+
+.AchievementContent {
+  margin-top: 5px;
+  font-size: 0.6vw;
+}
+
+.AboutTextHead {
+  font-size: 2.0em;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.AboutTextContent {
+  font-size: 1.3em;
+  font-weight: 400;
+  text-align: justify;
+}
+
+.ThirdSection {
+  height: calc(20vh - 40px) !important;
+  width: calc(100% - 40px) !important;
+  background-color: rgb(43, 139, 248);
+  padding: 20px;
+  color: white;
+  display: flex;
+}
+
+.ThirdSectionMotion {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.ThirdSectionContainer {
+  text-align: center;
+  width: 15vw;
+}
+
+.CountValue {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.CountBorder {
+  height: 60%;
+  border-right: 1px solid white;
+}
+
+.CountName {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.FourthSection {
+  height: max-content !important;
+  text-align: center;
+}
+
+.DashboardHead {
+  font-size: 2em;
+  font-weight: 800;
+  padding: 20px;
+  
+}
+
+.DashboardBody {
+  padding: 50px 10%;
+}
+
+.DashboardRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+@keyframes animateDshItem {
+  from { box-shadow: 0px 0px 0px rgb(150, 150, 150); transform: scale(1);}
+  to {box-shadow: 15px 15px 10px rgb(150, 150, 150); transform: scale(1.05);}
+}
+
+.DashboardItem {
+  width: 300px;
+  height: 300px;
+  margin: 20px;
+  text-decoration: none;
+  background-color: rgb(7, 65, 83);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  border-radius: 5px;
+}
+
+.DashboardItem:hover {
+  animation: animateDshItem 0.3s forwards;
+}
+
+.DashboardItem img {
+  margin: 20px auto;
+  height: 80px;
+}
+
+.DashboardItem h1 {
+  padding: 0px 10px;
+  font-size: 1.8em;
+  font-weight: 700;
+}
+
+.DashboardItem h2 {
+  padding: 0px 10px;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 1080px) {
+  .HomeSection {
+    width: 100%;
+    height: calc(100vh - 60px);
+  }
+
+  .FirstSection {
+    position: relative !important;
+  }
+  
+  .WelcomeContainer h1 {
+    font-size: 1.3em;
+    font-weight: 1000;
+  }
+
+  .WelcomeContainer h2 {
+    font-size: 1.0em;
+    font-weight: 700;
+  }
+
+  .SecondSection {
+    height: max-content !important;
+    display: block;
+    background-color: rgb(7, 65, 83);
+    color: rgb(255, 255, 255);
+  }
+  
+  .SecondSectionContainer {
+    position: static;
+    min-width: calc(100% - 40px);
+    max-width: calc(100% - 40px);
+    height: max-content;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .SubContainer {
+    position: static;
+    display: flex;
+    width: 100%;
+    transform: unset !important;
+  }
+  
+  .AchievementBG {
+    position: relative;
+    display: inline-block;
+    height: 100px;
+    min-width: 35vw;
+    max-width: 35vw;
+    margin: 10px;
+  }
+  
+  .AchievementHead {
+    font-size: 0.8em;
+  }
+  
+  .AchievementContent {
+    margin-top: 5px;
+    font-size: 0.5em;
+  }
+  
+  .AboutTextHead {
+    text-align: left;
+    font-size: 1.3em;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .AboutTextContent {
+    font-size: 1.0em;
+    font-weight: 400;
+    text-align: justify;
+  }
+
+  .ThirdSection {
+    width: 100% !important;
+    height: max-content !important;
+    padding: 20px 0px;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+
+  .ThirdSectionMotion {
+    display: flex;
+    flex-direction: column;
+  
+  }
+  
+  .ThirdSectionContainer {
+    padding: 10px 0px;
+    text-align: center;
+    width: 100%;
+    height: max-content;
+  }
+  
+  .CountValue {
+    font-size: 1.3em;
+  }
+  
+  .CountBorder {
+    width: 80%;
+    height: 0%;
+    border-right: none;
+    border-bottom: 1px solid white;
+  }
+  
+  .CountName {
+    font-size: 0.9em;
+  }
+
+  .DashboardHead {
+    font-size: 1.8em;
+    font-weight: 800;
+    padding: 10px; 
+  }
+  
+  .DashboardBody {
+    padding: 20px 10px;
+  }
+  
+  .DashboardRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  
+  .DashboardItem {
+    width: 160px;
+    height: 160px;
+    margin: 10px 5px;
+    box-shadow: 3px 3px 5px grey;
+  }
+  
+  .DashboardItem:hover {
+    animation: unset;
+  }
+  
+  .DashboardItem img {
+    margin: 0px auto;
+    height: 30px;
+  }
+  
+  .DashboardItem h1 {
+    padding: 0px 5px;
+    font-size: 1.1em;
+    font-weight: 700;
+  }
+  
+  .DashboardItem h2 {
+    padding: 0px 5px;
+    font-size: 0.8em;
+    font-weight: 400;
+  }
+}

@@ -1,0 +1,111 @@
+.Footer {
+  display: table-row;
+  background-color: rgb(9, 82, 111);
+  color: white;
+  height: 400px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.FooterBody {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-top: 10px solid rgb(86, 145, 169);
+}
+
+.FooterCol {
+    margin: 20px;
+}
+
+.ColHead {
+    font-size: 1.3em;
+    font-weight: 1000;
+    margin: 10px 0px;
+}
+
+.FooterLogo {
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.RowHead {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 5px 0px;
+}
+
+.RowContent {
+    font-size: 0.9em;
+}
+
+.RowIcon {
+    height: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.ContactLink {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 4px 0px;
+    font-size: 1em;;
+}
+
+.animateHover:hover {
+    transform: translateX(20px) scale(1.1);
+}
+
+@media only screen and (max-width: 1080px) {
+      .Footer {
+          width: 100%;
+          height: 850px;
+      }
+
+      .FooterBody {
+          display: block;
+          border-top: 5px solid rgb(86, 145, 169);
+      }
+      
+      .FooterCol {
+          margin: 10px;
+      }
+      
+      .ColHead {
+          font-size: 1.1em;
+          font-weight: bolder;
+          margin: 5px 0px;
+      }
+      
+      .FooterLogo {
+          height: 100px;
+          margin-bottom: 10px;
+      }
+      
+      .RowHead {
+          font-weight: bold;
+          font-size: 0.9em;
+          padding: 5px 0px;
+      }
+      
+      .RowContent {
+          font-size: 0.7em;
+      }
+      
+      .RowIcon {
+          height: 15px;
+          margin-right: 5px;
+      }
+      
+      .ContactLink {
+          display: block;
+          text-decoration: none;
+          color: white;
+          padding: 4px 0px;
+          font-size: 0.8em;;
+      }
+
+      .animateHover:hover {
+        transform: translateX(60px) scale(1.1);
+    }
+}

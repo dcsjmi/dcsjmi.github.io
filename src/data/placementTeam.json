@@ -1,0 +1,97 @@
+{
+    "Coordinator": {
+        "TPC": [
+            {
+                "Name": "Suraiya Jabin",
+                "Designation": "Professor (MCA, PhD)",
+                "Image": "1.jpg",
+                "Phone": "",
+                "Email": "sjabin@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/dr-suraiya-jabin-25a814a/"
+            }
+        ]
+    },
+    "MCA": {
+        "Main Team": [
+            {
+                "Name": "Mohammad Amaan Sharif",
+                "Designation": "SPoC",
+                "Image": "2.jpg",
+                "Phone": "+91 98113 69906",
+                "Email": "mohammad2101126@st.jmi.ac.in",
+                "Linkedin": "https://www.linkedin.com/in/mohammad-amaan-sharif/"
+            },
+            {
+                "Name": "Zainab Farhan",
+                "Designation": "SPoC",
+                "Image": "3.jpg",
+                "Phone": "+91 87440 69229",
+                "Email": "zainab2106410@st.jmi.ac.in",
+                "Linkedin": "https://www.linkedin.com/in/zainab-farhan-4702321a9/"
+            },
+            {
+                "Name": "Mantasha Perween",
+                "Designation": "SPoC",
+                "Image": "4.jpg",
+                "Phone": "+91 72928 27627",
+                "Email": "mantasha0105@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/mantasha-perween/"
+            },
+            {
+                "Name": "Musaib Muneer",
+                "Designation": "SPoC",
+                "Image": "5.jpg",
+                "Phone": "+91 87997 23915",
+                "Email": "Musaibahmed129@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/musaib-muneer-529132206/"
+            }
+        ],
+        "Support Team": [
+            {
+                "Name": "Krishna Mohan Tiwari",
+                "Designation": "Support Lead",
+                "Image": "6.jpg",
+                "Phone": "+91 79837 36118",
+                "Email": "krishnamohan12tiwari@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/krishna-mohan-tiwari-5a5a86227/"
+            },
+            {
+                "Name": "Umme Habiba",
+                "Designation": "Support Lead",
+                "Image": "8.jpg",
+                "Phone": "+91 89557 45523",
+                "Email": "ummehabiba9334@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/umme-habiba-ab8718171/"
+            }
+        ],
+        "Graphics Team": [
+            {
+                "Name": "Shraddha Kashyap",
+                "Designation": "Graphics Designer",
+                "Image": "7.jpg",
+                "Phone": "+91 79060 85104",
+                "Email": "shraddhakashyap1310@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/shraddha-kashyap-4b1ab9193/"
+            }
+        ],
+        "Web Team": [
+            {
+                "Name": "Satyam Mishra",
+                "Designation": "Web Developer",
+                "Image": "9.jpg",
+                "Phone": "+91 96547 74243",
+                "Email": "dev.sam1210@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/satyammishra1210/"
+            },
+            {
+                "Name": "Chitvan Garg",
+                "Designation": "Web Developer",
+                "Image": "10.jpg",
+                "Phone": "+91 88823 31568",
+                "Email": "gargchitvan378@gmail.com",
+                "Linkedin": "https://www.linkedin.com/in/chitvan-garg-2a44b11aa/"
+            }
+        ]
+    },
+    "MSC": ""
+}

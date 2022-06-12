@@ -1,0 +1,27 @@
+{
+    "Teacher Placement Coordinator":[{
+        "name": "Suraiya Jabin",
+        "mail": "sjabin@gmail.com",
+        "phone": "",
+        "designation": "Teacher Placement Coordinator"
+      }]
+    ,
+    "M.C.A. SPoC": [
+      {
+        "name": "Mohammad Amaan Sharif",
+        "mail": "mohammad2101126@st.jmi.ac.in",
+        "phone": "+91 98113 69906"
+      },
+      {
+        "name": "Zainab Farhan",
+        "mail": "zainab2106410@st.jmi.ac.in",
+        "phone": "+91 87440 69229"
+      }
+    ],
+    "M.Sc. SPoC":
+      [{
+        "name": "Tanya Arora",
+        "mail": "tanyaarora74027@gmail.com",
+        "phone": "+91 99999 51786"
+      }]
+  }
