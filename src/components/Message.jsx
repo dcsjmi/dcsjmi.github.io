@@ -50,6 +50,56 @@ export default function Message() {
                         </div>
                     </div>
                 </div>
+                {/*Dean */}
+                <div className="placement-officer">
+                    <div className="message-section">
+                        {/* Image Section */}
+                        <div className="image-section">
+                            <div className="image">
+                                <img src={require("../images/about-image/message/dean.jpg")} alt="" />
+                            </div>
+                            <div className="info">
+                                <h2>Prof. Seemi Farhat Basir</h2>
+                                <em>Dean, Faculty of Natural Science</em>
+                                {/* Social icons */}
+                                <div className="contact">
+                                    <span>
+                                        <i className="fa-solid fa-envelope"></i>
+                                        <a href="mailto:sbasir@jmi.ac.in">sbasir@jmi.ac.in</a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        {/* All message section */}
+                        <div className="message">
+                            <p>
+                                The era of globalization, coupled with the advent of information technology (IT) and
+                                the impetus of the internet, has brought up a sea change in the corporate governance
+                                and thinking process of the human mind, especially in the current millennium. I
+                                am pleased to share that the Department Of Computer Science under the Faculty of
+                                Natural Science produces quality professionals in the field of IT. In addition to a 2 years
+                                post-graduate program, Master Of Computer Application (MCA), the Department is
+                                successfully running a PGDCA and a post-graduate professional degree course, M.Sc.
+                                (Bioinformatics) through a well-designed fundamental industry-oriented curriculum.
+                            </p>
+                            <p>
+                                I am sure that the dedication and commitment of the student to the skills developed
+                                with these courses, would contribute highly towards national development by placing
+                                themselves in the various industries and educational institutions, both domestically and
+                                internationally. The mission of producing able and competent IT and Bioinformatics
+                                professionals in the department is being achieved due to the involvement of highly
+                                dedicated and experienced faculty members. I hope they will continue to produce
+                                worthy professionals to fulfil the industrial and educational needs of the nation.
+                            </p>
+                            <p>
+                                With this objective, I certainly would like to invite all esteemed and relevant
+                                organizations and companies to induct our students as competent professionals that
+                                would eventually enable them to make a profound impact in this industry as well as
+                                at a global level.
+                            </p>
+                        </div>
+                    </div>
+                </div>
                 {/* HOD  */}
                 <div className="hod">
                     <div className="message-section">
