@@ -1,0 +1,144 @@
+.StudentProfilesBody {
+    padding: 10px 50px;
+}
+
+.StudentProfilesContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.StudentCard {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 50%), 0 6px 20px 0 rgb(0 0 0 / 50%);
+    border-radius: 20px;
+    width: 350px;
+    margin: 20px 10px;
+    text-align: center;
+}
+
+.StudentImageContainer { 
+    position: relative;
+    height: 230px;
+    border-radius: 20px 20px 0px 0px;
+    background-color: #074153;
+    z-index: 1;
+}
+
+.ImageCurve {
+    position: absolute;
+    top: 50%;
+    height: 115px;
+    width: 350px;
+    background-color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    z-index: -1;
+    
+}
+
+.StudentImage {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 3px solid #0377a5;
+}
+
+.StudentDetailsBody {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.StudentName {
+    font-size: 1.6em; 
+    font-weight: 800;
+    color: #0d5f79;
+}
+
+.StudentQualification
+{
+    font-size: 1.3em; 
+    font-weight: 500;
+    color: #439ab4;
+    margin: 0px 10px 10px;
+}
+
+.StudentSkills {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(157, 206, 250);
+    border-radius: 10px;
+}
+
+.StudentSkills img {
+    width: 30px;
+    vertical-align: middle; 
+}
+
+.StudentSkills h1 {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.StudentSkills h2 {
+    margin: 0;
+    font-size: 1.0em;
+    font-weight: 400;
+    text-align: center;
+}
+
+.StudentContactSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+.StudentSectionBorder {
+    border-top: 4px solid #074153;
+    border-radius: 10px;
+    min-width: 60%;
+}
+
+.StudentContactSection a {
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.StudentContactIcon {
+    height: 30px;
+    width: 30px;
+    filter: brightness(40%);
+}
+
+.StudentContactIcon:hover {
+    transform: scale(1.1);
+}
+
+@media only screen and (max-width: 1080px){
+    .StudentProfilesBody {
+        padding: 10px;
+    }
+    
+    .StudentCard {
+        border-radius: 10px;
+        width: 350px;
+        margin: 20px 0px;
+    }
+    
+    .StudentImageContainer { 
+        border-radius: 10px 10px 0px 0px;
+    }
+    
+    .ImageCurve {
+        border-radius: 7px 7px 0px 0px;
+    }
+}

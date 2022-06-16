@@ -1,0 +1,472 @@
+{
+    "Master of Computer Application": [
+        {
+            "id": 1,
+            "name": "Aasim Vakeel",
+            "email": "aasimvakeel@gmail.com",
+            "image": "1.jpg",
+            "highQual": "BSc PCM",
+            "skills": "C/C++, SQL, Python",
+            "linkedin": "https://www.linkedin.com/in/aasim-vakeel-33aa14226"
+        },
+        {
+            "id": 2,
+            "name": "Abdul Rafey",
+            "email": "abdulrafeyq@gmail.com",
+            "image": "2.jpg",
+            "highQual": "BSc (Hons) Physics",
+            "skills": "C/C++, Java, C#, Bash, Oracle PL/SQL",
+            "linkedin": "https://www.linkedin.com/in/abdul-rafey-019b24229"
+        },
+        {
+            "id": 3,
+            "name": "Abdullah",
+            "email": "jmiabd2001@gmail.com",
+            "image": "3.jpg",
+            "highQual": "BSc",
+            "skills": "C/C++",
+            "linkedin": "https://www.linkedin.com/in/mohd-abdullah-65b61122a"
+        },
+        {
+            "id": 4,
+            "name": "Abdullah Ansari",
+            "email": "ansariabdullah800@gmail.com ",
+            "image": "4.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Java, Linux, MySQL, OracleSQL, PL/SQL, Python, ReactJS",
+            "linkedin": "https://www.linkedin.com/in/abdullah-ansari-21954b170"
+        },
+        {
+            "id": 5,
+            "name": "Abhay Singh",
+            "email": "abhaysingh07082000@gmail.com",
+            "image": "5.jpg",
+            "highQual": "BSc",
+            "skills": "Java, C, MySql, HTML/CSS, Javascript, Bootstrap, ReactJS",
+            "linkedin": "https://www.linkedin.com/in/abhay-singh-446849196"
+        },
+        {
+            "id": 6,
+            "name": "Ajeet Kumar Singh",
+            "email": "ajeetrajag@gmail.com",
+            "image": "6.jpg",
+            "highQual": "BSc",
+            "skills": "C/C++, Python",
+            "linkedin": "https://www.linkedin.com/in/ajeet-singh-34b508227"
+        },
+        {
+            "id": 7,
+            "name": "Alina Bi",
+            "email": "alinabi639@gmail.com",
+            "image": "7.jpg",
+            "highQual": "BSc",
+            "skills": "C/C++, Oracle PL/SQL, HTML/CSS, JavaScript, Python",
+            "linkedin": "https://www.linkedin.com/in/alina-b-974086226/"
+        },
+        {
+            "id": 8,
+            "name": "Amina Faiz",
+            "email": "aminafaiz9935@gmail.com",
+            "image": "8.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "C/C++, Python, Java, SQL, HTML/CSS, JavaScript, ReactJS, MS Excel",
+            "linkedin": "https://www.linkedin.com/in/amina-faiz-0113"
+        },
+        {
+            "id": 9,
+            "name": "Asjad Qasmi",
+            "email": "asjadqasmi56@gmail.com",
+            "image": "9.jpg",
+            "highQual": "BCA",
+            "skills": "Python, Audio Engineering softwares.",
+            "linkedin": "https://www.linkedin.com/in/asjad-qasmi-93aa5512b"
+        },
+        {
+            "id": 10,
+            "name": "Ayaz Rahmani",
+            "email": "ayazrahmani777@gmail.com ",
+            "image": "10.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, SQL",
+            "linkedin": "https://www.linkedin.com/in/ayaz-rahmani-038443227"
+        },
+        {
+            "id": 11,
+            "name": "Chitvan Garg",
+            "email": "gargchitvan378@gmail.com",
+            "image": "11.jpg",
+            "highQual": "BSc Mathematics",
+            "skills": "HTML/CSS, C/C++, OracleSQL",
+            "linkedin": "https://www.linkedin.com/in/chitvan-garg-2a44b11aa/"
+        },
+        {
+            "id": 12,
+            "name": "Firoj Khan ",
+            "email": "firojshi5@gmail.com",
+            "image": "12.jpg",
+            "highQual": "BSc ",
+            "skills": "C/C++, Python, SQL, HTML/CSS, Javascript",
+            "linkedin": "https://www.linkedin.com/in/firoj-khan-866a1b222"
+        },
+        {
+            "id": 13,
+            "name": "Gufran Ahmad Khan ",
+            "email": "gufrancode@gmail.com",
+            "image": "13.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "C, Java, HTML/CSS, JavaScript, MySQL",
+            "linkedin": "https://www.linkedin.com/in/gufran-khan-65a8021aa"
+        },
+        {
+            "id": 14,
+            "name": "Himanshu Jadoun",
+            "email": "hjadoun9@gmail.com ",
+            "image": "14.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Python, HTML/CSS, JavaScript, ReactJS, MySQL, APIs.",
+            "linkedin": "https://www.linkedin.com/in/himanshu-jadoun"
+        },
+        {
+            "id": 15,
+            "name": "Iflah Bilal",
+            "email": "iflahbilal2508@gmail.com",
+            "image": "15.jpg",
+            "highQual": "BSc (Hons) Mathematics",
+            "skills": "C/C++, Python, HTML/CSS, JavaScript, MATLAB, OracleSQL",
+            "linkedin": "https://www.linkedin.com/in/iflah-bilal/"
+        },
+        {
+            "id": 16,
+            "name": "Kaif Ali Khan",
+            "email": "kaifktp22@gmail.com",
+            "image": "16.jpg",
+            "highQual": "BSc",
+            "skills": "C/C++, Java (core), JDBC, MySQL, HTML/CSS, Spring",
+            "linkedin": "https://www.linkedin.com/in/kaif-khan-41a9ab237/"
+        },
+        {
+            "id": 17,
+            "name": "Kapil",
+            "email": "kapildhuria98@gmail.com",
+            "image": "17.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "C/C++, Java, OracleSQL, HTML/CSS, JavaScript",
+            "linkedin": "https://www.linkedin.com/in/kapil-dhuria-232319224"
+        },
+        {
+            "id": 18,
+            "name": "Krishna Mohan Tiwari",
+            "email": "krishnamohan12tiwari@gmail.com",
+            "image": "18.jpg",
+            "highQual": "BSc (Hons) Mathematics",
+            "skills": "C/C++, Python, R, MySQL, PL/SQL, Data Mining and Warehousing, AI (ML major, DL, NLP, Computer Vision), AWS, Linux, PowerBI, Storytelling with Tableau, Big Data",
+            "linkedin": "https://www.linkedin.com/in/krishna-mohan-tiwari-5a5a86227"
+        },
+        {
+            "id": 19,
+            "name": "Madhu Rani",
+            "email": "madhurani1205@gmail.com",
+            "image": "19.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, MySQL, HTML/CSS, JavaScript, ReactJS",
+            "linkedin": "https://www.linkedin.com/in/madhu-rani-b86a991bb/"
+        },
+        {
+            "id": 20,
+            "name": "Manish Kumar",
+            "email": "manishkumarnit3@gmail.com",
+            "image": "20.jpg",
+            "highQual": "BCA",
+            "skills": "Python, C++, HTML/CSS, Javascript, Bootstrap, ReactJS, Webscraping, OracleSQL",
+            "linkedin": "https://www.linkedin.com/in/manish-kumar-357529214/"
+        },
+        {
+            "id": 21,
+            "name": "Mantasha Perween",
+            "email": "mantasha0105@gmail.com",
+            "image": "21.jpg",
+            "highQual": "BSc (Hons) Mathematics",
+            "skills": "C/C++, Python, Java(Core), SQL, HTML/CSS, Javascript, Adobe InDesign",
+            "linkedin": "https://www.linkedin.com/in/mantasha-perween"
+        },
+        {
+            "id": 22,
+            "name": "Md Kamran Ansari",
+            "email": " md2101139@st.jmi.ac.in",
+            "image": "22.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Java, Python, MERN stack, SQL",
+            "linkedin": "https://www.linkedin.com/in/md-kamran-ansari-96129b230/"
+        },
+        {
+            "id": 23,
+            "name": "Md Tabrez",
+            "email": "mdtabrezanwar455@gmail.com",
+            "image": "23.jpg",
+            "highQual": "BSc (Hons) Mathematics",
+            "skills": "C/C++, Python, OracleSQL",
+            "linkedin": "https://www.linkedin.com/in/md-tabrez-77b976220"
+        },
+        {
+            "id": 24,
+            "name": "Mirza Adnan Beg",
+            "email": "mirzaadnanbeg9@gmail.com",
+            "image": "24.jpg",
+            "highQual": "BSc",
+            "skills": "C++, MERN Stack, SQL",
+            "linkedin": "https://www.linkedin.com/in/mirza-adnan-beg-6b63a1185"
+        },
+        {
+            "id": 25,
+            "name": "Mohammad Amaan Sharif ",
+            "email": "mamaansharif@gmail.com",
+            "image": "25.jpg",
+            "highQual": "BSc (Hons) Mathematics",
+            "skills": "C/C++, Python, R, HTML/CSS, JavaScript, MERN stack, Bootstrap, PugJS, MaterialUI, OracleSQL, LaTeX, MS Excel",
+            "linkedin": "https://www.linkedin.com/in/mohammad-amaan-sharif/"
+        },
+        {
+            "id": 26,
+            "name": "Mohammad Aman",
+            "email": "m.ansari9044@gmail.com",
+            "image": "26.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Java, SQL",
+            "linkedin": "https://www.linkedin.com/in/decentthinker"
+        },
+        {
+            "id": 27,
+            "name": "Mohammad Shafi Shah",
+            "email": "arifamin01041997@gmail.com",
+            "image": "27.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, SQL, Python, HTML/CSS",
+            "linkedin": "https://www.linkedin.com/in/shafi-shah-55a644219"
+        },
+        {
+            "id": 28,
+            "name": "Mohd Abid",
+            "email": "abid020798@gmail.com",
+            "image": "28.jpg",
+            "highQual": "PGDCA + BSc",
+            "skills": "C/C++, HTML/CSS, Javascript, MySQL",
+            "linkedin": "https://www.linkedin.com/in/mohd-abid-739368210/"
+        },
+        {
+            "id": 29,
+            "name": "Mohd Noman Ali",
+            "email": "noman.ali1129@gmail.com",
+            "image": "29.jpg",
+            "highQual": "BCA",
+            "skills": "Java, PL/SQL, C++, Python",
+            "linkedin": "https://in.linkedin.com/in/mohd-noman-ali-271577174"
+        },
+        {
+            "id": 30,
+            "name": "Mohd Zeeshan",
+            "email": "zqik8899@gmail.com",
+            "image": "30.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "C /C++, HTML/CSS , JavaScript, Python, SQL",
+            "linkedin": "https://www.linkedin.com/in/mohd-zeeshan-8b7a14226/"
+        },
+        {
+            "id": 31,
+            "name": "Mukesh Singh",
+            "email": "singhmukesh597@gmail.com",
+            "image": "31.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "C++, Python, Software Testing",
+            "linkedin": "nan"
+        },
+        {
+            "id": 32,
+            "name": "Musaib Muneer",
+            "email": "musaibahmed129@gmail.com ",
+            "image": "32.jpg",
+            "highQual": "BCA",
+            "skills": "C++, OracleSQL, HTML/CSS, JavaScript",
+            "linkedin": "https://www.linkedin.com/in/musaib-muneer-529132206"
+        },
+        {
+            "id": 33,
+            "name": "Naba Begum",
+            "email": "naba.begum@gmail.com",
+            "image": "33.jpg",
+            "highQual": "PGDCA + BCA",
+            "skills": "C/C++, Core Java, HTML/CSS, JavaScript, MySQL",
+            "linkedin": "https://www.linkedin.com/in/naba08/"
+        },
+        {
+            "id": 34,
+            "name": "Nadra Ibrahim ",
+            "email": "syednadraibrahim@gmail.com",
+            "image": "34.jpg",
+            "highQual": "PGDCA + BSc Mathematics",
+            "skills": "C/C++, Python, OracleSQL, PL/SQL, Linux, VB.NET",
+            "linkedin": "https://www.linkedin.com/in/nadra-ibrahim-b567b2220"
+        },
+        {
+            "id": 35,
+            "name": "Narendra Kumar",
+            "email": "narendrakr9870@gmail.com",
+            "image": "35.jpg",
+            "highQual": "BCA",
+            "skills": "C++, HTML/CSS, JavaScript, ReactJS, Oracle PL/SQL",
+            "linkedin": "https://www.linkedin.com/in/narendra-kumar-47068a229/"
+        },
+        {
+            "id": 36,
+            "name": "Navneet Varshney",
+            "email": "nv.vars23@gmail.com",
+            "image": "36.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "Java, C, Python, HTML/CSS, JavaScript, PHP, MySQL, Flutter and Dart, Git, Firebase",
+            "linkedin": "https://www.linkedin.com/in/navarshney-2310"
+        },
+        {
+            "id": 37,
+            "name": "Prajjwal Tripathi",
+            "email": "prajjwaltripathi450@gmail.com",
+            "image": "37.jpg",
+            "highQual": "BSc Mathematics and Statistics",
+            "skills": "C++, SQL, HTML, CSS",
+            "linkedin": "https://www.linkedin.com/in/prajjwal-tripathi-aa3b96201/"
+        },
+        {
+            "id": 38,
+            "name": "Prakhar",
+            "email": "mprakhar453@gmail.com ",
+            "image": "38.jpg",
+            "highQual": "BCA",
+            "skills": "C++, SQL, Python, HTML/CSS",
+            "linkedin": "https://www.linkedin.com/in/prakhar-621bb6145"
+        },
+        {
+            "id": 39,
+            "name": "Rahil Noor Khan",
+            "email": "rahilnoor258@gmail.com",
+            "image": "39.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "Java, C/C++, HTML/CSS, JavaScript, SQL, ReactJS",
+            "linkedin": "https://www.linkedin.com/in/rahil-noor-khan-3001411b0"
+        },
+        {
+            "id": 40,
+            "name": "Remya Nair",
+            "email": "remyanair.nair91@gmail.com",
+            "image": "40.jpg",
+            "highQual": "PGD Cyber Crime and Law + BSc (Hons) Computer Science",
+            "skills": "C/C++, Python, OracleSQL ",
+            "linkedin": "https://www.linkedin.com/in/remya-nair-76a99a186/"
+        },
+        {
+            "id": 41,
+            "name": "Ritu Raj",
+            "email": "rituraj42819@gmail.com",
+            "image": "41.jpg",
+            "highQual": "BSc IT",
+            "skills": "C/C++, Java, Python, HTML/CSS, JavaScript, ReactJS, MongoDB",
+            "linkedin": "https://www.linkedin.com/in/ritu-raj-4662b4171"
+        },
+        {
+            "id": 42,
+            "name": "Satyam Mishra",
+            "email": "dev.sam1210@gmail.com",
+            "image": "42.jpg",
+            "highQual": "BCA",
+            "skills": "Javascript (ES6), C++, HTML/CSS, React, PHP, SQL, PL/SQL, OpenGL, Express JS, MongoDB, Material UI, GODOT Engine",
+            "linkedin": "https://www.linkedin.com/in/satyammishra1210/"
+        },
+        {
+            "id": 43,
+            "name": "Shayan Khan ",
+            "email": "skshayankhan007@gmail.com",
+            "image": "43.jpg",
+            "highQual": "BSc  ",
+            "skills": "C/C++, C#, Python, SQL",
+            "linkedin": "https://www.linkedin.com/in/shayan-khan-0b01a2226/"
+        },
+        {
+            "id": 44,
+            "name": "Sheerin Bakhtiyar",
+            "email": "sheerin2720@gmail.com",
+            "image": "44.jpg",
+            "highQual": "BSc Physical Science with C.S.",
+            "skills": "C, Java",
+            "linkedin": "https://www.linkedin.com/in/sheerin-bakhtiyar-123233193"
+        },
+        {
+            "id": 45,
+            "name": "Shraddha Kashyap ",
+            "email": "shraddhakashyap1310@gmail.com",
+            "image": "45.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Python, HTML/CSS, JavaScript, ReactJS, SQL, Adobe Indesign",
+            "linkedin": "http://www.linkedin.com/in/shraddha-kashyap-4b1ab9193"
+        },
+        {
+            "id": 46,
+            "name": "Syed Intezar Hussain",
+            "email": "hussainsyedintez@gmail.com",
+            "image": "46.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Java(Core), SQL, Oracle PL/SQL, HTML/CSS",
+            "linkedin": "https://www.linkedin.com/in/syed-intezar-hussain-02046818a"
+        },
+        {
+            "id": 47,
+            "name": "Umme Habiba ",
+            "email": "ummehabiba9334@gmail.com",
+            "image": "47.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Python, HTML/CSS, Javascript, Adobe Indesign, SQL",
+            "linkedin": "https://www.linkedin.com/in/umme-habiba-ab8718171"
+        },
+        {
+            "id": 48,
+            "name": "Vinit Bhat",
+            "email": "99.bhatvinit@gmail.com",
+            "image": "48.jpg",
+            "highQual": "BSc (Hons) C.S.",
+            "skills": "Python, Jmeter, Cypress, Appium, IoT, Azure/ AWS / Amazon Cloud Services for VMs, Automated Bash / Batch Scripting, Jenkins, Docker, SQL, Spring Boot, React, Android kernel and system porting",
+            "linkedin": "https://www.linkedin.com/in/bhatsahab"
+        },
+        {
+            "id": 49,
+            "name": "Vipin Kumar",
+            "email": "vipin1111999@gmail.com",
+            "image": "49.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++",
+            "linkedin": "https://www.linkedin.com/in/vipin-kumar-0307b5237"
+        },
+        {
+            "id": 50,
+            "name": "Vishal Pandey",
+            "email": "vispan26@gmail.com",
+            "image": "50.jpg",
+            "highQual": "BCA",
+            "skills": "C/C++, Java (Core), Python, HTML/CSS, JavaScript, NodeJS, ReactJS, MongoDB, DApps, MySQL, OracleSQL, Android Studio, MS Office",
+            "linkedin": "https://www.linkedin.com/in/vishal-pandey26"
+        },
+        {
+            "id": 51,
+            "name": "Zainab Farhan",
+            "email": "zainab2106410@st.jmi.ac.in",
+            "image": "51.jpg",
+            "highQual": "BSc (Hons) Physics",
+            "skills": "C/C++, SQL, Java, Python",
+            "linkedin": "https://www.linkedin.com/in/zainab-farhan-4702321a9"
+        },
+        {
+            "id": 52,
+            "name": "Zubair Ahmad",
+            "email": "imzubair.zbr@gmail.com",
+            "image": "52.jpg",
+            "highQual": "BSc (Hons) Mathematics",
+            "skills": "C/C++, SQL",
+            "linkedin": "https://www.linkedin.com/in/zubair-ahmad-677517226"
+        }
+    ]
+}
