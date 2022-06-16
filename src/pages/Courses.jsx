@@ -15,7 +15,6 @@ export default function Courses(props) {
     const images = importAll(require.context("../images/course", false, /\.(png|jpe?g|svg)$/));
     const CoursesElements = [];
     const CurriculumElements = [];
-    
     for (let course in CourseData) {
         CoursesElements.push(
             <div className="CourseContainer" key={CourseData[course].FullName}>
@@ -23,19 +22,19 @@ export default function Courses(props) {
                 <div className="CourseInfo">
                     <div className="CourseHead">{CourseData[course].FullName}</div>
                     <div className="CourseDetails">{CourseData[course].Summary}</div>
-                    <div className="CourseCaption">
-                        <div className="CaptionItem">
-                            <img src={durationIco} alt="duration" className="CaptionItemIcon" />
-                            <h4>{CourseData[course].Duration}</h4>
-                        </div>
-                        <div className="CaptionItem">
-                            <img src={typeIco} alt="duration" className="CaptionItemIcon" />
-                            <h4>{CourseData[course].Type}</h4>
-                        </div>
-                        <div className="CaptionItem">
-                            <img src={specializationIco} alt="duration" className="CaptionItemIcon" />
-                            <h4>{CourseData[course].Specialization}</h4>
-                        </div>
+                </div>
+                <div className="CourseCaption">
+                    <div className="CaptionItem">
+                        <img src={durationIco} alt="duration" className="CaptionItemIcon" />
+                        <h4>{CourseData[course].Duration}</h4>
+                    </div>
+                    <div className="CaptionItem">
+                        <img src={typeIco} alt="duration" className="CaptionItemIcon" />
+                        <h4>{CourseData[course].Type}</h4>
+                    </div>
+                    <div className="CaptionItem">
+                        <img src={specializationIco} alt="duration" className="CaptionItemIcon" />
+                        <h4>{CourseData[course].Specialization}</h4>
                     </div>
                 </div>
             </div>

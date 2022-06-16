@@ -35,7 +35,8 @@ export default function PDFViewer({ fileLink, visible, onHide }) {
             fontSize: '1.5em',
             outline: 'none',
             border: 'none',
-            borderRadius: '5px'
+            borderRadius: '5px',
+            cursor: 'pointer'
         }
     }
 

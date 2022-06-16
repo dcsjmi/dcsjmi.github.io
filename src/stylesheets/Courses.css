@@ -3,7 +3,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: stretch;
 }
 
 .CourseContainer {
@@ -26,8 +26,6 @@
     font-weight: 700;
     padding: 10px;
 }
-
-
 
 .CourseDetails {
     padding: 20px;
@@ -69,7 +67,7 @@
 
 .CourseSlideHolder {
     height: 580px !important;
-    width: calc(100vw - 200px) !important;
+    width: calc(100vw - 210px) !important;
 }
 
 .CourseSlideContainer {
@@ -87,7 +85,7 @@
     position: relative;
     top: -25px;
     left: 3px;
-    background: #5c5cff;
+    background: #09526f;
     border-radius: 20px;
     font-size: 1.5em;
     color: white;
@@ -118,6 +116,7 @@
 @media only screen and (max-width: 1080px) {  
     .CoursesList {
         flex-direction: column;
+        align-items: center;
     }
     
     .CourseContainer {
