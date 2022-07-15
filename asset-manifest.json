@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.128839ea.css",
-    "main.js": "/static/js/main.e9967e52.js",
+    "main.js": "/static/js/main.de97d53f.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
     "static/media/Swiper_2.jpg": "/static/media/Swiper_2.17f91b910353e9e38976.jpg",
     "static/media/mca.jpg": "/static/media/mca.221d34cb74153473e71d.jpg",
@@ -115,10 +115,10 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
     "main.128839ea.css.map": "/static/css/main.128839ea.css.map",
-    "main.e9967e52.js.map": "/static/js/main.e9967e52.js.map"
+    "main.de97d53f.js.map": "/static/js/main.de97d53f.js.map"
   },
   "entrypoints": [
     "static/css/main.128839ea.css",
-    "static/js/main.e9967e52.js"
+    "static/js/main.de97d53f.js"
   ]
 }
