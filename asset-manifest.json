@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bd451da6.css",
-    "main.js": "/static/js/main.53eae5f7.js",
+    "main.js": "/static/js/main.95a1bf79.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
     "static/media/Swiper_2.jpg": "/static/media/Swiper_2.17f91b910353e9e38976.jpg",
     "static/media/mca.jpg": "/static/media/mca.221d34cb74153473e71d.jpg",
@@ -72,7 +72,7 @@
     "static/media/36.jpg": "/static/media/36.15c6680e184659cde5dc.jpg",
     "static/media/20.jpg": "/static/media/20.4dc4f5544dc048e70ced.jpg",
     "static/media/32.jpg": "/static/media/32.79406ab5716cd159f457.jpg",
-    "static/media/33.jpg": "/static/media/33.5a0b847c683df8f75f9d.jpg",
+    "static/media/33.jpg": "/static/media/33.a082f8e8ceb5aef21e8d.jpg",
     "static/media/21.jpg": "/static/media/21.090b9e89b2da5f990d59.jpg",
     "static/media/uni commerce logo.png": "/static/media/uni commerce logo.8124dd8f611e359c7077.png",
     "static/media/39.jpg": "/static/media/39.b4aeb99944dc9645f5d0.jpg",
@@ -115,10 +115,10 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
     "main.bd451da6.css.map": "/static/css/main.bd451da6.css.map",
-    "main.53eae5f7.js.map": "/static/js/main.53eae5f7.js.map"
+    "main.95a1bf79.js.map": "/static/js/main.95a1bf79.js.map"
   },
   "entrypoints": [
     "static/css/main.bd451da6.css",
-    "static/js/main.53eae5f7.js"
+    "static/js/main.95a1bf79.js"
   ]
 }
