@@ -1,3 +1,36 @@
+.SearchBarHolder {
+    width: 100%;
+    text-align: right;
+}
+
+.SearchBar {
+    margin: 10px 40px 10px 0px;
+    width: 300px;
+    padding: 10px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid #002a38;
+    font-size: 1.2em;
+    background-color: #0a546b;
+    color: white;
+}
+
+.SearchBar:focus {
+    outline: none;
+}
+
+.SearchBar::placeholder {
+    color: rgb(255, 255, 255);
+}
+
+.NoResults {
+    color: red;
+    font-size: 30px;
+    height: 200px;
+    margin-top: 80px;
+}
+
+
 .StudentProfilesBody {
     padding: 10px 50px;
 }
@@ -127,6 +160,19 @@
 }
 
 @media only screen and (max-width: 1080px){
+    .SearchBarHolder {
+        text-align: center;
+    }
+    
+    .SearchBar {
+        margin: 10px;
+        width: calc(100% - 30px);
+        padding: 5px;
+        height: 30px;
+        border-radius: 8px;
+        font-size: 1.0em;
+    }
+
     .StudentProfilesBody {
         padding: 10px;
     }
