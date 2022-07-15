@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd451da6.css",
-    "main.js": "/static/js/main.95a1bf79.js",
+    "main.css": "/static/css/main.128839ea.css",
+    "main.js": "/static/js/main.f3e14963.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
     "static/media/Swiper_2.jpg": "/static/media/Swiper_2.17f91b910353e9e38976.jpg",
     "static/media/mca.jpg": "/static/media/mca.221d34cb74153473e71d.jpg",
@@ -114,11 +114,11 @@
     "static/media/contributors.png": "/static/media/contributors.6917fcd0f0c023ec3ed1.png",
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
-    "main.bd451da6.css.map": "/static/css/main.bd451da6.css.map",
-    "main.95a1bf79.js.map": "/static/js/main.95a1bf79.js.map"
+    "main.128839ea.css.map": "/static/css/main.128839ea.css.map",
+    "main.f3e14963.js.map": "/static/js/main.f3e14963.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd451da6.css",
-    "static/js/main.95a1bf79.js"
+    "static/css/main.128839ea.css",
+    "static/js/main.f3e14963.js"
   ]
 }
