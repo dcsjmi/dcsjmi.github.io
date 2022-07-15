@@ -242,13 +242,13 @@ function PlacementTeam() {
             <div className="PlacementCoordinatorContainer">
                 {ContributorElement("MCA")}
             </div>
-            {/*<div className="subheading-container">
+            <div className="subheading-container">
                 <h2>MSc Bioinformatics</h2>
                 <div className="subheading-border"></div>
             </div>
             <div className="PlacementCoordinatorContainer">
                 {ContributorElement("MSC")}
-            </div>*/}
+            </div>
         </div>
     );
 }

@@ -53,6 +53,7 @@
 }
 
 .StudentName {
+    text-transform: capitalize;
     font-size: 1.6em; 
     font-weight: 800;
     color: #0d5f79;
@@ -62,6 +63,7 @@
 {
     font-size: 1.3em; 
     font-weight: 500;
+    text-transform: capitalize;
     color: #439ab4;
     margin: 0px 10px 10px;
 }
@@ -69,6 +71,7 @@
 .StudentSkills {
     margin: 10px;
     padding: 10px;
+    text-transform: capitalize;
     background-color: rgb(157, 206, 250);
     border-radius: 10px;
 }

@@ -13,8 +13,8 @@ const container = {
         opacity: 1,
         scale: 1,
         transition: {
-            delayChildren: 0.1,
-            staggerChildren: 0.15
+            delayChildren: 0.025,
+            staggerChildren: 0.05
         }
     }
 };
@@ -28,16 +28,21 @@ const item = {
 };
 
 export default function Student(props) {
-    const images = importAll(require.context("../data/profiles_mca/", false, /\.(png|jpe?g|svg)$/));
+    
+    const images = {
+        "Master of Computer Application": importAll(require.context("../data/profiles_mca/", false, /\.(png|jpe?g|svg)$/)),
+        "Master of Science Bioinformatics": importAll(require.context("../data/profiles_msc/", false, /\.(png|jpe?g|svg)$/))
+    };
 
     const AllStudentsElements = []
     for (let course in StudentsData) {
+        console.log(course)
         const CourseStudentElements = []
         for (let student of StudentsData[course]) {
             CourseStudentElements.push(
                 <motion.div className="StudentCard" key={student.name} variants={item}>
                     <div className="StudentImageContainer">
-                        <img src={images[student.image]} alt={student.name} className='StudentImage' />
+                        <img src={images[course][student.image]} alt={student.name} className='StudentImage' />
                         <div className="ImageCurve"></div>
                     </div>
                     <div className="StudentDetailsBody">
