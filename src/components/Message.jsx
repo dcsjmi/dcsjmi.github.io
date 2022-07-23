@@ -180,7 +180,7 @@ export default function Message() {
                                 <div className="contact">
                                     <span>
                                         <i className="fa-solid fa-envelope"></i>
-                                        <a href="mailto:sjabin@gmail.com">sjabin@gmail.com</a>
+                                        <a href="mailto:sjabin@jmi.ac.in">sjabin@jmi.ac.in</a>
                                     </span>
                                 </div>
                             </div>
