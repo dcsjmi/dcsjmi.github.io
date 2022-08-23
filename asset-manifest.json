@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.128839ea.css",
-    "main.js": "/static/js/main.a84e2dd5.js",
+    "main.js": "/static/js/main.fa96de5b.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
-    "static/media/Swiper_2.jpg": "/static/media/Swiper_2.17f91b910353e9e38976.jpg",
-    "static/media/mca.jpg": "/static/media/mca.221d34cb74153473e71d.jpg",
     "static/media/msc.jpg": "/static/media/msc.a736e30f25e83e9f103b.jpg",
-    "static/media/Swiper_3.jpg": "/static/media/Swiper_3.be508cc69d758315096b.jpg",
-    "static/media/Swiper_5.jpg": "/static/media/Swiper_5.ff6416e17b687531882e.jpg",
+    "static/media/Swiper_0.jpg": "/static/media/Swiper_0.4b61f7d9e0e8c8ee80ec.jpg",
+    "static/media/mca.jpg": "/static/media/mca.221d34cb74153473e71d.jpg",
+    "static/media/Swiper_3.jpg": "/static/media/Swiper_3.6c2abb16834e7dc1f1d1.jpg",
+    "static/media/Swiper_9.jpg": "/static/media/Swiper_9.be508cc69d758315096b.jpg",
+    "static/media/Swiper_10.jpg": "/static/media/Swiper_10.ff6416e17b687531882e.jpg",
     "static/media/card_4.jpg": "/static/media/card_4.4469a461ddd2892e3bff.jpg",
+    "static/media/Swiper_5.jpg": "/static/media/Swiper_5.2611cb9cf364ecb1add3.jpg",
     "static/media/Swiper_7.jpg": "/static/media/Swiper_7.d587c3491c097dea218f.jpg",
     "static/media/card_3.jpg": "/static/media/card_3.adc91d9cd8e732cad8e0.jpg",
-    "static/media/Swiper_4.jpg": "/static/media/Swiper_4.82ae709063683b87233c.jpg",
+    "static/media/Swiper_8.jpg": "/static/media/Swiper_8.b7db916706ca1e5083fc.jpg",
+    "static/media/Swiper_4.jpg": "/static/media/Swiper_4.a8cf1f6d615164d51b56.jpg",
     "static/media/Swiper_1.jpg": "/static/media/Swiper_1.751a79998845d5e76df8.jpg",
-    "static/media/Swiper_8.jpg": "/static/media/Swiper_8.812fd6649e078390b050.jpg",
     "static/media/Swiper_6.jpg": "/static/media/Swiper_6.33869362dca8b849c2ae.jpg",
-    "static/media/Swiper_0.jpg": "/static/media/Swiper_0.25a76fef3d65741c8b43.jpg",
+    "static/media/Swiper_2.jpg": "/static/media/Swiper_2.25a76fef3d65741c8b43.jpg",
     "static/media/card_1.jpg": "/static/media/card_1.a55bdbacc2488234236a.jpg",
     "static/media/card_1_mobile.jpg": "/static/media/card_1_mobile.3af10eea7b27f3300a5e.jpg",
     "static/media/hod2.jpg": "/static/media/hod2.bf9cfadcfb22a8f7596e.jpg",
@@ -115,10 +117,10 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
     "main.128839ea.css.map": "/static/css/main.128839ea.css.map",
-    "main.a84e2dd5.js.map": "/static/js/main.a84e2dd5.js.map"
+    "main.fa96de5b.js.map": "/static/js/main.fa96de5b.js.map"
   },
   "entrypoints": [
     "static/css/main.128839ea.css",
-    "static/js/main.a84e2dd5.js"
+    "static/js/main.fa96de5b.js"
   ]
 }
