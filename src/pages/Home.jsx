@@ -71,7 +71,7 @@ export default function Home(props) {
     ]
 
     const slides = []
-    const numSlides = 9;
+    const numSlides = 11;
     const awardsElement = []
     const CounterElemets = []
     const DashboardElements = []
