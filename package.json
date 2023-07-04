@@ -2,7 +2,7 @@
   "name": "dcsjmi",
   "version": "1.0.2",
   "private": true,
-  "homepage": "https://dcsjamia.in/",
+  "homepage": "https://dcsjamia.in/batch2023",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -11,7 +11,6 @@
     "chartjs-plugin-datalabels": "^2.0.0",
     "color-hash": "^2.0.1",
     "framer-motion": "^6.3.3",
-    "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-chartjs-2": "^4.1.0",
     "react-countup": "^6.2.0",
@@ -57,5 +56,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dcsjmi/dcsjmi.github.io/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
