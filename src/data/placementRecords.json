@@ -1,4 +1,9 @@
 {
+   "2023" : {
+        "Companies": ["CNH Industrial","Amantya Tech","MAQ Software","NashTech (Knoldus)","LongShortLabs","TCS: Digital","Freecharge","PaperPedia","VectoScalar","Incedo","ThinkFuture Tech","BigOh Tech","VECV Volve","Innovation Teams","EXL","TCS: Ninja"],
+        "PackageOffered": ["8","8","7.5","7.5","7.5","7.3","6","6","6","5.55","5.5","5.5","4.8","4.5","4","3.53"],
+        "TotalOffers" : "33"
+    },
     "2022" : {
         "Companies": ["Big Oh", "BITCS", "Byjus", "Ciena", "CronJ", "Dhwani", "EXL Analytics", "Finmapp", "Hexaview", "Hexaview ", "Hexaview ", "IBM", "Impectus", "Josh Talks", "Josh Technology Group (FED)", "Josh Technology Group (SDE)", "Krishworks", "Msys Technologies ", "Optum", "Orgzit", "Plaxonic", "TCS", "Techtree", "Think Future Technologies", "To The New", "VectoScalar", "Vinove", "Xceedance", "XenonStack", "Zenon Analytics"],
         "PackageOffered": ["5.0", "8.0", "6.0", "13.66", "4.5", "6.0", "4.0", "4.5", "5.0", "7.0", "9.0", "4.25", "5.0", "8.0", "8.7", "9.8", "4.8", "4.0", "15.39", "9.0", "4.0", "7.3", "4.0", "5.5", "4.5", "6.0", "4.1", "4.5", "5.5", "12.0"],
