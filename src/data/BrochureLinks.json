@@ -1,12 +1,7 @@
 {
     "Master of Computer Application" : {
-        "Batch": "2023",
-        "Link": "https://drive.google.com/file/d/1Pi4jmeOn2UCsM-iVd61oC2euLn3UOULn/preview",
+        "Batch": "2024",
+        "Link": "https://drive.google.com/file/d/1V7fPesq_S2keiqvGDD2AgODJsJ9mkF7H/preview",
         "Image": "mca.png"
-    },
-    "Master of Science Bioinformatics" : {
-        "Batch": "2023",
-        "Link": "https://drive.google.com/file/d/1VP-rVfeCZQxwwAuo6BR1PTJxeekQjp2E/preview",
-        "Image": "msc.jpg"
     }
 }

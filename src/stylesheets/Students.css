@@ -59,6 +59,9 @@
     border-radius: 20px 20px 0px 0px;
     background-color: #074153;
     z-index: 1;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .ImageCurve {
@@ -71,13 +74,16 @@
     z-index: -1;
     
 }
-
-.StudentImage {
+.StudentImageWrapper{
     margin-top: 20px;
     width: 200px;
     height: 200px;
     border-radius: 100px;
     border: 3px solid #0377a5;
+    overflow: hidden;
+}
+.StudentImage {
+    width: 200px
 }
 
 .StudentDetailsBody {

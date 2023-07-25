@@ -49,9 +49,10 @@ export default function Home(props) {
 
     const awards = [
         { rank: 'NAAC A++', caption: 'Score 3.61, NAAC 2021 Cycle 2' },
-        { rank: '6th', caption: 'among the universities in India, NIRF 2021' },
+        { rank: '3rd', caption: 'among the universities in India, NIRF 2023' },
         { rank: '438th', caption: 'among world\'s top 1300 universities, RUR 2021' },
-        { rank: '601-800', caption: 'World University Ranking, THE 2022' }];
+        { rank: '501-600', caption: 'World University Ranking, THE 2023' },
+        { rank: '301-400', caption:'Computer Science Ranking, THE 2022'}];
     const Counters = [
         { count: 250, title: 'Courses', suffix: false, duration: 2.0, delay: 0.1 },
         { count: 10, title: 'Faculties', suffix: false, duration: 2.0, delay: 0.1 },

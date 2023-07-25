@@ -43,7 +43,7 @@
     border: 2px solid rgb(49, 49, 49);
 }
 
-.MessageForm input[type='submit'] {
+.MessageForm input[type='submit'],.MessageForm button {
     cursor:pointer;
     display: block;
     margin: 10px auto;
@@ -56,10 +56,15 @@
     outline: none;
 }
 
-.MessageForm input[type='submit']:hover {
+.MessageForm input[type='submit']:hover,.MessageForm button:hover {
     transform: scale(1.05);
 }
-
+.error{
+    color:red
+}
+.success{
+    color:green
+}
 @media only screen and (max-width: 1080px) {
     .ContactsContainer {
         padding: 20px;

@@ -81,7 +81,7 @@ function PlacementStats() {
         animation: { delay: 0, duration: 2000 },
         plugins: {
             legend: { position: 'bottom', labels: { color: "rgb(10,10,10)", font: { size: 12 } }, onClick: function (e) { e.stopPropagation(); } },
-            title: { display: true, text: 'Salary Offered in Last 5 Years', color: '#09526f', font: { size: 20 } },
+            title: { display: true, text: 'Salary Offered in Last 6 Years', color: '#09526f', font: { size: 20 } },
             datalabels: {
                 display: true, anchor: 'end', clamp: true, align: 'start', offset: -5, padding: 10, backgroundColor: '#ffffff00', color: "white", font: { size: 10, },
             },
@@ -242,13 +242,15 @@ function PlacementTeam() {
             <div className="PlacementCoordinatorContainer">
                 {ContributorElement("MCA")}
             </div>
-            <div className="subheading-container">
+            {
+            /* <div className="subheading-container">
                 <h2>MSc Bioinformatics</h2>
                 <div className="subheading-border"></div>
             </div>
             <div className="PlacementCoordinatorContainer">
                 {ContributorElement("MSC")}
-            </div>
+            </div> */
+           }
         </div>
     );
 }

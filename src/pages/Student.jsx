@@ -38,7 +38,9 @@ function StudentCard(props) {
     return (
         <motion.div className="StudentCard" key={props.student.name} variants={item}>
             <div className="StudentImageContainer">
-                <img src={images[props.course][props.student.image]} alt={props.student.name} className='StudentImage' />
+                <div className='StudentImageWrapper'>
+                    <img src={images[props.course][props.student.image]} alt={props.student.name} className='StudentImage' />
+                </div>
                 <div className="ImageCurve"></div>
             </div>
             <div className="StudentDetailsBody">
