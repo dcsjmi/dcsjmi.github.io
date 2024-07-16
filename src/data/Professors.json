@@ -1,106 +1,106 @@
 [
-    {
-        "Name": "Dr. Monica Mehrotra",
-        "Image": "dr_monica.jpg",
-        "Designation": "Professor (MCA, PhD)",
-        "Experience": "24",
-        "Specialization": "Data Mining, Social Network Analysis and Information Retrieval",
-        "SpecialDesignation": "Head of The Department"
-    },
-    {
-        "Name": "Dr. SMK Quadri",
-        "Image": "dr_quadri.jpg",
-        "Designation": "Professor (M.Tech, PhD)",
-        "Experience": "30",
-        "Specialization": "Software Reliability engineering,Software testing and Software engineering",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Syed Afzal Murtaza Rizvi",
-        "Image": "dr_rizvi.jpg",
-        "Designation": "Professor (MSc, PhD)",
-        "Experience": "30+",
-        "Specialization": "Software Engineering, Automation,Algorithms and Bio-Informatics",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Khurram Mustafa",
-        "Image": "dr_kmustafa.jpg",
-        "Designation": "Professor (MSc, M.Tech, PhD)",
-        "Experience": "21",
-        "Specialization": "E-Learning,Software Engineering and Software Security",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Suraiya Jabin",
-        "Image": "dr_suraiya.jpg",
-        "Designation": "Professor (MCA, PhD)",
-        "Experience": "16",
-        "Specialization": "Artificial Intelligence, Soft Computing,Biometrics, Computational Biology and Pattern Recognition",
-        "SpecialDesignation": "Teacher Placement Coordinator"
-    },
-    {
-        "Name": "Dr. Mohammad Nazir",
-        "Image": "dr_nazir.jpg",
-        "Designation": "Professor (MCA, PhD)",
-        "Experience": "21",
-        "Specialization": "Engineering,Software Security and Software Quality Assurance",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Rafat Parveen",
-        "Image": "dr_rafat.jpg",
-        "Designation": "Associate Professor (MTech, PhD)",
-        "Experience": "19",
-        "Specialization": "Bio-Informatics - System Biology and Computional Biology, Computer Networks",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Syed Zeeshan Husain",
-        "Image": "dr_zeeshan.jpg",
-        "Designation": "Associate Professor (MCA, PhD)",
-        "Experience": "18",
-        "Specialization": "Computer Networks and Security",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Rajendra Kumar",
-        "Image": "dr_rajendra.jpg",
-        "Designation": "Professor (MCA, PhD)",
-        "Experience": "17",
-        "Specialization": "Information Security, Network Security,WebApp Security and Data Analytics",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Mansaf Alam",
-        "Image": "dr_mansaf.jpg",
-        "Designation": "Associate Professor (MCA, PhD)",
-        "Experience": "16",
-        "Specialization": "Big Data Analytics and Cloud Computing",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Jahiruddin",
-        "Image": "dr_jahir.jpg",
-        "Designation": "Associate Professor (MCA, PhD)",
-        "Experience": "15",
-        "Specialization": "Text Mining and Social Network Analysis",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Taran Singh Bharti",
-        "Image": "dr_taran.jpg",
-        "Designation": "Assistant Professor (MCA, MTech, UGC-JRF)",
-        "Experience": "10",
-        "Specialization": "Security, Algorithms, Database, Theory of Computation and Distributed Computing",
-        "SpecialDesignation": ""
-    },
-    {
-        "Name": "Dr. Khalid Raza",
-        "Image": "dr_khalid.jpg",
-        "Designation": "Associate Professor (MCA, MPhil, UGC-JRF, PhD)",
-        "Experience": "9",
-        "Specialization": "Soft Computing Techniques, Computational Biology and Machine Learning",
-        "SpecialDesignation": ""
-    }
+  {
+    "Name": "Dr. Monica Mehrotra",
+    "Image": "dr_monica.jpg",
+    "Designation": "Professor (MCA, PhD)",
+    "Experience": "25",
+    "Specialization": "Data Mining, Social Network Analysis and Information Retrieval",
+    "SpecialDesignation": "Head of The Department"
+  },
+  {
+    "Name": "Dr. SMK Quadri",
+    "Image": "dr_quadri.jpg",
+    "Designation": "Professor (M.Tech, PhD)",
+    "Experience": "31",
+    "Specialization": "Software Reliability engineering, Software testing and Software engineering",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Syed Afzal Murtaza Rizvi",
+    "Image": "dr_rizvi.jpg",
+    "Designation": "Professor (MSc, PhD)",
+    "Experience": "31+",
+    "Specialization": "Software Engineering, Automation,Algorithms and Bio-Informatics",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Khurram Mustafa",
+    "Image": "dr_kmustafa.jpg",
+    "Designation": "Professor (MSc, M.Tech, PhD)",
+    "Experience": "22",
+    "Specialization": "E-Learning,Software Engineering and Software Security",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Suraiya Jabin",
+    "Image": "dr_suraiya.jpg",
+    "Designation": "Professor (MCA, PhD)",
+    "Experience": "17",
+    "Specialization": "Artificial Intelligence, Soft Computing,Biometrics, Computational Biology and Pattern Recognition",
+    "SpecialDesignation": "Teacher Placement Coordinator"
+  },
+  {
+    "Name": "Dr. Mohammad Nazir",
+    "Image": "dr_nazir.jpg",
+    "Designation": "Professor (MCA, PhD)",
+    "Experience": "22",
+    "Specialization": "Engineering,Software Security and Software Quality Assurance",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Rafat Parveen",
+    "Image": "dr_rafat.jpg",
+    "Designation": "Associate Professor (MTech, PhD)",
+    "Experience": "20",
+    "Specialization": "Bio-Informatics - System Biology and Computional Biology, Computer Networks",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Syed Zeeshan Husain",
+    "Image": "dr_zeeshan.jpg",
+    "Designation": "Associate Professor (MCA, PhD)",
+    "Experience": "19",
+    "Specialization": "Computer Networks and Security",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Rajendra Kumar",
+    "Image": "dr_rajendra.jpg",
+    "Designation": "Professor (MCA, PhD)",
+    "Experience": "18",
+    "Specialization": "Information Security, Network Security,WebApp Security and Data Analytics",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Mansaf Alam",
+    "Image": "dr_mansaf.jpg",
+    "Designation": "Associate Professor (MCA, PhD)",
+    "Experience": "17",
+    "Specialization": "Big Data Analytics and Cloud Computing",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Jahiruddin",
+    "Image": "dr_jahir.jpg",
+    "Designation": "Associate Professor (MCA, PhD)",
+    "Experience": "16",
+    "Specialization": "Text Mining and Social Network Analysis",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Taran Singh Bharti",
+    "Image": "dr_taran.jpg",
+    "Designation": "Assistant Professor (MCA, MTech, UGC-JRF)",
+    "Experience": "11",
+    "Specialization": "Security, Algorithms, Database, Theory of Computation and Distributed Computing",
+    "SpecialDesignation": ""
+  },
+  {
+    "Name": "Dr. Khalid Raza",
+    "Image": "dr_khalid.jpg",
+    "Designation": "Associate Professor (MCA, MPhil, UGC-JRF, PhD)",
+    "Experience": "10",
+    "Specialization": "Soft Computing Techniques, Computational Biology and Machine Learning",
+    "SpecialDesignation": ""
+  }
 ]
