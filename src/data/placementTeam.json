@@ -1,96 +1,96 @@
 {
-    "Coordinator": {
-        "TPC": [
-            {
-                "Name": "Suraiya Jabin",
-                "Designation": "Professor (MCA, PhD)",
-                "Image": "1.jpg",
-                "Phone": "",
-                "Email": "sjabin@jmi.ac.in",
-                "Linkedin": "https://www.linkedin.com/in/dr-suraiya-jabin-25a814a/"
-            }
-        ]
-    },
-    "MCA": {
-        "Main Team": [
-            {
-                "Name": "Mohd Kaif",
-                "Designation": "SPoC",
-                "Image": "22MCA034.jpg",
-                "Phone": "+91 6394872563",
-                "Email": "smkaif333@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/kaif03"
-            },
-            {
-                "Name": "Anamta Islam",
-                "Designation": "SPoC",
-                "Image": "22MCA011.jpg",
-                "Phone": "+91 9205495147",
-                "Email": "anamtaislam333@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/anamta-islam-769598216/"
-            },
-            {
-                "Name": "Vikas Gupta",
-                "Designation": "SPoC",
-                "Image": "22MCA053.jpeg",
-                "Phone": "+91 7217849334",
-                "Email": "vikasguptavg7550@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/vikasguptajmi"
-            },
-            {
-                "Name": "Zikra Waseem",
-                "Designation": "SPoC",
-                "Image": "22MCA054.jpg",
-                "Phone": "+91 8931068826",
-                "Email": "zikralig21@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/zikrawaseem/"
-            }
-        ],
-        "Support Team": [
-            {
-                "Name": "Rafa Jameel Khan",
-                "Designation": "SPoC",
-                "Image": "22MCA038.jpg",
-                "Phone": "+91 7667627303",
-                "Email": "khanrafa810@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/rafa-khan-60a31b200"
-            }
-        ],
-        "Graphics Team": [
-            {
-                "Name": "FAIZAN HUSAIN",
-                "Designation": "Graphics Designer",
-                "Image": "22MCA021.jpg",
-                "Phone": "+91 7982222471",
-                "Email": "itsmefaizan4@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/faizan-husain-a033791b0"
-            },
-            {
-                "Name": "Saurabh Sharma",
-                "Designation": "Graphics Designer",
-                "Image": "22MCA042.jpg",
-                "Phone": "+91 8077135244",
-                "Email": "sauryuu2001@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/saurabh-sharma-426b621b6"
-            }
-        ],
-        "Web Team": [
-            {
-                "Name": "Usama Husain",
-                "Designation": "Web Developer",
-                "Image": "22MCA052.jpeg",
-                "Phone": "+91 8171475514",
-                "Email": "nhusain34@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/usamacs"
-            },
-            {
-                "Name": "Pragyesh Tiwari",
-                "Designation": "Web Developer",
-                "Image": "22MCA037.jpg",
-                "Phone": "+91 9651446344",
-                "Email": "pragyeshtiwari29@gmail.com",
-                "Linkedin": "https://www.linkedin.com/in/pragyesh-tiwari-a3334a19b"
-            }
-        ]
-    }
+  "Coordinator": {
+    "TPC": [
+      {
+        "Name": "Suraiya Jabin",
+        "Designation": "Professor (MCA, PhD)",
+        "Image": "1.jpg",
+        "Phone": "",
+        "Email": "sjabin@jmi.ac.in",
+        "Linkedin": "https://www.linkedin.com/in/dr-suraiya-jabin-25a814a/"
+      }
+    ]
+  },
+  "MCA": {
+    "Main Team": [
+      {
+        "Name": "Preeti Chib",
+        "Designation": "SPoC",
+        "Image": "23MCA039.jpg",
+        "Phone": "+91 8082645809",
+        "Email": "preeti.chib2015@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/preity-chib"
+      },
+      {
+        "Name": "Danish Laraib",
+        "Designation": "SPoC",
+        "Image": "23MCA012.jpg",
+        "Phone": "+91 8755648697",
+        "Email": "danishlaraib@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/danish-laraib-896042187/"
+      },
+      {
+        "Name": "Aman Jamshed",
+        "Designation": "SPoC",
+        "Image": "23MCA005.jpg",
+        "Phone": "+91 9897072871",
+        "Email": "amanjamshed3@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/aman-jamshed-b63206192"
+      },
+      {
+        "Name": "Gauri Agarwal",
+        "Designation": "SPoC",
+        "Image": "23MCA018.jpg",
+        "Phone": "+91 8881990128",
+        "Email": "gauriagarwal4444@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/gauri-agarwal-8556381b9"
+      }
+    ],
+    "Support Team": [
+      {
+        "Name": "Mohammad Azam",
+        "Designation": "SPoC",
+        "Image": "23MCA029.jpg",
+        "Phone": "+91 8882105465",
+        "Email": "azam.ame2021@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/mohammad-azam22/"
+      }
+    ],
+    "Graphics Team": [
+      {
+        "Name": "Mohsin Zaki",
+        "Designation": "Graphics Designer",
+        "Image": "23MCA033.jpg",
+        "Phone": "+91 9310359042",
+        "Email": "mohsinzaki07@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/mohsin-z-2130b2237"
+      },
+      {
+        "Name": "Prashant Gupta",
+        "Designation": "Graphics Designer",
+        "Image": "23MCA038.jpg",
+        "Phone": "+91 6291134807",
+        "Email": "prashantxgupta007@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/prashant-gupta-08a51a206"
+      }
+    ],
+    "Web Team": [
+      {
+        "Name": "Deepanshu",
+        "Designation": "Web Developer",
+        "Image": "23MCA014.jpg",
+        "Phone": "+91 9588727249",
+        "Email": "reeucq@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/reeucq"
+      },
+      {
+        "Name": "Dhaif Allah Omar",
+        "Designation": "Web Developer",
+        "Image": "23MCA016.jpg",
+        "Phone": "+91 9821504367",
+        "Email": "omardhaif3@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/dhaif-omar"
+      }
+    ]
+  }
 }

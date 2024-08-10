@@ -1,21 +1,22 @@
 {
-    "Teacher Placement Coordinator":[{
-        "name": "Suraiya Jabin",
-        "mail": "sjabin@jmi.ac.in",
-        "phone": "",
-        "designation": "Teacher Placement Coordinator"
-      }]
-    ,
-    "M.C.A. SPoC": [
-      {
-        "name": "Mohd Kaif",
-        "mail": "smkaif333@gmail.com",
-        "phone": "+91 6394872563"
-      },
-      {
-        "name": "Anamta Islam",
-        "mail": "anamtaislam333@gmail.com",
-        "phone": "+91 9205495147"
-      }
-    ]
-  }
+  "Teacher Placement Coordinator": [
+    {
+      "name": "Suraiya Jabin",
+      "mail": "sjabin@jmi.ac.in",
+      "phone": "",
+      "designation": "Teacher Placement Coordinator"
+    }
+  ],
+  "M.C.A. SPoC": [
+    {
+      "name": "Preeti Chib",
+      "mail": "preeti.chib2015@gmail.com",
+      "phone": "+91 8082645809"
+    },
+    {
+      "name": "Danish Laraib",
+      "mail": "danishlaraib@gmail.com",
+      "phone": "+91 8755648697"
+    }
+  ]
+}
