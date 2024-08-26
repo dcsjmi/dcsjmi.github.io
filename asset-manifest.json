@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.9fd87a9f.css",
-    "main.js": "/static/js/main.6d41c2fb.js",
+    "main.js": "/static/js/main.a8694bb6.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
     "static/media/msc.jpg": "/static/media/msc.a736e30f25e83e9f103b.jpg",
-    "static/media/mca.png": "/static/media/mca.5376b15e873e7a4d2edb.png",
     "static/media/Swiper_9.jpg": "/static/media/Swiper_9.be508cc69d758315096b.jpg",
     "static/media/card_4.jpg": "/static/media/card_4.4469a461ddd2892e3bff.jpg",
     "static/media/Swiper_5.jpg": "/static/media/Swiper_5.2611cb9cf364ecb1add3.jpg",
@@ -17,7 +16,7 @@
     "static/media/Swiper_2.jpg": "/static/media/Swiper_2.25a76fef3d65741c8b43.jpg",
     "static/media/card_1.jpg": "/static/media/card_1.a55bdbacc2488234236a.jpg",
     "static/media/Swiper_0.jpg": "/static/media/Swiper_0.175dd76b6fb9f9f15421.jpg",
-    "static/media/mca.jpg": "/static/media/mca.221d34cb74153473e71d.jpg",
+    "static/media/mca.jpg": "/static/media/mca.8d43cd039d50f89a41b9.jpg",
     "static/media/card_1_mobile.jpg": "/static/media/card_1_mobile.3af10eea7b27f3300a5e.jpg",
     "static/media/Swiper_10.jpg": "/static/media/Swiper_10.fcf81a032039925b7313.jpg",
     "static/media/hod2.jpg": "/static/media/hod2.bf9cfadcfb22a8f7596e.jpg",
@@ -83,6 +82,7 @@
     "static/media/23MCA033.jpg": "/static/media/23MCA033.106e61820ac9a8a436da.jpg",
     "static/media/23MCA029.jpg": "/static/media/23MCA029.9a392b3d0e78997871b9.jpg",
     "static/media/23MCA040.jpg": "/static/media/23MCA040.65a4a535f3a4310a710f.jpg",
+    "static/media/23MCA034.jpg": "/static/media/23MCA034.09f2798683a2fca81dc4.jpg",
     "static/media/23MCA042.jpg": "/static/media/23MCA042.7592c27537b9dd67a16f.jpg",
     "static/media/uni commerce logo.png": "/static/media/uni commerce logo.8124dd8f611e359c7077.png",
     "static/media/27.jpg": "/static/media/27.ee00c0a0aca4d6591899.jpg",
@@ -91,6 +91,7 @@
     "static/media/5.jpg": "/static/media/5.3ff018d7f41c72c59dea.jpg",
     "static/media/31.jpg": "/static/media/31.6829aa48247f1ddfe5ec.jpg",
     "static/media/23MCA010.jpg": "/static/media/23MCA010.5bee4fd086351c27eea9.jpg",
+    "static/media/23MCA012.jpg": "/static/media/23MCA012.3b7492db4bea6e9dd8e4.jpg",
     "static/media/36.jpg": "/static/media/36.2a47752a3e839b8322b0.jpg",
     "static/media/37.jpg": "/static/media/37.79aaa5102ecedc6d0e9c.jpg",
     "static/media/23MCA007.jpg": "/static/media/23MCA007.da7d20c23e71305c5583.jpg",
@@ -111,7 +112,6 @@
     "static/media/23MCA018.jpg": "/static/media/23MCA018.8efac24da6ad6d12b8a2.jpg",
     "static/media/33.jpg": "/static/media/33.a082f8e8ceb5aef21e8d.jpg",
     "static/media/23MCA022.jpg": "/static/media/23MCA022.26f6906e00254e89efc2.jpg",
-    "static/media/23MCA034.jpg": "/static/media/23MCA034.7cbda6a15624c073ab0a.jpg",
     "static/media/mindfire.png": "/static/media/mindfire.0314c6b3a0f7a4f3333f.png",
     "static/media/NIIT-Technologies-200x200 logo.png": "/static/media/NIIT-Technologies-200x200 logo.1504335bf59d7bdae4f5.png",
     "static/media/23MCA021.jpg": "/static/media/23MCA021.81f34157835633c7b410.jpg",
@@ -151,16 +151,15 @@
     "static/media/25.jpg": "/static/media/25.80864a18789bad9f7062.jpg",
     "static/media/23MCA038.jpg": "/static/media/23MCA038.9651f11868ecd69d2f5f.jpg",
     "static/media/contact.png": "/static/media/contact.23c63cbb2cb892597650.png",
-    "static/media/23MCA012.jpg": "/static/media/23MCA012.f7f3858e97722d01621d.jpg",
     "static/media/contributors.png": "/static/media/contributors.6917fcd0f0c023ec3ed1.png",
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "static/media/23MCA001.jpg": "/static/media/23MCA001.c2d51491b58d0ce5b57a.jpg",
     "index.html": "/index.html",
     "main.9fd87a9f.css.map": "/static/css/main.9fd87a9f.css.map",
-    "main.6d41c2fb.js.map": "/static/js/main.6d41c2fb.js.map"
+    "main.a8694bb6.js.map": "/static/js/main.a8694bb6.js.map"
   },
   "entrypoints": [
     "static/css/main.9fd87a9f.css",
-    "static/js/main.6d41c2fb.js"
+    "static/js/main.a8694bb6.js"
   ]
 }
