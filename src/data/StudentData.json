@@ -450,5 +450,349 @@
       "skills": "Python, MySQL, AI, ML, Java, MongoDB, Data Cleaning And Wrangling, Exploratory Data Analysis (eda), Deep Learning, Probability And Statistics, Calculus",
       "linkedin": "https://www.linkedin.com/in/surabhi2974"
     }
+  ],
+  "Master of Science Bioinformatics": [
+    {
+      "id": 1,
+      "name": "Abhinav Kumar Sharma",
+      "email": "sharmamr767@gmail.com",
+      "image": "23MBI001.jpg",
+      "highQual": "B.Sc. MLT",
+      "skills": "Python, SQL, C++, Basic R, Data Structures, Basic ML & DL Bioinformatics tools for Protein Modeling and Molecular Docking, Genome Analysis, Biological Network Analysis, Phylogenetic Analysis, Sequence Alignment, PCR, Qualty Control (ISO-15189), Knowledge of NABL Documentation",
+      "linkedin": "https://www.linkedin.com/in/abhinav-sharma767"
+    },
+    {
+      "id": 2,
+      "name": "Aman Bashar",
+      "email": "amanbashar96@gmail.com",
+      "image": "23MBI002.jpg",
+      "highQual": "B.Sc. Biotechnology",
+      "skills": "NGS, Protein Structral Analysis, RNS Seq Analysis, Biological Network Analysis, Scrna Seq Analysis, Microbiome Analysis, R, C++, Python, SQL, Linux, DNA Methylation Analysis, Mathematical Modeling & Algorithm Development, Data Mining & ML.",
+      "linkedin": "https://www.linkedin.com/in/amanbashar96"
+    },
+    {
+      "id": 3,
+      "name": "Anudev S Suresh",
+      "email": "anudev2015@gmail.com",
+      "image": "23MBI003.jpg",
+      "highQual": "B.Sc. (Hons) Botany",
+      "skills": "NGS, R, Python, C, C++, Sequence Alignment Tool - Blast, Basic Data Manangement System (SQL/Oracle), Database Search System (entrez), Ensemble, Basic Data Structures, Molecular Docking, Biochemistry, Drug Designing",
+      "linkedin": "https://www.linkedin.com/in/anudev-s-738ba3228"
+    },
+    {
+      "id": 4,
+      "name": "Arindram Mallick",
+      "email": "arindrammallick@gmail.com",
+      "image": "23MBI004.jpg",
+      "highQual": "B.Sc. (Hons) Biotechnology",
+      "skills": "C/C++, R, Python, Basic DBMS, SQL Recombinant DNA Technology, Protein Modeling, Structural Analysis & Docking, Phylogenetic Analysis, Biostatistics, Plant Tissue Culture, Animal Tissue Culture, Computational Bioinformatics, Gene Expression Analysis, Gene Ontology, Basic Data Structures, Biological Network Analysis, Cell Design and Simulation, GRN modelling, Machine Learning",
+      "linkedin": "https://www.linkedin.com/in/arindram-mallick-457555215"
+    },
+    {
+      "id": 5,
+      "name": "Ashutosh",
+      "email": "aashutoshp2000@gmail.com",
+      "image": "23MBI005.jpg",
+      "highQual": "B.Sc. (Hons) Biotechnology",
+      "skills": "Bioinformatics Tools for Protein Modeling and Mlecular Docking, Cell Designing, Genome Analysis, Biological Network Analysis, Phylogenetic Analysis, C, C++, Basic R, Python, Data Structures, SQL, Linux, Basic Machine Learning & Deep Learning",
+      "linkedin": "https://www.linkedin.com/in/ashutosh-pandey-0b21a2210"
+    },
+    {
+      "id": 6,
+      "name": "Athika Firdous",
+      "email": "firdous29304@gmail.com",
+      "image": "23MBI006.jpg",
+      "highQual": "B.Sc. Biotechnology",
+      "skills": "Bioinformatics Tools, Python, R, Mathematical Modelling, Algorithm Development, Medical Imaging Analysis, Molecular Docking, Evolutionary Study, Sequence Analysis, Protein Structure Analysis, RNA Seq, Machine Learning, NGS",
+      "linkedin": "https://www.linkedin.com/in/athika-firdous-1722732a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 7,
+      "name": "Basil Tk",
+      "email": "tkbasilvkd@gmail.com",
+      "image": "23MBI007.jpg",
+      "highQual": "B.Sc. Zoology",
+      "skills": "Programming languages - Python, R, C, C++; DBMS, Bash & SQL Basics; Sequencing Techniques - NGS; Basics of Nextflow Work Flow Management System, Basic Level Biostatistic Analysis; Bioinformatics Tools and Softwares; Science Art",
+      "linkedin": "https://www.linkedin.com/in/basil-t-k-1b8663283"
+    },
+    {
+      "id": 8,
+      "name": "Ifra Zahid",
+      "email": "ifrazahid15@gmail.com",
+      "image": "23MBI008.jpg",
+      "highQual": "B.Sc. Life Sciences",
+      "skills": "Computational Biology, Plant Biology, Bioinformatics, Biological Network Analysis, Molecular Docking, Phylogenetic Analysis, Statistical Analysis, C/C++, Python, DBMS, SQL, Data Structures, GRM Modelling, Systems Biology, R, Fundamentals Of RDNA Technology And Genomics, Molecular Biology, Data Analysis and Visualisation. Knowledge Of Industrial Chemistry and it's Applications, Teaching - High Order Thinking Skills (hots) Instructor",
+      "linkedin": "https://www.linkedin.com/in/ifra-zahid-232a24322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 9,
+      "name": "Khan Ali Yawar",
+      "email": "khanaliyawar4@gmail.com",
+      "image": "23MBI009.jpg",
+      "highQual": "B.Sc. Biochemistry",
+      "skills": "Programming Skills: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Pytorch, Etc.), R (Data Analytics Libraries & Modules: ggplot2, Dplyr, Tidyr, Readr, Shiny, Caret, Etc.), SQL (advanced queries), Power BI (Intermediate), Tableau (Intermediate), Statistical Analysis (Intermediate), Data Mining & Big Data Analysis, Machine Learning (scikit-learn, Pytorch, Tensorflow), Database Management, Advanced excel and Spreadsheets. Bioinformatics Tools: Protein Modeling And Molecular Docking (Autodock, Autodock vina, Etc.), Sequence Analysis and Sequence Alignment, Data Analysis and Visualization, Genome Analysis (geneious prime, Etc.), Biological Network Analysis (cytoscape, Etc.), Phylogenetic Analysis, NGS (next-generation sequencing) Analysis, Systems Biology, Basic level biostatistical Analysis, Mathematical Modeling and Algorithm Development.",
+      "linkedin": "www.linkedin.com/in/khan-ali-yawar"
+    },
+    {
+      "id": 10,
+      "name": "Masira Rizvi",
+      "email": "masirarizvi0@gmail.com",
+      "image": "23MBI010.jpg",
+      "highQual": "B.Sc. Biotechnology",
+      "skills": "Computational Bioinformatics, Biological Network Analysis, Sequence Analysis, Phylogenetic Analysis, Python, R, DBMS, SQL, Data Analysis and Visualization",
+      "linkedin": "NA"
+    },
+    {
+      "id": 11,
+      "name": "Md Shafiullah",
+      "email": "mdshafiullah2365@gmail.com",
+      "image": "23MBI011.jpg",
+      "highQual": "B.Sc. (Hons) Zoology",
+      "skills": "Protein Structure Analysis, Molecular Docking, NGS Analysis, Python, R, C/C++, Evolutionary studies, Biological Network Analysis, Metabolic pathway design, Dsa, DBMS, Biostatistics",
+      "linkedin": "https://www.linkedin.com/in/md-shafiullah-a4954628a/"
+    },
+    {
+      "id": 12,
+      "name": "Mehrukh Muzaffar Banday",
+      "email": "banday.mehrukh@gmail.com",
+      "image": "23MBI012.jpg",
+      "highQual": "B.Sc. Biochemistry",
+      "skills": "Bioinformatics tools, Biological Network Analysis, Sequence Analysis, Molecular Docking, Phylogenetic Analysis, GRM Modelling, Metabolic pathway designing, Statistical Analysis, C/C++, Python, DBMS, SQL, Data Structures, Data Analysis and Visualisation",
+      "linkedin": "https://www.linkedin.com/in/mehrukh-banday-b95a24289"
+    },
+    {
+      "id": 13,
+      "name": "Mir Ubaid Ahmad",
+      "email": "ubiubaid603@gmail.com",
+      "image": "23MBI013.jpg",
+      "highQual": "BHMS, Electro-Homeopathy",
+      "skills": "Bioinformatics Tools For Protein Modeling & Molecular Docking, Cell designing, Genome Analysis, Biological Network Analysis, Phylogenetic Analysis etc., Programming Languages - C, Basic R, Python, Data Structures, Web Designing, DBMS",
+      "linkedin": "https://www.linkedin.com/in/mir-ubaid-ahmad-9a9b5a170"
+    },
+    {
+      "id": 14,
+      "name": "Mohaimin Riaz",
+      "email": "mkhanriaz42@gmail.com",
+      "image": "23MBI014.jpg",
+      "highQual": "B.Sc. Biotechnology",
+      "skills": "C++, Data Structures and Algorithms.",
+      "linkedin": "https://www.linkedin.com/in/mohaimin-riaz-48020b2ab/"
+    },
+    {
+      "id": 15,
+      "name": "Mohammad Amaan Khan",
+      "email": "amaankhan2495@gmail.com",
+      "image": "23MBI015.jpg",
+      "highQual": "B.Pharma, Addra",
+      "skills": "Python, Biopython, C++, R, NGS Analysis, Molecular Docking, SQL, Multi-omics and D Analysis, Cell design and simulation, Basics of Machine Learning and Deep Learning, Phylogenetic Analysis, Compounding of drugs",
+      "linkedin": "NA"
+    },
+    {
+      "id": 16,
+      "name": "Mohd Inamul Haq",
+      "email": "ihaq28112000@gmail.com",
+      "image": "23MBI016.jpg",
+      "highQual": "B.Sc. Life Sciences",
+      "skills": "NGS, Cadd, Python, R, Genomics, Proteomics, Structural biology, Biochemistry, Molecular Docking, Machine Learning, Deep Learning",
+      "linkedin": "https://www.linkedin.com/in/mohd-inamul-haq-0b5594217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 17,
+      "name": "Mohd Hasan Ansari",
+      "email": "ansarihasan909@gmail.com",
+      "image": "23MBI017.jpg",
+      "highQual": "B.Sc. (Hons) Biotechnology",
+      "skills": "Python, SQL, NGS Analysis, C++, Molecular Docking, Machine Learning, SQL, Cell Designing",
+      "linkedin": "https://www.linkedin.com/in/hasan-ansari-9ba95122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    },
+    {
+      "id": 18,
+      "name": "Moobashara Jawed",
+      "email": "jawed.moobashara@gmail.com",
+      "image": "23MBI018.jpg",
+      "highQual": "B.Sc. Agriculture",
+      "skills": "Programming skills - Python, R, C/C++, Bioinformatics tools and softwares, Statistical Analysis and Data Visualisation, Biological knowledge - Molecular Biology, Genomics, Proteomics, Crop Production And Agronomy",
+      "linkedin": "http://linkedin.com/in/moobashara-jawed-84613a323"
+    },
+    {
+      "id": 19,
+      "name": "Namia Takreem",
+      "email": "namia.takreem@gmail.com",
+      "image": "23MBI019.jpg",
+      "highQual": "B.Voc. Medical Electrophysiology",
+      "skills": "Programming Languages - Python, R (basics), Bioinformatics tools and software (blast, Mafft, Mega, Swiss-dock, Geneious prime, Cell designer etc), Database Management System and SQL (basics), Biostatistics and Data Visualization, Molecular Docking and Modeling, Biological Data Analysis, NGS Data Analysis, Primer Designing, Data Mining, Article Writing, Wet Lab Techniques, Communication and Problem Solving.",
+      "linkedin": "https://www.linkedin.com/in/namia-takreem-8147062a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 20,
+      "name": "Pakhi",
+      "email": "pakhichettri7@gmail.com",
+      "image": "23MBI020.jpg",
+      "highQual": "B.Sc. Bioinformatics",
+      "skills": "Python, R, SQL, NGS Analysis, Multi-omics & Data Analysis, Molecular Docking, Phylogenetic Analysis, Machine Learning Models, Introduction to Deep Learning, Shell scripting, HTML, CSS",
+      "linkedin": "http://www.linkedin.com/in/pakhichhetri"
+    },
+    {
+      "id": 21,
+      "name": "Puneet Sharma",
+      "email": "biologyexplain7@gmail.com",
+      "image": "23MBI021.jpg",
+      "highQual": "B.Sc Biosciences",
+      "skills": "NGS, Protein Structral Analysis, RNS Seq Analysis, Biological Network Analysis, Scrna Seq Analysis, Microbiome Analysis, R, C++, Python, SQL, Linux, DNA Methylation Analysis, Mathematical Modeling & Algorithm Development, Data Mining & ML",
+      "linkedin": "https://www.linkedin.com/in/puneet-sharma-b2171a322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 22,
+      "name": "Rao Faheem",
+      "email": "raofaheemali05146@gmail.com",
+      "image": "23MBI022.jpg",
+      "highQual": "B.Sc. Pcm",
+      "skills": "Python, Programming in R, C++, DSA, DBMS (SQL), Computing fundamentals, Data Mining and Algorithm Development, Machine Learning, Protein Structure Analysis, Molecular Docking, Evolutionary studies, NGS, Biological Network Analysis, Metabolic pathway design, RNA Seq. Analysis, Biostatistics",
+      "linkedin": "www.linkedin.com/in/rao-faheem-"
+    },
+    {
+      "id": 23,
+      "name": "Rifat Jan",
+      "email": "malikrifat566@gmail.com",
+      "image": "23MBI023.jpg",
+      "highQual": "B.Sc. Botany",
+      "skills": "Programming like Python, C++, Drug Designing, Molecular Docking. Phylogeny Analysis, Cell Design, Omics, RNS Seq Analysis, Knowledge of Genomics and Genetics, NGS, SQL, Machine Learning",
+      "linkedin": "https://www.linkedin.com/in/rifat-jan-3a8939319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 24,
+      "name": "Rohan Kumar Rana",
+      "email": "rohankumarrana99@gmail.com",
+      "image": "23MBI024.jpg",
+      "highQual": "B.Sc. Biosciences",
+      "skills": "Programming in C/C++, Python, Javascript, Perl and Bioperl, R, HTML; Soft Skills:  criticalThinking Problem Solving Approach, Management, Leadership, Organization Skill, Teamwork; Stastistical and Data Analysis: Power Bi, Sas, Biostatistics Database Management = DBMS, SQL, RDBMS, Querying; Modelling Bioinformatics: Recombinant DNA Technology, Tissue culture, Protein Modelling, Structural Analysis & Docking, Computational Bioinformatics, GRM Modelling  Gene Expression Analysis, Next Generation Sequencing, Gene Ontology; Finance: Financial Management And Budgeting, Risk Analysis, Business intelligence, Modelling and analyzing future; Skills working on: Artificial Intelligence, Machine Learning",
+      "linkedin": "https://www.linkedin.com/in/r-k-rana-96137428a?trk=contact-info"
+    },
+    {
+      "id": 25,
+      "name": "Rushan Ghazali",
+      "email": "rushanghazali664@gmail.com",
+      "image": "23MBI025.jpg",
+      "highQual": "B.Sc. Biosciences",
+      "skills": "Programming in c/C++, Python, R. SQL, Computaional Bioinformatics, Genomics, Systems Biology, Molecular Docking, GRM Modelling, DBMS, Basics of Data Structures, Computing Fundamentals, Comparitive Genomics, Phylogenetic Analysis, Sequence Analysis, Biochemistry, Cell biology, Evolutionary biology, Biotechnology in Human Welfare, Molecular Biology, Microbiology, Immunology, Machine Learning",
+      "linkedin": "https://www.linkedin.com/in/rushan-ghazali-69846b293"
+    },
+    {
+      "id": 26,
+      "name": "Saba Nadeem Siddiqui",
+      "email": "saba21.sns@gmail.com",
+      "image": "23MBI026.jpg",
+      "highQual": "B.Sc. (Hons) Chemistry",
+      "skills": "Computational biology, Systems Biology, Molecular Biology, NGS Data Analysis, Biological Network Analysis, Phylogenetic Analysis, Cell design & Simulation, Molecular Docking & simulation, Genome Analysis, Omics Analysis, Python, R, C/C++, SQL, DBMS, Basics of Machine Learning, Data Mining & Deep Learning, Data Analysis & Visualization, Bioinformatics tools (mega, Geneious prime, Pymol, Sra toolkit, Fastqc, Cytoscape, Celldesigner, Swissdock etc.)",
+      "linkedin": "https://www.linkedin.com/in/saba-nadeem-siddi21"
+    },
+    {
+      "id": 27,
+      "name": "Sakshi Sharma",
+      "email": "saks.30.9.01@gmail.com",
+      "image": "23MBI027.jpg",
+      "highQual": "B.Sc. Zoology",
+      "skills": "Python, Bio Python, C/C++, Nextflow, DBMS and SQL, R, HTML, CSS, Shell scripting, Machine Learning, Basics of Deep Learning; NGS RNA Seq Data Analysis, Frontend development, Molecular Docking, Multi-omics Data Analysis.",
+      "linkedin": "https://www.linkedin.com/in/sakshisharma-bioinfo"
+    },
+    {
+      "id": 28,
+      "name": "Sakshi Nawani",
+      "email": "sakshinawani13@gmail.com",
+      "image": "23MBI028.jpg",
+      "highQual": "B.Sc. (Hons) Botany",
+      "skills": "Multiomics, Systematics, Plant Biology, Molecular system modelling, GRM Modelling, Systems Biology, Statistical Analysis, C/C++, Python, R, DBMS, SQL, Phylogenetic Analysis, Molecular Docking, Dsa, Data Mining, Mathematical Modelling, Linux, NGS Data Analysis, Drug Design, Machine Learning, Web based Programming, Computational algorithm, Structural Biology, Palynology",
+      "linkedin": "https://www.linkedin.com/in/sakshi-nawani-a28a402a6"
+    },
+    {
+      "id": 29,
+      "name": "Samina",
+      "email": "saminakalimullah@gmail.com ",
+      "image": "23MBI029.jpg",
+      "highQual": "B.Voc. Medical",
+      "skills": "Bioinformatics tools, NGS, Molecular Docking, Phylogenetic Analysis, Cell designer, Metabolic Pathways Design, Data Analysis and Visualization, Statisticalanalysis, DBMS, SQL, C++, Python, R (basic)",
+      "linkedin": "https://www.linkedin.com/in/samina-kalimullah-443690243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 30,
+      "name": "Sanjana Sharma",
+      "email": "sanjanasharma8221@gmail.com",
+      "image": "23MBI030.jpg",
+      "highQual": "B.Sc. (Hons) Life Sciences",
+      "skills": "NGS Data Analysis, Structural Bioinformatics & Drug Design, Machine Learning, Fundamentals of Recombinant DNA Technology, Computational biology, Molecular Biology, Genomics, Molecular Docking, Statistical Analysis, SQL, DBMS, Data Analysis and Visualisation, R, Python, C++",
+      "linkedin": "http://www.linkedin.com/in/sanjana-sharma-"
+    },
+    {
+      "id": 31,
+      "name": "Shabnam Barbhuiya",
+      "email": "shabnambarbhuiya0@gmail.com",
+      "image": "23MBI031.jpg",
+      "highQual": "B.Sc. Biotechnology",
+      "skills": "Biological Knowledge (Molecular Biology, Proteomics and Metabolomics, Genomics), Programming skills (Languages: Python, C++, R), Statistical Analysis, Data Visualization, Bioinformatics tools (blast, Mafft, Pymol, Mega, String), DBMS and SQL",
+      "linkedin": "https://www.linkedin.com/in/shabnam-barbhuiya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 32,
+      "name": "Shafiya Sakina",
+      "email": "shafiyasakina68@gmail.com",
+      "image": "23MBI032.jpg",
+      "highQual": "B.Sc Bioscience",
+      "skills": "Programming in Python, C/C++, R, SQL, Phylogenetic Analysis, Sequence Analysis, Biological Network Analysis, Molecular Docking, Computational Bioinformatics, System Biology, ML",
+      "linkedin": "https://www.linkedin.com/in/shafiya-sakina-0a2a5324b/"
+    },
+    {
+      "id": 33,
+      "name": "Shalesh Gangwar",
+      "email": "shaleshgangwar@gmail.com",
+      "image": "23MBI033.jpg",
+      "highQual": "B.Sc. Medical Biotechnology",
+      "skills": "Molecular Docking, Molecular Dynamic Simulation, NGS Analysis, Biological Network Analysis(Multiomics), Python, R programming, C/C++, DBMS and SQL, Supervised and Unsupervised Machine Learning, Basics of Deep Learning",
+      "linkedin": "http://www.linkedin.com/in/shaleshgangwar"
+    },
+    {
+      "id": 34,
+      "name": "Shashi Rawat",
+      "email": "shashirwt9625420298@gmail.com",
+      "image": "23MBI034.jpg",
+      "highQual": "B.Sc. Life Sciences",
+      "skills": "Programming - Python, C/C++, Basic R, SQL, PL/SQL; Bioinformatics tools for Molecular Docking, Molecular Dynamic, Simulation, Pylogenetic Analysis, Sequence Analysis, Biological Network Analysis, Modeling and Simulating Biochemical Networks, Data Analysis and Visualisation, Genome Analysis, Data Structures and Algorithms, Basics of Deep Learning.",
+      "linkedin": "https://www.linkedin.com/in/sakshisharma-bioinfo/"
+    },
+    {
+      "id": 35,
+      "name": "Shazan Farhat",
+      "email": "shazanfarhatt@gmail.com",
+      "image": "23MBI035.jpg",
+      "highQual": "B.Sc. Biotechnology",
+      "skills": "Programming in C/C++, Python, R, SQL",
+      "linkedin": "https://www.linkedin.com/in/shazan-f-528b032aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 36,
+      "name": "Suyash Gaur",
+      "email": "suyashgaursg18@gmail.com",
+      "image": "23MBI036.jpg",
+      "highQual": "B.Sc. Life Sciences",
+      "skills": "Genomics, Proteomics, Molecular Docking, Python, R programming language, C/C++, Bioinformatics tools, Protein Structure Analysis, Linux, Mathematical Modelling, Machine Learning, Deep Learning, AI, Teaching-Educator for classes 9th - 12th for Science, Maths.",
+      "linkedin": "https://www.linkedin.com/in/suyash-gaur-0059752b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": 37,
+      "name": "Taaneer Javaid",
+      "email": "taaneerjavaid@gmail.com",
+      "image": "23MBI037.jpg",
+      "highQual": "B.Sc. Biotechnology",
+      "skills": "Python, C/C++, R programming, Basics of Java, Data Structures and Algorithms, DBMS and SQL, Data Analysis and Interpretation, GRN modeling, Molecular Docking, PCR and Molecular Cloning, Computational Bioinformatics, Tissue Culture and Laboratory Techniques, Machine Learning, Immunology",
+      "linkedin": "https://www.linkedin.com/in/taaneer-javaid-3a65a4243/"
+    },
+    {
+      "id": 38,
+      "name": "Waniya Khalid",
+      "email": "khalidwaniya@gmail.com",
+      "image": "23MBI038.jpg",
+      "highQual": "B.Sc. (Hons) Biochemistry",
+      "skills": "Molecular Biology, Genomics and Genetics, Biochemistry (pursued my graduation in Biochemistry (Hons)), Bioinformatics, Systems Biology, DBMS, Programming Languages, Data Structures, Machine Learning, Microbiology, and Immunology. My skills encompass programming languages (Python, R, C/C++, Perl), Data Analysis and Data Structure, Statistics, Basics of Machine Learning, Database Management (SQL, NoSQL, PL/SQL), Bioinformatics tools and software (BLAST, STRING, Cytoscape, MEGA, Maestro, Bowtie, GATK, etc.), Data Visualization, Knowledge of Ontologies (Gene Ontology), Algorithm Development (optional/advanced), Genomic Technologies (NGS, Microarrays), Protein Modeling and Molecular Docking, Recombinant DNA Technologies, Electrophoresis, and Basic Kit Tests and Experiments used in Molecular Biology and Biological Network Analysis and its Simulations. Additionally, I possess personalized skills such as problem-solving, critical thinking, communication (verbal, written, listening), project and time management, confidence, continuous learning, interpersonal skills (teamwork, networking), analytical thinking, creativity, adaptability, and leadership skills (worked as CR and General Secretary in the department).",
+      "linkedin": "https://www.linkedin.com/in/waniya-khalid-147380291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
   ]
 }
