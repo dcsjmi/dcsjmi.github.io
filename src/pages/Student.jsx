@@ -33,7 +33,11 @@ const images = {
     require.context("../data/profiles_mca/", false, /\.(png|jpe?g|svg)$/)
   ),
   "Master of Science Bioinformatics": importAll(
-    require.context("../data/profiles_msc/", false, /\.(png|jpe?g|svg)$/)
+    require.context("../data/profiles_msc_bio/", false, /\.(png|jpe?g|svg)$/)
+  ),
+
+  "Master of Science AI/ML": importAll(
+    require.context("../data/profiles_msc_ai/", false, /\.(png|jpe?g|svg)$/)
   ),
 };
 
@@ -47,7 +51,7 @@ function StudentCard(props) {
       <div className="StudentImageContainer">
         <div className="StudentImageWrapper">
           <img
-            src={images[props.course][props.student.image]}
+            src={images[props.course]?.[props.student.image] || require("../data/place_holder/placeholder.jpg")}
             alt={props.student.name}
             className="StudentImage"
           />
@@ -99,8 +103,14 @@ const AllStudents = memo(() => {
   for (let course in StudentsData) {
     const CourseStudentElements = [];
     for (let student of StudentsData[course]) {
+      const studentImage =
+        images[course]?.[student.image] || require("../data/place_holder/placeholder.jpg");
       CourseStudentElements.push(
-        <StudentCard key={student.name} student={student} course={course} />
+        <StudentCard
+          key={student.name}
+          student={{ ...student, image: studentImage }}
+          course={course}
+        />
       );
     }
 
@@ -120,10 +130,11 @@ const AllStudents = memo(() => {
     );
   }
 
-  return AllStudentsElements;
+  return <>{AllStudentsElements}</>;
 });
 
 function partialMatch(str, pattern) {
+  if (!str || !pattern) return false; // Ensure both inputs are valid strings
   const tokens = pattern.split(/[, ]+/);
 
   for (let token of tokens) {
@@ -135,7 +146,17 @@ function partialMatch(str, pattern) {
   }
   return false;
 }
-
+function validateImages(course, image) {
+  if (!images[course]) {
+    console.error(`Course "${course}" does not exist in images.`);
+    return false;
+  }
+  if (!images[course][image]) {
+    console.error(`Image "${image}" does not exist for course "${course}".`);
+    return false;
+  }
+  return true;
+}
 const FilteredStudentsElements = memo((props) => {
   const FilteredStudentsElements = [];
 

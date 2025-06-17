@@ -14,83 +14,74 @@
   "MCA": {
     "Main Team": [
       {
-        "Name": "Preeti Chib",
+        "Name": "Ayaan Ahmad",
         "Designation": "SPoC",
-        "Image": "23MCA039.jpg",
-        "Phone": "+91 8082645809",
-        "Email": "preeti.chib2015@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/preity-chib"
+        "Image": "24MCA007.jpg",
+        "Phone": "+91 7982117380",
+        "Email": "ahmadayaan00@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/ayaan2001/"
       },
       {
-        "Name": "Danish Laraib",
+        "Name": "Md Salik",
         "Designation": "SPoC",
-        "Image": "23MCA012.jpg",
-        "Phone": "+91 8755648697",
-        "Email": "danishlaraib@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/danish-laraib-896042187/"
+        "Image": "24MCA026.jpg",
+        "Phone": "+91 7281026680",
+        "Email": "mdsalikdns@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/md-salik-7099ab78/"
       },
       {
-        "Name": "Aman Jamshed",
+        "Name": "Shashank Singh",
         "Designation": "SPoC",
-        "Image": "23MCA005.jpg",
-        "Phone": "+91 9897072871",
-        "Email": "amanjamshed3@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/aman-jamshed-b63206192"
+        "Image": "24MCA050.jpg",
+        "Phone": "+91 9555390293",
+        "Email": "shashanksinc@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/shashank-singh-22786b31a/"
       },
       {
-        "Name": "Gauri Agarwal",
+        "Name": "Mantsha",
         "Designation": "SPoC",
-        "Image": "23MCA018.jpg",
-        "Phone": "+91 8881990128",
-        "Email": "gauriagarwal4444@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/gauri-agarwal-8556381b9"
+        "Image": "24MCA017.jpg",
+        "Phone": "+91 9305448734",
+        "Email": "mantshasaleem@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/mantsha-saleem-865051210/"
+      }
+    ],"Web Team": [
+      {
+        "Name": "Asad Ansari",
+        "Designation": "Web Developer",
+        "Image": "24MCA006.jpg",
+        "Phone": "+91 8090308463",
+        "Email": "asadansari02723@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/asad-ansari-6487b5332"
+      },
+      {
+        "Name": "Maroof Ali Syed",
+        "Designation": "Web Developer",
+        "Image": "24MCA018.jpg",
+        "Phone": "+91 9305956819",
+        "Email": "maroofali688@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/maroofalysyed/"
       }
     ],
-    "Support Team": [
-      {
-        "Name": "Mohammad Azam",
-        "Designation": "SPoC",
-        "Image": "23MCA029.jpg",
-        "Phone": "+91 8882105465",
-        "Email": "azam.ame2021@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/mohammad-azam22/"
-      }
-    ],
+   
     "Graphics Team": [
       {
-        "Name": "Mohsin Zaki",
+        "Name": "Zamin Ali",
         "Designation": "Graphics Designer",
-        "Image": "23MCA033.jpg",
-        "Phone": "+91 9310359042",
-        "Email": "mohsinzaki07@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/mohsin-z-2130b2237"
+        "Image": "24MCA059.jpg",
+        "Phone": "+91 7300988782",
+        "Email": "zamin5833@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/zamin-ali-7b9764204"
       },
       {
-        "Name": "Prashant Gupta",
+        "Name": "Vanshika devi",
         "Designation": "Graphics Designer",
-        "Image": "23MCA038.jpg",
-        "Phone": "+91 6291134807",
-        "Email": "prashantxgupta007@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/prashant-gupta-08a51a206"
-      }
-    ],
-    "Web Team": [
-      {
-        "Name": "Deepanshu",
-        "Designation": "Web Developer",
-        "Image": "23MCA014.jpg",
-        "Phone": "+91 9588727249",
-        "Email": "reeucq@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/reeucq"
-      },
-      {
-        "Name": "Dhaif Allah Omar",
-        "Designation": "Web Developer",
-        "Image": "23MCA016.jpg",
-        "Phone": "+91 9821504367",
-        "Email": "omardhaif3@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/dhaif-omar"
+        "Image": "24MCA055.jpg",
+        "Phone": "+91 9720021926",
+        "Email": "vanshikagoyaltuk@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/vanshika-goyal-1476991b1"
       }
     ]
+    
   }
 }
