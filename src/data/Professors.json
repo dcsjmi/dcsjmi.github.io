@@ -1,11 +1,27 @@
 [
   {
+    "Name": "Dr. Mohammad Nazir",
+    "Image": "dr_nazir.jpg",
+    "Designation": "Professor (MCA, PhD)",
+    "Experience": "23",
+    "Specialization": "Engineering,Software Security and Software Quality Assurance",
+    "SpecialDesignation": "Head of The Department"
+  },
+  {
+    "Name": "Dr. Suraiya Jabin",
+    "Image": "dr_suraiya.jpg",
+    "Designation": "Professor (MCA, PhD)",
+    "Experience": "23",
+    "Specialization": "Artificial Intelligence, Soft Computing,Biometrics, Computational Biology and Pattern Recognition",
+    "SpecialDesignation": "Teacher Placement Coordinator"
+  },
+  {
     "Name": "Dr. Monica Mehrotra",
     "Image": "dr_monica.jpg",
     "Designation": "Professor (MCA, PhD)",
     "Experience": "30+",
     "Specialization": "Data Mining, Social Network Analysis and Information Retrieval",
-    "SpecialDesignation": "Head of The Department"
+    "SpecialDesignation": ""
   },
   {
     "Name": "Dr. SMK Quadri",
@@ -31,22 +47,8 @@
     "Specialization": "E-Learning,Software Engineering and Software Security",
     "SpecialDesignation": ""
   },
-  {
-    "Name": "Dr. Suraiya Jabin",
-    "Image": "dr_suraiya.jpg",
-    "Designation": "Professor (MCA, PhD)",
-    "Experience": "23",
-    "Specialization": "Artificial Intelligence, Soft Computing,Biometrics, Computational Biology and Pattern Recognition",
-    "SpecialDesignation": "Teacher Placement Coordinator"
-  },
-  {
-    "Name": "Dr. Mohammad Nazir",
-    "Image": "dr_nazir.jpg",
-    "Designation": "Professor (MCA, PhD)",
-    "Experience": "23",
-    "Specialization": "Engineering,Software Security and Software Quality Assurance",
-    "SpecialDesignation": ""
-  },
+  
+  
   {
     "Name": "Dr. Rafat Parveen",
     "Image": "dr_rafat.jpg",

@@ -211,6 +211,112 @@
     "Duration": "2 Years",
     "Type": "Full Time",
     "Specialization": "AI & ML",
-    "Syllabus": []
+    "Syllabus": [
+    {
+      "Name": "SEMESTER I",
+      "Structure": [
+        {
+          "Category": "CORE",
+          "Courses": [
+            "Foundations of Data Science with Python",
+            "Digital Logic and Computer Architecture",
+            "Data Warehousing & Data Mining",
+            "Mathematical Foundations for AI",
+            "Database Management Systems"
+          ]
+        },
+        {
+          "Category": "ELECTIVE",
+          "Courses": [
+            "N/A"
+          ]
+        },
+        {
+          "Category": "LAB",
+          "Courses": [
+            "Lab-I (Python)",
+            "Lab-II (Oracle)"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "SEMESTER II",
+      "Structure": [
+        {
+          "Category": "CORE",
+          "Courses": [
+            "Data Communication & Networks",
+            "Artificial Intelligence & ML",
+            "Data Structures"
+          ]
+        },
+        {
+          "Category": "ELECTIVE",
+          "Courses": [
+            "Elective-I",
+            "Elective-II"
+          ]
+        },
+        {
+          "Category": "LAB",
+          "Courses": [
+            "Lab-III (ML)",
+            "Lab-IV (Data Structures)"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "SEMESTER III",
+      "Structure": [
+        {
+          "Category": "CORE",
+          "Courses": [
+            "Cloud Computing",
+            "Deep Learning",
+            "Minor Project"
+          ]
+        },
+        {
+          "Category": "ELECTIVE",
+          "Courses": [
+            "Elective-III",
+            "Elective-IV"
+          ]
+        },
+        {
+          "Category": "LAB",
+          "Courses": [
+            "Lab-V (Deep Learning)",
+            "Lab-VI (Hadoop)"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "SEMESTER IV",
+      "Structure": [
+        {
+          "Category": "CORE",
+          "Courses": [
+            "Major Project"
+          ]
+        },
+        {
+          "Category": "ELECTIVE",
+          "Courses": [
+            "N/A"
+          ]
+        },
+        {
+          "Category": "LAB",
+          "Courses": [
+            "N/A"
+          ]
+        }
+      ]
+    }
+  ]
   }
 }
