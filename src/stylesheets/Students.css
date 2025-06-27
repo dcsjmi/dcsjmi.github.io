@@ -35,15 +35,57 @@
     padding: 10px 50px;
 }
 
-.StudentProfilesContainer {
+/* .StudentProfilesContainer {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
+} */
+
+
+.StudentProfilesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: stretch; /* ✅ make children fill equal height */
 }
 
 .StudentCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;                /* ✅ fill height of row */
+    flex: 1 1 350px;             /* ✅ responsive sizing */
+    max-width: 350px;           /* ✅ prevent too wide */
+    margin: 20px 10px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 50%), 0 6px 20px 0 rgb(0 0 0 / 50%);
+    text-align: center;
+}
+
+.StudentDetailsBody {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.StudentSkills {
+    min-height: 110px;          /* ✅ reserve consistent space for skills */
+    margin: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(157, 206, 250);
+    border-radius: 10px;
+}
+
+
+/* .StudentCard {
     background-color: rgb(255, 255, 255);
     color: black;
     box-shadow: 0 8px 16px 0 rgb(0 0 0 / 50%), 0 6px 20px 0 rgb(0 0 0 / 50%);
@@ -51,7 +93,7 @@
     width: 350px;
     margin: 20px 10px;
     text-align: center;
-}
+} */
 
 .StudentCard h2{
     max-height: 4.5em;         /* Limit to 3 lines (approx.) */
@@ -61,8 +103,9 @@
     white-space: normal;       /* Allow wrapping */
     line-height: 1.5em;
     display: -webkit-box;
-    -webkit-line-clamp: 4;     /* Number of lines to show */
-    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;     /* Number of lines to show */
+    line-clamp: 3;             /* Standard property for compatibility */
+  -webkit-box-orient: vertical;
 }
 
 .StudentImageContainer { 
@@ -97,11 +140,11 @@
 .StudentImage {
     width: 200px
 }
-
+/* 
 .StudentDetailsBody {
     background-color: white;
     border-radius: 20px;
-}
+} */
 
 .StudentName {
     text-transform: capitalize;
@@ -119,13 +162,13 @@
     margin: 0px 10px 10px;
 }
 
-.StudentSkills {
+/* .StudentSkills {
     margin: 10px;
     padding: 10px;
     text-transform: capitalize;
     background-color: rgb(157, 206, 250);
     border-radius: 10px;
-}
+} */
 
 .StudentSkills img {
     width: 30px;
