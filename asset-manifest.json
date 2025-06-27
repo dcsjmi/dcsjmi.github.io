@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d29ec487.css",
-    "main.js": "/static/js/main.30d1e372.js",
+    "main.js": "/static/js/main.e9dfeb9e.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
     "static/media/24MCA025.jpg": "/static/media/24MCA025.488b123de1a329028351.jpg",
     "static/media/mca.jpg": "/static/media/mca.175dd76b6fb9f9f15421.jpg",
@@ -74,6 +74,7 @@
     "static/media/aiml.jpg": "/static/media/aiml.e04bd4dc7cf92d6bba4c.jpg",
     "static/media/24MBI01.jpg": "/static/media/24MBI01.852c38bf0e90d4f85bd8.jpg",
     "static/media/dr_monica.jpg": "/static/media/dr_monica.6d6dd929deda2bcecca1.jpg",
+    "static/media/24MAM38.jpg": "/static/media/24MAM38.20fd2a01c12aab1ffbfb.jpg",
     "static/media/24MCA045.jpg": "/static/media/24MCA045.cd42d1607707da18d802.jpg",
     "static/media/24MBI23.jpg": "/static/media/24MBI23.87be566c59003b5a0d66.jpg",
     "static/media/dr_zeeshan.jpg": "/static/media/dr_zeeshan.7d802a8b7352d328e40c.jpg",
@@ -155,7 +156,6 @@
     "static/media/uni commerce logo.png": "/static/media/uni commerce logo.8124dd8f611e359c7077.png",
     "static/media/24MCA043.jpg": "/static/media/24MCA043.dcfa12bf7e2b5cedb477.jpg",
     "static/media/dean.jpg": "/static/media/dean.52efe998bd0d88b24c67.jpg",
-    "static/media/24MAM38.jpg": "/static/media/24MAM38.42d2ee02cb4f4cd9dfe1.jpg",
     "static/media/24MBI02.jpg": "/static/media/24MBI02.12d32d11d105f0d9a5ed.jpg",
     "static/media/tft logo.png": "/static/media/tft logo.32f7144797765d6ed793.png",
     "static/media/24MCA027.jpg": "/static/media/24MCA027.655fe21594af6993d07a.jpg",
@@ -185,10 +185,10 @@
     "static/media/24MCA050.jpg": "/static/media/24MCA050.fe2487765176c8e99702.jpg",
     "index.html": "/index.html",
     "main.d29ec487.css.map": "/static/css/main.d29ec487.css.map",
-    "main.30d1e372.js.map": "/static/js/main.30d1e372.js.map"
+    "main.e9dfeb9e.js.map": "/static/js/main.e9dfeb9e.js.map"
   },
   "entrypoints": [
     "static/css/main.d29ec487.css",
-    "static/js/main.30d1e372.js"
+    "static/js/main.e9dfeb9e.js"
   ]
 }
