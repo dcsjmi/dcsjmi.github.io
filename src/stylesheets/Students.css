@@ -53,6 +53,18 @@
     text-align: center;
 }
 
+.StudentCard h2{
+    max-height: 4.5em;         /* Limit to 3 lines (approx.) */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    white-space: normal;       /* Allow wrapping */
+    line-height: 1.5em;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;     /* Number of lines to show */
+    -webkit-box-orient: vertical;
+}
+
 .StudentImageContainer { 
     position: relative;
     height: 230px;

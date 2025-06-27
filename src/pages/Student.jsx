@@ -1,13 +1,16 @@
 import { useState, memo } from "react";
+import { motion } from "framer-motion";
+import importAll from "../middleware/dynamicImport";
+
 import "../stylesheets/Students.css";
 import "../Global.css";
-import importAll from "../middleware/dynamicImport";
-import { motion } from "framer-motion";
+
+import StudentsData from "../data/StudentData.json";
 import emailIcon from "../images/core/email.png";
 import linkedinIcon from "../images/core/linkedin.png";
 import skillsIcon from "../images/students/skills.png";
-import StudentsData from "../data/StudentData.json";
 
+// Animation Variants
 const container = {
   hidden: { opacity: 1, scale: 0 },
   visible: {
@@ -22,12 +25,10 @@ const container = {
 
 const item = {
   hidden: { y: 20, opacity: 0 },
-  visible: {
-    y: 0,
-    opacity: 1,
-  },
+  visible: { y: 0, opacity: 1 },
 };
 
+// Dynamic image imports by course
 const images = {
   "Master of Computer Application": importAll(
     require.context("../data/profiles_mca/", false, /\.(png|jpe?g|svg)$/)
@@ -35,62 +36,46 @@ const images = {
   "Master of Science Bioinformatics": importAll(
     require.context("../data/profiles_msc_bio/", false, /\.(png|jpe?g|svg)$/)
   ),
-
   "Master of Science AI/ML": importAll(
     require.context("../data/profiles_msc_ai/", false, /\.(png|jpe?g|svg)$/)
   ),
 };
 
-function StudentCard(props) {
+
+function StudentCard({ student, course }) {
+  const studentImage =
+    images[course]?.[student.image] || require("../data/place_holder/placeholder.jpg");
+
   return (
-    <motion.div
-      className="StudentCard"
-      key={props.student.name}
-      variants={item}
-    >
+    <motion.div className="StudentCard" variants={item}>
       <div className="StudentImageContainer">
         <div className="StudentImageWrapper">
-          <img
-            src={images[props.course]?.[props.student.image] || require("../data/place_holder/placeholder.jpg")}
-            alt={props.student.name}
-            className="StudentImage"
-          />
+          <img src={studentImage} alt={student.name} className="StudentImage" />
         </div>
-        <div className="ImageCurve"></div>
+        <div className="ImageCurve" />
       </div>
+
       <div className="StudentDetailsBody">
-        <div className="StudentName">{props.student.name}</div>
-        <div className="StudentQualification">{props.student.highQual}</div>
-        <div>
-          <div className="StudentSkills">
-            <div>
-              <img src={skillsIcon} alt="" />
-              <h1>Skills</h1>
-            </div>
-            <h2>{props.student.skills}</h2>
+        <div className="StudentName">{student.name}</div>
+        <div className="StudentQualification">{student.highQual}</div>
+
+        <div className="StudentSkills">
+          <div>
+            <img src={skillsIcon} alt="" />
+            <h1>Skills</h1>
           </div>
-          <div className="StudentContactSection">
-            <div className="StudentSectionBorder"></div>
-            <div>
-              <a href={props.student.linkedin} target="_blank" rel="noreferrer">
-                <img
-                  className="StudentContactIcon"
-                  src={linkedinIcon}
-                  alt="linkedin"
-                />
-              </a>
-              <a
-                href={"mailto:" + props.student.email}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img
-                  className="StudentContactIcon"
-                  src={emailIcon}
-                  alt="email"
-                />
-              </a>
-            </div>
+          <h2 title={student.skills}>{student.skills}</h2>
+        </div>
+
+        <div className="StudentContactSection">
+          <div className="StudentSectionBorder" />
+          <div>
+            <a href={student.linkedin} target="_blank" rel="noreferrer">
+              <img src={linkedinIcon} alt="LinkedIn" className="StudentContactIcon" />
+            </a>
+            <a href={`mailto:${student.email}`} target="_blank" rel="noreferrer">
+              <img src={emailIcon} alt="Email" className="StudentContactIcon" />
+            </a>
           </div>
         </div>
       </div>
@@ -99,101 +84,81 @@ function StudentCard(props) {
 }
 
 const AllStudents = memo(() => {
-  const AllStudentsElements = [];
-  for (let course in StudentsData) {
-    const CourseStudentElements = [];
-    for (let student of StudentsData[course]) {
-      const studentImage =
-        images[course]?.[student.image] || require("../data/place_holder/placeholder.jpg");
-      CourseStudentElements.push(
-        <StudentCard
-          key={student.name}
-          student={{ ...student, image: studentImage }}
-          course={course}
-        />
-      );
-    }
-
-    AllStudentsElements.push(
-      <motion.div
-        key={course}
-        variants={container}
-        initial="hidden"
-        animate="visible"
-      >
-        <div className="subheading-container">
-          <h2>{course}</h2>
-          <div className="subheading-border"></div>
-        </div>
-        <div className="StudentProfilesContainer">{CourseStudentElements}</div>
-      </motion.div>
-    );
-  }
-
-  return <>{AllStudentsElements}</>;
+  return (
+    <>
+      {Object.entries(StudentsData).map(([course, students]) => (
+        <motion.div key={course} variants={container} initial="hidden" animate="visible">
+          <div className="subheading-container">
+            <h2>{course}</h2>
+            <div className="subheading-border" />
+          </div>
+          <div className="StudentProfilesContainer">
+            {students.map((student) => (
+              <StudentCard key={student.name} student={student} course={course} />
+            ))}
+          </div>
+        </motion.div>
+      ))}
+    </>
+  );
 });
 
-function partialMatch(str, pattern) {
-  if (!str || !pattern) return false; // Ensure both inputs are valid strings
-  const tokens = pattern.split(/[, ]+/);
 
-  for (let token of tokens) {
-    if (token === "") continue;
-    let filter = new RegExp(token.replace(/[|\\{}()[\]^$+*?.]/g, "\\$&"), "ig");
-    if (str.match(filter)) {
-      return true;
-    }
-  }
-  return false;
+function partialMatch(str, pattern) {
+  if (!str || !pattern) return false;
+  const tokens = pattern.split(/[, ]+/);
+  return tokens.some((token) => {
+    if (!token) return false;
+    const regex = new RegExp(token.replace(/[|\\{}()[\]^$+*?.]/g, "\\$&"), "i");
+    return regex.test(str);
+  });
 }
+
+// Not used as above, it is handled in StudentCard used a placeholder instead
 function validateImages(course, image) {
   if (!images[course]) {
-    console.error(`Course "${course}" does not exist in images.`);
+    console.error(`Course "${course}" not found.`);
     return false;
   }
   if (!images[course][image]) {
-    console.error(`Image "${image}" does not exist for course "${course}".`);
+    console.error(`Image "${image}" not found for "${course}".`);
     return false;
   }
   return true;
 }
-const FilteredStudentsElements = memo((props) => {
-  const FilteredStudentsElements = [];
 
-  for (let course in StudentsData) {
-    for (let student of StudentsData[course]) {
+
+// Defined for search functionality but never read.
+const FilteredStudentsElements = memo(({ query }) => {
+  const results = [];
+
+  Object.entries(StudentsData).forEach(([course, students]) => {
+    students.forEach((student) => {
       if (
-        partialMatch(student.name, props.query) ||
-        partialMatch(student.highQual, props.query) ||
-        partialMatch(student.skills, props.query) ||
-        partialMatch(course, props.query) ||
-        partialMatch(student.linkedin, props.query)
+        partialMatch(student.name, query) ||
+        partialMatch(student.highQual, query) ||
+        partialMatch(student.skills, query) ||
+        partialMatch(course, query) ||
+        partialMatch(student.linkedin, query)
       ) {
-        FilteredStudentsElements.push(
-          <StudentCard key={student.name} student={student} course={course} />
-        );
+        results.push(<StudentCard key={student.name} student={student} course={course} />);
       }
-    }
-  }
+    });
+  });
 
   return (
     <motion.div variants={container} initial="hidden" animate="visible">
       <div className="subheading-container">
         <h2>Search Results</h2>
-        <div className="subheading-border"></div>
+        <div className="subheading-border" />
       </div>
       <div className="StudentProfilesContainer">
-        {FilteredStudentsElements.length === 0 ? (
-          <div className="NoResults">No results found</div>
-        ) : (
-          FilteredStudentsElements
-        )}
+        {results.length > 0 ? results : <div className="NoResults">No results found</div>}
       </div>
     </motion.div>
   );
 });
 
-let searchTimerID = null;
 
 const CourseButton = ({ course, isActive, onClick }) => (
   <button
@@ -211,7 +176,7 @@ const FilteredStudents = memo(({ course }) => {
     <motion.div variants={container} initial="hidden" animate="visible">
       <div className="subheading-container">
         <h2>{course}</h2>
-        <div className="subheading-border"></div>
+        <div className="subheading-border" />
       </div>
       <div className="StudentProfilesContainer">
         {students.map((student) => (
@@ -224,14 +189,15 @@ const FilteredStudents = memo(({ course }) => {
 
 export default function Student() {
   const courses = Object.keys(StudentsData);
-  const [selectedCourse, setSelectedCourse] = useState(courses[0]); // Initialize with the first course
+  const [selectedCourse, setSelectedCourse] = useState(courses[0]);
 
   return (
     <div>
       <div className="heading-container" id="StudentProfiles">
         <h1>Students' Profiles</h1>
-        <div className="heading-border"></div>
+        <div className="heading-border" />
       </div>
+
       <div className="CourseButtonContainer">
         {courses.map((course) => (
           <CourseButton
@@ -242,6 +208,7 @@ export default function Student() {
           />
         ))}
       </div>
+
       <div className="StudentProfilesBody">
         <FilteredStudents course={selectedCourse} />
       </div>
