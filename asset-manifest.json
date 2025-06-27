@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d29ec487.css",
-    "main.js": "/static/js/main.3b3f798b.js",
+    "main.js": "/static/js/main.30d1e372.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
     "static/media/24MCA025.jpg": "/static/media/24MCA025.488b123de1a329028351.jpg",
     "static/media/mca.jpg": "/static/media/mca.175dd76b6fb9f9f15421.jpg",
@@ -66,6 +66,7 @@
     "static/media/dr_taran.jpg": "/static/media/dr_taran.f389989c6fa6b431da85.jpg",
     "static/media/24MCA021.jpg": "/static/media/24MCA021.b5c58d4253ca8a41b67f.jpg",
     "static/media/HeadUpc.jpg": "/static/media/HeadUpc.be14f6bab08827c092b7.jpg",
+    "static/media/24MAM26.jpg": "/static/media/24MAM26.47ff7ca12a3aab0d1432.jpg",
     "static/media/24MBI25.jpg": "/static/media/24MBI25.42e4852d079febd8c262.jpg",
     "static/media/24MBI38.jpg": "/static/media/24MBI38.9d0ac65092f5ec34ccbf.jpg",
     "static/media/24MBI20.jpg": "/static/media/24MBI20.ce355ae1beab5d82cd6b.jpg",
@@ -77,6 +78,7 @@
     "static/media/24MBI23.jpg": "/static/media/24MBI23.87be566c59003b5a0d66.jpg",
     "static/media/dr_zeeshan.jpg": "/static/media/dr_zeeshan.7d802a8b7352d328e40c.jpg",
     "static/media/24MAM06.jpg": "/static/media/24MAM06.86930f7c17b5c48ab252.jpg",
+    "static/media/24MAM42.jpg": "/static/media/24MAM42.6a6abc656c5ea32d0aa6.jpg",
     "static/media/placeholder.jpg": "/static/media/placeholder.8caffcad13d9836b6e95.jpg",
     "static/media/24MCA008.jpg": "/static/media/24MCA008.611d4a8e496cecfaccb5.jpg",
     "static/media/24MAM04.jpg": "/static/media/24MAM04.1658535517af365de98f.jpg",
@@ -125,7 +127,6 @@
     "static/media/24MCA019.jpg": "/static/media/24MCA019.5f60e85df0e0d56ab5bf.jpg",
     "static/media/achievementsBg.png": "/static/media/achievementsBg.5e6f94e97f2ab08097e7.png",
     "static/media/24MCA034.jpg": "/static/media/24MCA034.0dac75e2119a9635dcf2.jpg",
-    "static/media/24MAM26.jpg": "/static/media/24MAM26.21bb9518db5860f003d1.jpg",
     "static/media/24MCA031.jpg": "/static/media/24MCA031.1ba2ef9c628a2e78b360.jpg",
     "static/media/24MAM20.jpg": "/static/media/24MAM20.c451d753e981216a0adf.jpg",
     "static/media/24MBI42.jpg": "/static/media/24MBI42.21f4452d904b0eb0f726.jpg",
@@ -184,10 +185,10 @@
     "static/media/24MCA050.jpg": "/static/media/24MCA050.fe2487765176c8e99702.jpg",
     "index.html": "/index.html",
     "main.d29ec487.css.map": "/static/css/main.d29ec487.css.map",
-    "main.3b3f798b.js.map": "/static/js/main.3b3f798b.js.map"
+    "main.30d1e372.js.map": "/static/js/main.30d1e372.js.map"
   },
   "entrypoints": [
     "static/css/main.d29ec487.css",
-    "static/js/main.3b3f798b.js"
+    "static/js/main.30d1e372.js"
   ]
 }
