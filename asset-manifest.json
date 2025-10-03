@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cd7ddbd.css",
-    "main.js": "/static/js/main.f8633148.js",
+    "main.css": "/static/css/main.ac64c416.css",
+    "main.js": "/static/js/main.c88d152e.js",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
+    "static/media/Swiper_0.jpg": "/static/media/Swiper_0.773883fa1e62df0195db.jpg",
+    "static/media/msc_ai.jpg": "/static/media/msc_ai.25346f991218b23f4bf1.jpg",
     "static/media/24MCA025.jpg": "/static/media/24MCA025.488b123de1a329028351.jpg",
-    "static/media/Swiper_0.jpg": "/static/media/Swiper_0.22b8c737dc1ee5c6a02e.jpg",
     "static/media/24MAM33.jpg": "/static/media/24MAM33.a3b59281429d134501f7.jpg",
     "static/media/aiml.jpg": "/static/media/aiml.ebfeea71f150997d7875.jpg",
     "static/media/Swiper_4.jpg": "/static/media/Swiper_4.36d80c840e8e9667773a.jpg",
@@ -189,11 +190,11 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "static/media/24MCA050.jpg": "/static/media/24MCA050.fe2487765176c8e99702.jpg",
     "index.html": "/index.html",
-    "main.9cd7ddbd.css.map": "/static/css/main.9cd7ddbd.css.map",
-    "main.f8633148.js.map": "/static/js/main.f8633148.js.map"
+    "main.ac64c416.css.map": "/static/css/main.ac64c416.css.map",
+    "main.c88d152e.js.map": "/static/js/main.c88d152e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cd7ddbd.css",
-    "static/js/main.f8633148.js"
+    "static/css/main.ac64c416.css",
+    "static/js/main.c88d152e.js"
   ]
 }
