@@ -1,0 +1,265 @@
+.SearchBarHolder {
+    width: 100%;
+    text-align: right;
+}
+
+.SearchBar {
+    margin: 10px 40px 10px 0px;
+    width: 300px;
+    padding: 10px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid #002a38;
+    font-size: 1.2em;
+    background-color: #0a546b;
+    color: white;
+}
+
+.SearchBar:focus {
+    outline: none;
+}
+
+.SearchBar::placeholder {
+    color: rgb(255, 255, 255);
+}
+
+.NoResults {
+    color: red;
+    font-size: 30px;
+    height: 200px;
+    margin-top: 80px;
+}
+
+.SpecialDesignation {
+    background-color: #0ab4e7;
+    color: white;
+    border-radius: 20px 20px 0px 0px;
+    font-size: 1.2em;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.StudentProfilesBody {
+    padding: 10px 50px;
+}
+
+/* .StudentProfilesContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+} */
+
+
+.StudentProfilesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: stretch; /* ✅ make children fill equal height */
+}
+
+.StudentCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    flex: 1 1 350px;
+    max-width: 350px;
+    margin: 20px 10px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    /* Lighter shadow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 
+                0 6px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+.StudentDetailsBody {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.StudentSkills {
+    min-height: 110px;          /* ✅ reserve consistent space for skills */
+    margin: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(157, 206, 250);
+    border-radius: 10px;
+}
+
+
+/* .StudentCard {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 50%), 0 6px 20px 0 rgb(0 0 0 / 50%);
+    border-radius: 20px;
+    width: 350px;
+    margin: 20px 10px;
+    text-align: center;
+} */
+
+.StudentCard h2{
+    max-height: 4.5em;         /* Limit to 3 lines (approx.) */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    white-space: normal;       /* Allow wrapping */
+    line-height: 1.5em;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;     /* Number of lines to show */
+    line-clamp: 3;             /* Standard property for compatibility */
+  -webkit-box-orient: vertical;
+}
+
+.StudentImageContainer { 
+    position: relative;
+    height: 230px;
+    border-radius: 20px 20px 0px 0px;
+    background-color: #074153;
+    z-index: 1;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.ImageCurve {
+    position: absolute;
+    top: 50%;
+    height: 115px;
+    width: 350px;
+    background-color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    z-index: -1;
+    
+}
+.StudentImageWrapper{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 3px solid #0377a5;
+    overflow: hidden;
+}
+.StudentImage {
+    width: 200px
+}
+/* 
+.StudentDetailsBody {
+    background-color: white;
+    border-radius: 20px;
+} */
+
+.StudentName {
+    text-transform: capitalize;
+    font-size: 1.6em; 
+    font-weight: 800;
+    color: #0d5f79;
+}
+
+.StudentQualification
+{
+    font-size: 1.3em; 
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #439ab4;
+    margin: 0px 10px 10px;
+}
+
+/* .StudentSkills {
+    margin: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgb(157, 206, 250);
+    border-radius: 10px;
+} */
+
+.StudentSkills img {
+    width: 30px;
+    vertical-align: middle; 
+}
+
+.StudentSkills h1 {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.StudentSkills h2 {
+    margin: 0;
+    font-size: 1.0em;
+    font-weight: 400;
+    text-align: center;
+}
+
+.StudentContactSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+.StudentSectionBorder {
+    border-top: 4px solid #074153;
+    border-radius: 10px;
+    min-width: 60%;
+}
+
+.StudentContactSection a {
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.StudentContactIcon {
+    height: 30px;
+    width: 30px;
+    filter: brightness(40%);
+}
+
+.StudentContactIcon:hover {
+    transform: scale(1.1);
+}
+
+@media only screen and (max-width: 1080px){
+    .SearchBarHolder {
+        text-align: center;
+    }
+    
+    .SearchBar {
+        margin: 10px;
+        width: calc(100% - 30px);
+        padding: 5px;
+        height: 30px;
+        border-radius: 8px;
+        font-size: 1.0em;
+    }
+
+    .StudentProfilesBody {
+        padding: 10px;
+    }
+    
+    .StudentCard {
+        border-radius: 10px;
+        width: 350px;
+        margin: 20px 0px;
+    }
+    
+    .StudentImageContainer { 
+        border-radius: 10px 10px 0px 0px;
+    }
+    
+    .ImageCurve {
+        border-radius: 7px 7px 0px 0px;
+    }
+}

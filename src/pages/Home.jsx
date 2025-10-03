@@ -1,10 +1,13 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Autoplay } from "swiper";
-import { motion } from "framer-motion";
-import importAll from "../middleware/dynamicImport";
+
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/autoplay";
+
+
+import { motion } from "framer-motion";
+import importAll from "../middleware/dynamicImport";
 import "../stylesheets/Home.css";
 import "../Global.css";
 import { useState } from "react";
@@ -26,7 +29,7 @@ const motionStyle = {
     };
   },
   item: {
-    hidden: { y: 20, opacity: 0 },
+    hidden: { y: 30, opacity: 0 },
     visible: {
       y: 0,
       opacity: 1,
@@ -48,13 +51,7 @@ export default function Home(props) {
     require.context("../images/home", false, /\.(png|jpe?g|svg)$/)
   );
 
-  const awards = [
-    { rank: "NAAC A++", caption: "Score 3.61, NAAC 2021 Cycle 2" },
-    { rank: "3rd", caption: "among the universities in India, NIRF 2023" },
-    { rank: "438th", caption: "among world's top 1300 universities, RUR 2021" },
-    { rank: "501-600", caption: "World University Ranking, THE 2023" },
-    { rank: "301-400", caption: "Computer Science Ranking, THE 2022" },
-  ];
+  
   const Counters = [
     { count: 300, title: "Courses", suffix: true, duration: 2.0, delay: 0.1 },
     { count: 11, title: "Faculties", suffix: false, duration: 2.0, delay: 0.1 },
@@ -74,35 +71,12 @@ export default function Home(props) {
       delay: 0.1,
     },
   ];
-  const DashboardItems = [
-    { title: "Professors' Profiles", link: "/professors", icon: "teacher.png" },
-    {
-      title: "Curriculum",
-      link: "/courses#curriculum",
-      icon: "curriculum.png",
-    },
-    { title: "Students' Profiles", link: "/students", icon: "student.png" },
-    { title: "Placement", link: "/placement", icon: "placement.png" },
-    {
-      title: "Message Section",
-      link: "/about#MessageSection",
-      icon: "message.png",
-    },
-    {
-      title: "Contributors' Profiles",
-      link: "/placement#contributors",
-      icon: "contributors.png",
-    },
-    { title: "Contact Us", link: "/contact", icon: "contact.png" },
-    { title: "About DCS JMI", link: "/about", icon: "about.png" },
-  ];
+  
 
-  const slides = [];
   const numSlides = 11;
-  const awardsElement = [];
   const CounterElemets = [];
-  const DashboardElements = [];
 
+  const slides = []; // array of jsx element for holding the main page slides
   for (let i = 0; i < numSlides; i++) {
     slides.push(
       <SwiperSlide className="slide" key={i}>
@@ -115,6 +89,15 @@ export default function Home(props) {
     );
   }
 
+
+  const awards = [
+    { rank: "NAAC A++", caption: "Score 3.61, NAAC 2021 Cycle 2" },
+    { rank: "3rd", caption: "among the universities in India, NIRF 2023" },
+    { rank: "438th", caption: "among world's top 1300 universities, RUR 2021" },
+    { rank: "501-600", caption: "World University Ranking, THE 2023" },
+    { rank: "301-400", caption: "Computer Science Ranking, THE 2022" },
+  ];
+  const awardsElement = [];
   for (let award of awards) {
     awardsElement.push(
       <motion.div variants={motionStyle.item} key={award.rank}>
@@ -154,17 +137,73 @@ export default function Home(props) {
       CounterElemets.push(<div key={i} className="CountBorder"></div>);
   }
 
-  for (let item of DashboardItems) {
-    DashboardElements.push(
-      <Link to={item.link} key={item.title} style={{ textDecoration: "none" }}>
-        <motion.div className="DashboardItem" variants={motionStyle.item}>
-          <img src={images[item.icon]} alt="" />
-          <h1>{item.title}</h1>
-          <h2>Click to See More</h2>
-        </motion.div>
-      </Link>
-    );
-  }
+
+  const DashboardItems = [
+    { title: "Professors' Profiles", link: "/professors", icon: "teacher.png" },
+    {
+      title: "Curriculum",
+      link: "/courses#curriculum",
+      icon: "curriculum.png",
+    },
+    { title: "Students' Profiles", link: "/students", icon: "student.png" },
+    { title: "Placement", link: "/placement", icon: "placement.png" },
+    {
+      title: "Message Section",
+      link: "/about#MessageSection",
+      icon: "message.png",
+    },
+    {
+      title: "Contributors' Profiles",
+      link: "/placement#contributors",
+      icon: "contributors.png",
+    },
+    { title: "Contact Us", link: "/contact", icon: "contact.png" },
+    { title: "About DCS JMI", link: "/about", icon: "about.png" },
+  ];
+
+
+  // for (let item of DashboardItems) {
+  //   DashboardElements.push(
+  //     <Link to={item.link} key={item.title} style={{ textDecoration: "none" }}>
+  //       <motion.div className="DashboardItem" variants={motionStyle.item}>
+  //         <img src={images[item.icon]} alt="" />
+  //         <h1>{item.title}</h1>
+  //         <h2>Click to See More</h2>
+  //       </motion.div>
+  //     </Link>
+  //   );
+  // }
+
+
+  
+const DashboardElements = DashboardItems.map((item) => (
+  <Link to={item.link} key={item.title} style={{ textDecoration: "none" }}>
+    <motion.div
+      className="DashboardItem"
+      variants={motionStyle.item}
+      whileHover={{
+        rotate: 2,
+        scale: 1.04,
+        boxShadow: "10px 10px 25px rgba(0, 0, 0, 0.2)",
+        transition: { duration: 0.4, ease: "easeOut" }
+      }}
+    >
+      <motion.img
+        src={images[item.icon]}
+        alt={item.title}
+        whileHover={{
+          rotate: -15,
+          transition: { duration: 0.4, ease: "easeOut" }
+        }}
+        style={{ margin: "20px auto", height: "80px" }}
+      />
+      <h1>{item.title}</h1>
+      <h2>Click to See More</h2>
+    </motion.div>
+  </Link>
+));
+
+
 
   const FallbackViewportEnter = (oldState, stateFunction) => {
     if (!oldState) {
@@ -175,6 +214,7 @@ export default function Home(props) {
   return (
     <div id="Home" className="Home">
       <div className="HomeSection FirstSection">
+        
         <Swiper
           loop={true}
           autoplay={{ delay: 3000 }}
@@ -182,14 +222,19 @@ export default function Home(props) {
           modules={[Autoplay, Pagination]}
           className="slideHolder"
         >
-          {slides}
+          {slides}  
+          {/* used the above slides element array */}
         </Swiper>
+
+
         <div className="WelcomeContainer">
           <div className="JamiaLogo"></div>
           <h1>Department of Computer Science</h1>
           <h2>Jamia Millia Islamia</h2>
         </div>
       </div>
+
+
       <div className="HomeSection SecondSection">
         <div className="SecondSectionContainer">
           <motion.div
@@ -255,7 +300,7 @@ export default function Home(props) {
         <div className="DashboardBody">
           <motion.div
             key={WasPage4inView ^ isPage4inView ? ++key2 : key2}
-            variants={motionStyle.container(7, 1.5)}
+            variants={motionStyle.container(9, 3)}
             initial="hidden"
             animate={isPage4inView ? "visible" : "hidden"}
             className="DashboardRow"

@@ -205,7 +205,7 @@
   },
 
   "MSC_AI_ML": {
-    "FullName": "MSc AI & ML",
+    "FullName": "MSc Artificial Intelligence & Machine Learning",
     "Image": "aiml.jpg",
     "Summary": "The Master of Science in Artificial Intelligence and Machine Learning (MSc AI & ML) is a cutting-edge 2-year (4 semesters) academic programme designed to meet the growing demand for AI and ML specialists. This programme offers a comprehensive curriculum that combines theoretical foundations with practical applications, preparing students for the rapidly evolving field of AI and ML. Students will gain expertise in areas such as deep learning, natural language processing, computer vision, robotics, and data analytics. The course structure is regularly updated to incorporate the latest advancements in AI and ML technologies, ensuring that graduates are well-equipped to tackle real-world challenges. Throughout the programme, students will work on hands-on projects, participate in industry collaborations, and have opportunities to present their research at conferences. Our students have excelled in various domains, including predictive analytics, autonomous systems, intelligent assistants, and recommendation engines. The programme also emphasizes ethical considerations in AI, preparing students to address the societal impacts of these technologies. Whether aiming for roles as AI researchers, ML engineers, data scientists, or AI product managers, this programme provides the necessary skills and knowledge for a successful career in the exciting and rapidly growing field of AI and ML.",
     "Duration": "2 Years",
@@ -254,8 +254,8 @@
         {
           "Category": "ELECTIVE",
           "Courses": [
-            "Elective-I",
-            "Elective-II"
+            "Applied Statistics",
+            "Data Analytics and Predictive Modelling"
           ]
         },
         {
@@ -281,8 +281,8 @@
         {
           "Category": "ELECTIVE",
           "Courses": [
-            "Elective-III",
-            "Elective-IV"
+            "IoT and Big Data",
+            "MLOps and DevOps" 
           ]
         },
         {

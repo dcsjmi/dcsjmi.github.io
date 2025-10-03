@@ -154,18 +154,18 @@ export default function Message() {
                 />
               </div>
               <div className="info">
-                <h2>Dr. Monica Mehrotra</h2>
+                <h2>Dr. Mohammad Nazir</h2>
                 <em>Professor & HOD</em>
                 {/* Social icons */}
                 <div className="contact">
                   <span>
                     <i className="fa-solid fa-envelope"></i>
-                    <a href="mailto:mmehrotra@jmi.ac.in">mmehrotra@jmi.ac.in</a>
+                    <a href="mailto:mmehrotra@jmi.ac.in">mnazir@jmi.ac.in</a>
                   </span>
-                  <span>
+                  {/* <span>
                     <i className="fa-solid fa-phone"></i>
                     <a href="tel:9818846513">+91-9818846513</a>
-                  </span>
+                  </span> */}
                 </div>
               </div>
             </div>

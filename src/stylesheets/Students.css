@@ -1,3 +1,7 @@
+
+/*
+    General Layout and Container Styles
+*/
 .SearchBarHolder {
     width: 100%;
     text-align: right;
@@ -31,39 +35,115 @@
 }
 
 
+
 .StudentProfilesBody {
     padding: 10px 50px;
 }
-
-/* .StudentProfilesContainer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-wrap: wrap;
-} */
-
 
 .StudentProfilesContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    align-items: stretch; /* ✅ make children fill equal height */
+    align-items: stretch; /* Make children fill equal height */
 }
 
+
+/*
+    Student Card Styles
+*/
 .StudentCard {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 100%;                /* ✅ fill height of row */
-    flex: 1 1 350px;             /* ✅ responsive sizing */
-    max-width: 350px;           /* ✅ prevent too wide */
+    height: 100%;
+    flex: 1 1 350px;
+    max-width: 350px;
     margin: 20px 10px;
     background-color: white;
     color: black;
     border-radius: 20px;
-    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 50%), 0 6px 20px 0 rgb(0 0 0 / 50%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 
+                0 6px 20px rgba(0, 0, 0, 0.1);
     text-align: center;
+}
+
+.StudentCard h2 {
+    max-height: 4.5em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    white-space: normal;
+    line-height: 1.5em;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.SpecialDesignationPostioner {
+    position: relative;
+
+}
+
+.SpecialDesignation {
+    position: absolute;
+    background-color: #0ab4e7;
+    color: white;
+    border-radius: 20px 20px 0px 0px;
+    font-size: 1em;
+    font-weight: 500;
+    padding: 10px;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 90%;
+    height: 20px;
+    text-align: center;
+}
+
+
+.StudentImageContainer { 
+    position: relative;
+    height: 250px;
+    border-radius: 20px 20px 0px 0px;
+    background-color: #074153;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ImageCurve {
+    position: absolute;
+    top: 50%;
+    height: 130px;
+    width: 350px;
+    background-color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    z-index: -1;
+}
+
+.StudentImageWrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    border: 3px solid #0377a5;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.StudentImageWrapper:hover {
+    transform: translate(-50%, -50%) scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.StudentImage {
+    width: 200px;
 }
 
 .StudentDetailsBody {
@@ -75,77 +155,6 @@
     border-radius: 20px;
 }
 
-.StudentSkills {
-    min-height: 110px;          /* ✅ reserve consistent space for skills */
-    margin: 10px;
-    padding: 10px;
-    text-transform: capitalize;
-    background-color: rgb(157, 206, 250);
-    border-radius: 10px;
-}
-
-
-/* .StudentCard {
-    background-color: rgb(255, 255, 255);
-    color: black;
-    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 50%), 0 6px 20px 0 rgb(0 0 0 / 50%);
-    border-radius: 20px;
-    width: 350px;
-    margin: 20px 10px;
-    text-align: center;
-} */
-
-.StudentCard h2{
-    max-height: 4.5em;         /* Limit to 3 lines (approx.) */
-    overflow: hidden;
-    text-overflow: ellipsis;
-    word-wrap: break-word;
-    white-space: normal;       /* Allow wrapping */
-    line-height: 1.5em;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;     /* Number of lines to show */
-    line-clamp: 3;             /* Standard property for compatibility */
-  -webkit-box-orient: vertical;
-}
-
-.StudentImageContainer { 
-    position: relative;
-    height: 230px;
-    border-radius: 20px 20px 0px 0px;
-    background-color: #074153;
-    z-index: 1;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
-
-.ImageCurve {
-    position: absolute;
-    top: 50%;
-    height: 115px;
-    width: 350px;
-    background-color: #ffffff;
-    border-radius: 10px 10px 0px 0px;
-    z-index: -1;
-    
-}
-.StudentImageWrapper{
-    margin-top: 20px;
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    border: 3px solid #0377a5;
-    overflow: hidden;
-}
-.StudentImage {
-    width: 200px
-}
-/* 
-.StudentDetailsBody {
-    background-color: white;
-    border-radius: 20px;
-} */
-
 .StudentName {
     text-transform: capitalize;
     font-size: 1.6em; 
@@ -153,8 +162,7 @@
     color: #0d5f79;
 }
 
-.StudentQualification
-{
+.StudentQualification {
     font-size: 1.3em; 
     font-weight: 500;
     text-transform: capitalize;
@@ -162,13 +170,14 @@
     margin: 0px 10px 10px;
 }
 
-/* .StudentSkills {
+.StudentSkills {
+    min-height: 110px;
     margin: 10px;
     padding: 10px;
     text-transform: capitalize;
     background-color: rgb(157, 206, 250);
     border-radius: 10px;
-} */
+}
 
 .StudentSkills img {
     width: 30px;
@@ -189,6 +198,9 @@
     text-align: center;
 }
 
+/*
+    Contact Section and Icons
+*/
 .StudentContactSection {
     display: flex;
     flex-direction: column;
@@ -220,7 +232,17 @@
     transform: scale(1.1);
 }
 
-@media only screen and (max-width: 1080px){
+/*
+    Media Queries
+*/
+@media only screen and (max-width: 1080px) {
+
+   
+    .StudentImageWrapper:hover {
+        transform: translate(-50%, -50%) scale(1); /* no zoom on tap */
+    }
+
+
     .SearchBarHolder {
         text-align: center;
     }

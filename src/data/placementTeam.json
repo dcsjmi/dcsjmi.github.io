@@ -83,5 +83,66 @@
       }
     ]
     
-  }
+  },
+
+  "M.Sc. AI/ML": {
+      "Main": [
+        {
+          "Name": "Rashda Razi",
+          "Designation": "SPoC",
+          "Image": "24MAM30.jpg",
+          "Phone": "8700057889",
+          "Email": "Rakhsart17@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/rashda-razi-515881165"  
+        },
+        {
+          "Name": "Iqra Khan",
+          "Designation": "SPoC",
+          "Image": "24MAM15.jpg",
+          "Phone": "8266928202",
+          "Email": "iqrakhan89102@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/iiqrakhan/"  
+        },
+        {
+          "Name": "Waquar Hassan",
+          "Designation": "Graphics Designer",
+          "Image": "24MAM40.jpg",
+          "Phone": "8271981162",
+          "Email": "waquarh599@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/waquarism/"  
+        }
+      ],
+      "Graphics Team": [
+        
+        {
+          "Name": "Abdul Ahad",
+          "Designation": "Graphics Designer",
+          "Image": "24MAM01.jpg",
+          "Phone": "7895059318",
+          "Email": "aahad8948@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/abdul-ahad0296"  
+        }
+      ], "Web Team": [
+        
+        {
+          "Name": "Amir Hamza Khan",
+          "Designation": "SPoC",
+          "Image": "24MAM08.jpg",
+          "Phone": "7541896866",
+          "Email": "amirhamzakhan2001@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/amirhamzakhan032001"
+        },
+
+        {
+          "Name": "Sayed Zaheer Abass",
+          "Designation": "SPoC",
+          "Image": "24MAM34.jpg",
+          "Phone": "6005369276",
+          "Email":  "sayedalinaqvi1472@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/sayed-zaheer-abass"  
+        }
+      ]
+
+    }
+
 }

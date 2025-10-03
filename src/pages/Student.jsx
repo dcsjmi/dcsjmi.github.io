@@ -48,10 +48,17 @@ function StudentCard({ student, course }) {
 
   return (
     <motion.div className="StudentCard" variants={item}>
+
       <div className="StudentImageContainer">
-        <div className="StudentImageWrapper">
-          <img src={studentImage} alt={student.name} className="StudentImage" />
+        <div className="SpecialDesignationPositioner">
+          {
+            student.SpecialDesignation ? <div className="SpecialDesignation">{student.SpecialDesignation}</div> : null
+          }
+          <div className="StudentImageWrapper">
+            <img src={studentImage} alt={student.name} className="StudentImage" />
+          </div>
         </div>
+
         <div className="ImageCurve" />
       </div>
 

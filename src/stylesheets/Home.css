@@ -115,7 +115,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  color: #e1a40f;
+  color: #f7c549;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -214,16 +214,21 @@
   flex-wrap: wrap;
 }
 
-@keyframes animateDshItem {
-  from { box-shadow: 0px 0px 0px rgb(150, 150, 150); transform: scale(1);}
-  to {box-shadow: 15px 15px 10px rgb(150, 150, 150); transform: scale(1.05);}
+@keyframes rotateDashboardItem {
+  from {
+    transform: scale(1) rotate(0deg);
+    box-shadow: 0px 0px 0px rgb(150, 150, 150);
+  }
+  to {
+    transform: scale(1.07) rotate(5deg);
+    box-shadow: 15px 15px 10px hsl(0, 0%, 80%);
+  }
 }
 
 .DashboardItem {
   width: 300px;
   height: 300px;
   margin: 20px;
-  text-decoration: none;
   background-color: rgb(7, 65, 83);
   color: white;
   display: flex;
@@ -232,14 +237,11 @@
   border-radius: 5px;
 }
 
-.DashboardItem:hover {
-  animation: animateDshItem 0.3s forwards;
+.DashboardItem img {
+  display: block;
 }
 
-.DashboardItem img {
-  margin: 20px auto;
-  height: 80px;
-}
+
 
 .DashboardItem h1 {
   padding: 0px 10px;
@@ -381,8 +383,8 @@
   }
   
   .DashboardItem {
-    width: 160px;
-    height: 160px;
+    width: 230px;
+    height: 230px;
     margin: 10px 5px;
     box-shadow: 3px 3px 5px grey;
   }
