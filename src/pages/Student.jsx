@@ -45,7 +45,7 @@ const images = {
 function StudentCard({ student, course }) {
   const studentImage =
     images[course]?.[student.image] || require("../data/place_holder/placeholder.jpg");
-
+   
   return (
     <motion.div className="StudentCard" variants={item}>
 
