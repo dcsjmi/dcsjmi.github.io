@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ac64c416.css",
-    "main.js": "/static/js/main.c5045122.js",
+    "main.js": "/static/js/main.3d2545b1.js",
     "static/media/aiml.jpg": "/static/media/aiml.0b67ae9dddd177336ca2.jpg",
     "static/media/Swiper_4.jpg": "/static/media/Swiper_4.04e6dbf82e9774556956.jpg",
     "static/media/mca.jpg": "/static/media/mca.6512c1d26e282df39ffd.jpg",
@@ -129,6 +129,7 @@
     "static/media/dr_khalid.jpg": "/static/media/dr_khalid.3f36ae5893fdbf6dbdac.jpg",
     "static/media/dr_kmustafa.jpg": "/static/media/dr_kmustafa.172828bd48c4264b6122.jpg",
     "static/media/achievementsBg.png": "/static/media/achievementsBg.5e6f94e97f2ab08097e7.png",
+    "static/media/Faishal.jpeg": "/static/media/Faishal.071bb306aadeb9f5c01c.jpeg",
     "static/media/24MAM22.jpg": "/static/media/24MAM22.c451d753e981216a0adf.jpg",
     "static/media/24MBI42.jpg": "/static/media/24MBI42.21f4452d904b0eb0f726.jpg",
     "static/media/24MAM41.jpg": "/static/media/24MAM41.a4e80430e6ac058d738a.jpg",
@@ -175,10 +176,10 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
     "main.ac64c416.css.map": "/static/css/main.ac64c416.css.map",
-    "main.c5045122.js.map": "/static/js/main.c5045122.js.map"
+    "main.3d2545b1.js.map": "/static/js/main.3d2545b1.js.map"
   },
   "entrypoints": [
     "static/css/main.ac64c416.css",
-    "static/js/main.c5045122.js"
+    "static/js/main.3d2545b1.js"
   ]
 }
