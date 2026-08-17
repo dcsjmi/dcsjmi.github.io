@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ac64c416.css",
-    "main.js": "/static/js/main.3d2545b1.js",
+    "main.js": "/static/js/main.f11834cb.js",
     "static/media/aiml.jpg": "/static/media/aiml.0b67ae9dddd177336ca2.jpg",
     "static/media/Swiper_4.jpg": "/static/media/Swiper_4.04e6dbf82e9774556956.jpg",
     "static/media/mca.jpg": "/static/media/mca.6512c1d26e282df39ffd.jpg",
@@ -46,6 +46,7 @@
     "static/media/Subhan.jpg": "/static/media/Subhan.c190c6232fba14f5909f.jpg",
     "static/media/26.png": "/static/media/26.2ee54d64ab6fe07f1e52.png",
     "static/media/25MCA047.jpg": "/static/media/25MCA047.a98ef63b3cdbe1fc2e8c.jpg",
+    "static/media/Shaiq.jpeg": "/static/media/Shaiq.db563a696d6e8a4939c4.jpeg",
     "static/media/24MAM12.jpg": "/static/media/24MAM12.c022308cc084e6f1eef6.jpg",
     "static/media/24MAM10.jpg": "/static/media/24MAM10.a3e5f7c08e80257c0077.jpg",
     "static/media/Swiper_9.jpg": "/static/media/Swiper_9.be508cc69d758315096b.jpg",
@@ -176,10 +177,10 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
     "main.ac64c416.css.map": "/static/css/main.ac64c416.css.map",
-    "main.3d2545b1.js.map": "/static/js/main.3d2545b1.js.map"
+    "main.f11834cb.js.map": "/static/js/main.f11834cb.js.map"
   },
   "entrypoints": [
     "static/css/main.ac64c416.css",
-    "static/js/main.3d2545b1.js"
+    "static/js/main.f11834cb.js"
   ]
 }
