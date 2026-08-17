@@ -15,71 +15,80 @@
     "Main Team": [
       {
         "Name": "Aanya Sharma",
-        "Designation": "SPoC",
-        "Image": "24MCA007.jpg",
+        "Designation": "Main Team(Head)",
+        "Image": "abc.png",
         "Phone": "+91 7982117380",
         "Email": "ahmadayaan00@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/ayaan2001/"
       },
       {
-        "Name": "Md Salik",
-        "Designation": "SPoC",
-        "Image": "24MCA026.jpg",
-        "Phone": "+91 7281026680",
-        "Email": "mdsalikdns@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/md-salik-7099ab78/"
+        "Name": "Aqdas Amaan",
+        "Designation": "Main Team",
+        "Image": "10.jpg",
+        "Phone": "+91 63893 18905",
+        "Email": "aqdasamaan88@gmail.com",
+        "Linkedin": "linkedin.com/in/aqdas-amaan"
       },
       {
-        "Name": "Shashank Singh",
-        "Designation": "SPoC",
-        "Image": "24MCA050.jpg",
+        "Name": "Vishwajeet Singh",
+        "Designation": "Main Team(Head)",
+        "Image": "+91 8078 676 270",
         "Phone": "+91 9555390293",
-        "Email": "shashanksinc@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/shashank-singh-22786b31a/"
+        "Email": "vishwajeetworks@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/sonam-saini-02a852268"
       },
       {
-        "Name": "Mantsha",
-        "Designation": "SPoC",
-        "Image": "24MCA017.jpg",
-        "Phone": "+91 9305448734",
-        "Email": "mantshasaleem@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/mantsha-saleem-865051210/"
+        "Name": "Mohammed Muhafiz Hussain",
+        "Designation": "Main Team",
+        "Image": "30.jpeg",
+        "Phone": "+91 7656 999 699",
+        "Email": "mailto:hussainmuhafiz@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/mohammed-muhafiz-hussain-22o4?utm_source=chatgpt.com"
+      },
+      {
+        
+        "Name": "Sonam",
+        "Designation": "Spoc",
+        "Image": "50.png",
+        "Phone": "+91 7656 999 699",
+        "Email": "100nam2002@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/sonam-saini-02a852268?utm_source=chatgpt.com"
       }
     ],"Web Team": [
       {
         "Name": "Shahvej Khan",
         "Designation": "Web Developer",
-        "Image": "24MCA006.jpg",
+        "Image": "Shahvejkhan.png",
         "Phone": "+91 7717208751",
         "Email": "shahvejkhanjmi@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/shahvej-khan-5991452b6?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
       {
-        "Name": "Maroof Ali Syed",
+        "Name": "Irfan Khan",
         "Designation": "Web Developer",
-        "Image": "24MCA018.jpg",
-        "Phone": "+91 9305956819",
-        "Email": "maroofali688@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/maroofalysyed/"
+        "Image": "",
+        "Phone": "+91 6376277672",
+        "Email": "irfank1191326@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/irfan-khan-26498823a?utm_source=chatgpt.com"
       }
     ],
    
     "Graphics Team": [
       {
-        "Name": "Zamin Ali",
+        "Name": "MD Faishal",
         "Designation": "Graphics Designer",
-        "Image": "24MCA059.jpg",
-        "Phone": "+91 7300988782",
-        "Email": "zamin5833@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/zamin-ali-7b9764204"
+        "Image": "26.png",
+        "Phone": "+91 9953717660",
+        "Email": "iamfaizsaifi@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/md-faishal-3779a6373/?utm_source=chatgpt.com"
       },
       {
-        "Name": "Vanshika devi",
+        "Name": "Mohd Hammad",
         "Designation": "Graphics Designer",
-        "Image": "24MCA055.jpg",
-        "Phone": "+91 9720021926",
-        "Email": "vanshikagoyaltuk@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/vanshika-goyal-1476991b1"
+        "Image": "",
+        "Phone": "+91 6389730071",
+        "Email": "hammadmd445@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/mohammad-hammad-1822b9264?utm_source=chatgpt.com"
       }
     ]
     
