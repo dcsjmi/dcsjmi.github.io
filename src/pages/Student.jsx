@@ -31,10 +31,10 @@ const item = {
 // Dynamic image imports by course
 const images = {
   "Master of Computer Application": importAll(
-    require.context("../data/profiles_mca/", false, /\.(png|jpe?g|svg)$/)
+    require.context("../data/profiles_mca/", false, /\.(png|jpe?g|svg|heif)$/)
   ),
   "Master of Science Bioinformatics": importAll(
-    require.context("../data/profiles_msc_bio/", false, /\.(png|jpe?g|svg)$/)
+    require.context("../data/profiles_msc_bio/", false, /\.(png|jpe?g|svg|heif)$/)
   ),
   "Master of Science AI/ML": importAll(
     require.context("../data/profiles_msc_ai/", false, /\.(png|jpe?g|svg)$/)
