@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ac64c416.css",
-    "main.js": "/static/js/main.f11834cb.js",
+    "main.js": "/static/js/main.f376f674.js",
     "static/media/aiml.jpg": "/static/media/aiml.0b67ae9dddd177336ca2.jpg",
     "static/media/Swiper_4.jpg": "/static/media/Swiper_4.04e6dbf82e9774556956.jpg",
     "static/media/mca.jpg": "/static/media/mca.6512c1d26e282df39ffd.jpg",
@@ -34,8 +34,10 @@
     "static/media/43.jpg": "/static/media/43.360e2efac8b06584ae71.jpg",
     "static/media/19.jpg": "/static/media/19.d3e00e2fe2841d11ecd6.jpg",
     "static/media/03.png": "/static/media/03.5f2f43bf6f28e9114c10.png",
+    "static/media/36.heif": "/static/media/36.bace4f9f40860ce90340.heif",
     "static/media/30.jpeg": "/static/media/30.c024973365b3c6ff8e16.jpeg",
     "static/media/48.jpeg": "/static/media/48.cc2510c1cc63296195da.jpeg",
+    "static/media/20.heif": "/static/media/20.d11d6bb78eafe2a15872.heif",
     "static/media/card_2.jpg": "/static/media/card_2.137b9db903be1e01dba1.jpg",
     "static/media/31.jpeg": "/static/media/31.319bcba7ecf2a053aa7e.jpeg",
     "static/media/06.jpeg": "/static/media/06.fa3555397594da6e37d1.jpeg",
@@ -177,10 +179,10 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
     "main.ac64c416.css.map": "/static/css/main.ac64c416.css.map",
-    "main.f11834cb.js.map": "/static/js/main.f11834cb.js.map"
+    "main.f376f674.js.map": "/static/js/main.f376f674.js.map"
   },
   "entrypoints": [
     "static/css/main.ac64c416.css",
-    "static/js/main.f11834cb.js"
+    "static/js/main.f376f674.js"
   ]
 }
