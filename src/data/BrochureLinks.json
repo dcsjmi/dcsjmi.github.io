@@ -1,13 +1,7 @@
 {
-  "Master of Computer Application": {
+  "Department of Computer Science": {
     "Batch": "2026",
-    "Link": "/brochure_mca.pdf",
+    "Link": "/DCS_Brochure.pdf",
     "Image": "mca.jpg"
-  },
-
-  "Master of Science AI/ML":{
-    "Batch": "2026",
-    "Link": "/brochure_msc_ai.pdf",
-    "Image": "msc_ai.jpg"
   }
 }

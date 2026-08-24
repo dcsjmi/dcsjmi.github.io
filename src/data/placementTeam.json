@@ -15,31 +15,33 @@
     "Main Team": [
       {
         "Name": "Aanya Sharma",
-        "Designation": "Main Team(Head)",
+        "Designation": "",
         "Image": "abc.png",
         "Phone": "+91 7982117380",
         "Email": "ahmadayaan00@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/ayaan2001/"
       },
       {
-        "Name": "Aqdas Amaan",
-        "Designation": "Main Team",
-        "Image": "10.jpg",
-        "Phone": "+91 63893 18905",
-        "Email": "aqdasamaan88@gmail.com",
-        "Linkedin": "linkedin.com/in/aqdas-amaan"
-      },
-      {
         "Name": "Vishwajeet Singh",
-        "Designation": "Main Team(Head)",
+        "Designation": "",
         "Image": "+91 8078 676 270",
         "Phone": "+91 9555390293",
         "Email": "vishwajeetworks@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/sonam-saini-02a852268"
       },
+
+      {
+        "Name": "Aqdas Amaan",
+        "Designation": "",
+        "Image": "10.jpg",
+        "Phone": "+91 63893 18905",
+        "Email": "aqdasamaan88@gmail.com",
+        "Linkedin": "linkedin.com/in/aqdas-amaan"
+      },
+      
       {
         "Name": "Mohammed Muhafiz Hussain",
-        "Designation": "Main Team",
+        "Designation": "",
         "Image": "30.jpeg",
         "Phone": "+91 7656 999 699",
         "Email": "mailto:hussainmuhafiz@gmail.com",
@@ -57,7 +59,7 @@
     ],"Web Team": [
       {
         "Name": "Shahvej Khan",
-        "Designation": "Web Developer",
+        "Designation": "",
         "Image": "Shahvejkhan.png",
         "Phone": "+91 7717208751",
         "Email": "shahvejkhanjmi@gmail.com",
@@ -65,8 +67,8 @@
       },
       {
         "Name": "Irfan Khan",
-        "Designation": "Web Developer",
-        "Image": "",
+        "Designation": "",
+        "Image": "IrfanPhoto.png",
         "Phone": "+91 6376277672",
         "Email": "irfank1191326@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/irfan-khan-26498823a?utm_source=chatgpt.com"
@@ -76,7 +78,7 @@
     "Graphics Team": [
       {
         "Name": "MD Faishal",
-        "Designation": "Graphics Designer",
+        "Designation": "",
         "Image": "26.png",
         "Phone": "+91 9953717660",
         "Email": "iamfaizsaifi@gmail.com",
@@ -84,7 +86,7 @@
       },
       {
         "Name": "Mohd Hammad",
-        "Designation": "Graphics Designer",
+        "Designation": "",
         "Image": "IMG_1965.jpg",
         "Phone": "+91 6389730071",
         "Email": "hammadmd445@gmail.com",
@@ -94,61 +96,80 @@
     
   },
 
+
+
+  //
+  
+  //
   "M.Sc. AI/ML": {
       "Main": [
         {
-          "Name": "Rashda Razi",
-          "Designation": "SPoC",
-          "Image": "24MAM30.jpg",
-          "Phone": "8700057889",
-          "Email": "Rakhsart17@gmail.com",
-          "Linkedin": "https://www.linkedin.com/in/rashda-razi-515881165"  
+          "Name": "Jayant Aggarwal",
+          "Designation": "Main Team",
+          "Image": "16.jpg",
+          "Phone": "9582543262",
+          "Email": "jayantaggarwal7122@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/j-aggarwal"  
         },
         {
-          "Name": "Iqra Khan",
-          "Designation": "SPoC",
-          "Image": "24MAM15.jpg",
-          "Phone": "8266928202",
-          "Email": "iqrakhan89102@gmail.com",
-          "Linkedin": "https://www.linkedin.com/in/iiqrakhan/"  
+          "Name": "Megha R",
+          "Designation": "Main Team",
+          "Image": "20.jpg",
+          "Phone": "9061160499",
+          "Email": "megharnair1312@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/megha-r-a978a7262"
         },
         {
-          "Name": "Waquar Hassan",
-          "Designation": "Graphics Designer",
+          "Name": "Farhin Bano",
+          "Designation": "Main Team",
+          "Image": "11.jpg",
+          "Phone": "9517454677",
+          "Email": "banofarhin1@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/farhinbano068"  
+        },
+        {
+          "Name": "Sana Ilahi",
+          "Designation": "Main Team",
+          "Image": "33.jpg",
+          "Phone": "7078603747",
+          "Email": "sanailahi.india@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/sana-ilahi-27b38b238/"
+        }
+      ],
+      "Graphics Team": [
+        {
+          "Name": "Romana Ruqia",
+          "Designation": "Graphics Team",
           "Image": "24MAM40.jpg",
           "Phone": "8271981162",
           "Email": "waquarh599@gmail.com",
           "Linkedin": "https://www.linkedin.com/in/waquarism/"  
-        }
-      ],
-      "Graphics Team": [
-        
+        },
         {
-          "Name": "Abdul Ahad",
-          "Designation": "Graphics Designer",
-          "Image": "24MAM01.jpg",
-          "Phone": "7895059318",
-          "Email": "aahad8948@gmail.com",
-          "Linkedin": "https://www.linkedin.com/in/abdul-ahad0296"  
+          "Name": "Muhammed Anas Ali P Y",
+          "Designation": "Graphics Team",
+          "Image": "28Msc.jpg",
+          "Phone": "9778192284",
+          "Email":  "hellomranas@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/anasalipy"  
         }
       ], "Web Team": [
-        
         {
-          "Name": "Amir Hamza Khan",
-          "Designation": "SPoC",
-          "Image": "24MAM08.jpg",
-          "Phone": "7541896866",
-          "Email": "amirhamzakhan2001@gmail.com",
-          "Linkedin": "https://www.linkedin.com/in/amirhamzakhan032001"
+          "Name": "Shibaditya Dasgupta",
+          "Designation": "Web Team",
+          "Image": "37.jpg",
+          "Phone": "6005369276",
+          "Email":  "ismokemydoobie24x7@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/shibaditya-dasgupta-7967043aa?utm_source=share_via&utm_content=profile&utm_medium=member_android"  
         },
 
         {
-          "Name": "Sayed Zaheer Abass",
-          "Designation": "SPoC",
-          "Image": "24MAM34.jpg",
-          "Phone": "6005369276",
-          "Email":  "sayedalinaqvi1472@gmail.com",
-          "Linkedin": "https://www.linkedin.com/in/sayed-zaheer-abass"  
+          "Name": "Sheikh Saqlain",
+          "Designation": "Web Team",
+          "Image": "36.jpg",
+          "Phone": "9311399887",
+          "Email":  "sheikhsaqlain09@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/sheikh-saqlain?utm_source=share_via&utm_content=profile&utm_medium=member_ios"  
         }
       ]
 

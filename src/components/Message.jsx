@@ -14,7 +14,7 @@ export default function Message() {
                 />
               </div>
               <div className="info">
-                <h2>Prof. Mohammad Shakeel</h2>
+                <h2>Prof. Mazhar Asif</h2>
                 <em>Hon'ble Vice Chancellor</em>
                 {/* Social icons */}
                 <div className="contact">
@@ -95,7 +95,7 @@ export default function Message() {
                 />
               </div>
               <div className="info">
-                <h2>Dr. Saeed Uddin</h2>
+                <h2>Prof. Dr. Mary Tahir</h2>
                 <em>Dean, Faculty of Sciences</em>
                 {/* Social icons */}
                 <div className="contact">
