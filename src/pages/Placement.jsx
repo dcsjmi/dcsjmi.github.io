@@ -294,7 +294,7 @@ function PlacementTeam() {
             <div className="ContributorCardContent">
               <div className="ContributorAboutSection">
                 <h1>{member.Name}</h1>
-                <h2>{member.Designation + ", " + subCategory}</h2>
+                <h2>{member.Designation}</h2>
                 <a href={"tel:" + member.Phone}>
                   <h3>{member.Phone}</h3>
                 </a>

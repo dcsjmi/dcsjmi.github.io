@@ -15,24 +15,24 @@
     "Main Team": [
       {
         "Name": "Aanya Sharma",
-        "Designation": "",
+        "Designation": "Head, Main Team",
         "Image": "abc.png",
-        "Phone": "+91 7982117380",
-        "Email": "ahmadayaan00@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/ayaan2001/"
+        "Phone": "+91 7080061482",
+        "Email": "aanyasharma.1103@gmail.com",
+        "Linkedin": "https://www.linkedin.com/in/aanya-sharma-838698223"
       },
       {
         "Name": "Vishwajeet Singh",
-        "Designation": "",
-        "Image": "+91 8078 676 270",
-        "Phone": "+91 9555390293",
+        "Designation": "Head, Main Team",
+        "Image": "52.jpg",
+        "Phone": "+91 8078676270",
         "Email": "vishwajeetworks@gmail.com",
-        "Linkedin": "https://www.linkedin.com/in/sonam-saini-02a852268"
+        "Linkedin": "https://www.linkedin.com/in/vishwajeet-singh-6aaa9a244/"
       },
 
       {
         "Name": "Aqdas Amaan",
-        "Designation": "",
+        "Designation": "Main Team",
         "Image": "10.jpg",
         "Phone": "+91 63893 18905",
         "Email": "aqdasamaan88@gmail.com",
@@ -41,7 +41,7 @@
       
       {
         "Name": "Mohammed Muhafiz Hussain",
-        "Designation": "",
+        "Designation": "Main Team",
         "Image": "30.jpeg",
         "Phone": "+91 7656 999 699",
         "Email": "mailto:hussainmuhafiz@gmail.com",
@@ -50,26 +50,26 @@
       {
         
         "Name": "Sonam",
-        "Designation": "Spoc",
+        "Designation": "Spoc, Main Team",
         "Image": "50.png",
-        "Phone": "+91 7656 999 699",
+        "Phone": "+91 9311751149",
         "Email": "100nam2002@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/sonam-saini-02a852268?utm_source=chatgpt.com"
       }
     ],"Web Team": [
       {
         "Name": "Shahvej Khan",
-        "Designation": "",
+        "Designation": "Web Team",
         "Image": "Shahvejkhan.png",
-        "Phone": "+91 7717208751",
+        "Phone": "+91 7717208752",
         "Email": "shahvejkhanjmi@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/shahvej-khan-5991452b6?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
       {
         "Name": "Irfan Khan",
-        "Designation": "",
+        "Designation": "Web Team",
         "Image": "IrfanPhoto.png",
-        "Phone": "+91 6376277672",
+        "Phone": "+91 6376177672",
         "Email": "irfank1191326@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/irfan-khan-26498823a?utm_source=chatgpt.com"
       }
@@ -78,16 +78,16 @@
     "Graphics Team": [
       {
         "Name": "MD Faishal",
-        "Designation": "",
+        "Designation": "Graphics Team",
         "Image": "26.png",
-        "Phone": "+91 9953717660",
+        "Phone": "+91 9818517365",
         "Email": "iamfaizsaifi@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/md-faishal-3779a6373/?utm_source=chatgpt.com"
       },
       {
         "Name": "Mohd Hammad",
-        "Designation": "",
-        "Image": "IMG_1965.jpg",
+        "Designation": "Graphics Team",
+        "Image": "35.jpg",
         "Phone": "+91 6389730071",
         "Email": "hammadmd445@gmail.com",
         "Linkedin": "https://www.linkedin.com/in/mohammad-hammad-1822b9264?utm_source=chatgpt.com"
@@ -95,12 +95,11 @@
     ]
     
   },
-  
   "M.Sc. AI/ML": {
       "Main": [
         {
           "Name": "Jayant Aggarwal",
-          "Designation": "Main Team",
+          "Designation": "Head, Main Team",
           "Image": "16.jpg",
           "Phone": "9582543262",
           "Email": "jayantaggarwal7122@gmail.com",
@@ -108,7 +107,7 @@
         },
         {
           "Name": "Megha R",
-          "Designation": "Main Team",
+          "Designation": "Head, Main Team",
           "Image": "20.jpg",
           "Phone": "9061160499",
           "Email": "megharnair1312@gmail.com",
@@ -135,10 +134,10 @@
         {
           "Name": "Romana Ruqia",
           "Designation": "Graphics Team",
-          "Image": "24MAM40.jpg",
+          "Image": "31.jpg",
           "Phone": "6006218794",
-          "Email": "waquarh599@gmail.com",
-          "Linkedin": "https://www.linkedin.com/in/waquarism/"  
+          "Email": "romanakhan237@gmail.com",
+          "Linkedin": "https://www.linkedin.com/in/romanaruqia/"  
         },
         {
           "Name": "Muhammed Anas Ali P Y",
