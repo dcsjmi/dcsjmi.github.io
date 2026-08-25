@@ -27,7 +27,7 @@
           },
           {
             "Category": "LAB",
-            "Courses": ["Oracle", "Java"]
+            "Courses": ["Lab–I (Oracle–SQL, PL/SQL)", "Lab–II (OOP with JAVA)"]
           }
         ]
       },
@@ -45,7 +45,7 @@
           },
           {
             "Category": "ELECTIVE",
-            "Courses": ["Software Project Management"]
+            "Courses": ["Swayam Elective – Cloud Computing"]
           },
           {
             "Category": "CBCS",
@@ -54,9 +54,9 @@
           {
             "Category": "LAB",
             "Courses": [
-              "Advanced Data Structures",
-              "Linux & System Programming",
-              "AI & Machine Learning"
+              "Lab–III (Advanced Data Structures)",
+              "Lab–IV (Linux & System Programming)",
+              "Lab V (AI & Machine Learning)"
             ]
           }
         ]
@@ -76,19 +76,18 @@
           {
             "Category": "ELECTIVE",
             "Courses": [
-              "Big Data Analytics & IoT",
-              "Business Intelligence & Visualization"
+              "Swayam Elective – Internet Of Things"
             ]
           },
           {
             "Category": "CBCS",
-            "Courses": ["Cloud Computing"]
+            "Courses": ["Business Intelligence and Visualization"]
           },
           {
             "Category": "LAB",
             "Courses": [
-              "Analysis & Design of Algorithms",
-              "Data Mining & Warehousing"
+              "Lab–VI (ADA Techniques) ",
+              "Lab–VII (Data Mining & Warehousing)"
             ]
           }
         ]
@@ -123,12 +122,12 @@
               "Computing Fundamentals",
               "Programming in C++",
               "Comparative and Functional Genomics",
-              "Chemoinformatics and Chemogenomics"
+              "Programming in R"
             ]
           },
           {
             "Category": "LAB",
-            "Courses": ["Bioinformatics Tools", "C++& Linux"]
+            "Courses": ["Lab–I (Bioinformatics Tools)", "Lab–II (OOP with C++ & Linux)"]
           }
         ]
       },
@@ -138,8 +137,8 @@
           {
             "Category": "CORE",
             "Courses": [
-              "Systems Biology",
-              "Biochemistry",
+              "Systems Biology and Applications",
+              "Data Structures",
               "Essential Mathematics & Biostatistics",
               "Database Management System"
             ]
@@ -147,16 +146,14 @@
           {
             "Category": "ELECTIVE",
             "Courses": [
-              "Programming in Python &Biopython",
-              "Programming in Perl and Bioperl",
-              "Object-Oriented Programming in Java"
+              "Swayam Elective– Introduction to Machine Learning"
             ]
           },
           {
             "Category": "LAB",
             "Courses": [
-              "MySql/Oracle",
-              "Systems Biology and Advance Bioinformatics Tools"
+              "Lab–III (DBMS with MySQL) Lab–IV",
+              "Lab–IV (Systems Biology Tools)"
             ]
           }
         ]
@@ -169,26 +166,23 @@
             "Courses": [
               "NGS Data Analysis",
               "Structural Bioinformatics and Drug Design",
-              "Programming in R",
+              "R Advanced Algorithm for Comp. Biology",
               "Web-based Programming"
             ]
           },
           {
             "Category": "ELECTIVE",
             "Courses": [
-              "Artificial Intelligence in Bioinformatics",
-              "Machine Learning Techniques in Bioinformatics",
-              "Soft Computing Techniques in Bioinformatics",
-              "Health Informatics"
+                "Swayam Elective– AI for Clinicians by IIT Madras"
             ]
           },
           {
             "Category": "LAB",
-            "Courses": ["Drug Design + NGS"]
+            "Courses": ["Lab–V (Drug Design + NGS)"]
           },
           {
             "Category": "PROJECT",
-            "Courses": ["Minor Project"]
+            "Courses": ["Minor Project (Skills Enhancers)"]
           }
         ]
       },
@@ -197,7 +191,7 @@
         "Structure": [
           {
             "Category": "Project",
-            "Courses": ["Major Project and Thesis Writing"]
+            "Courses": ["Major Project (6 Months Industrial Training)"]
           }
         ]
       }
@@ -254,7 +248,7 @@
         {
           "Category": "ELECTIVE",
           "Courses": [
-            "Applied Statistics",
+            "Swayam Elective: Natural Language Processing",
             "Data Analytics and Predictive Modelling"
           ]
         },
@@ -281,8 +275,8 @@
         {
           "Category": "ELECTIVE",
           "Courses": [
-            "IoT and Big Data",
-            "MLOps and DevOps" 
+            "Swayam Elective: Introduction to Large Language Models",
+            "Elective II: MLOps & DevOps" 
           ]
         },
         {
