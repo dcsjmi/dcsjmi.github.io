@@ -957,377 +957,376 @@
     }
   ]
 
-  "Master of Science AI/ML": [
+  "Master of Science Bio Informatics": [
   {
     "id": 1,
     "name": "Aaditya Singh",
-    "email": "aaditya.singh@example.com",
-    "image": "1.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/aaditya-singh",
-    "driveLink": "https://drive.google.com/example1"
+    "email": "2003singhaaditya@gmail.com",
+    "image": "Aaditya_Singh.jpg",
+    "highQual": "B. Sc. Lifesciences",
+    "skills": "C++, Python, R, SQL, HTML, CSS, MS Excel, Machine Learning (Foundational Knowledge), Basic Linux, Bioinformatics tools n Databases, Biostatistics.",
+    "linkedin": "https://www.linkedin.com/in/aaditya-singh-160826260",
+    "driveLink": "https://drive.google.com/file/d/1bga4SyT1wv-s2MykaoExLKzMqpvipTH8/view?usp=drivesdk"
   },
   {
     "id": 2,
     "name": "Aakriti Beniwal",
-    "email": "aakriti.beniwal@example.com",
-    "image": "2.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Machine Learning, SQL",
-    "linkedin": "https://linkedin.com/in/aakriti-beniwal",
-    "driveLink": "https://drive.google.com/example2"
+    "email": "aakritibeniwal15@gmail.com",
+    "image": "Aakriti_Beniwal.jpg",
+    "highQual": "B.sc zoology hons",
+    "skills": "Project management, Communication skills, Computational biology, programming, Statistics",
+    "linkedin": "https://www.linkedin.com/in/aakriti-beniwal-768148204",
+    "driveLink": "https://drive.google.com/file/d/1T5F1DP3twig7JkgkF5aoiJ4F66Nh9ek_/view?usp=drivesdk"
   },
   {
     "id": 3,
     "name": "Abunashar Ayub",
-    "email": "abunashar.ayub@example.com",
-    "image": "3.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, React",
-    "linkedin": "https://linkedin.com/in/abunashar-ayub",
-    "driveLink": "https://drive.google.com/example3"
+    "email": "Abunashar.ayub78654@gmail.com",
+    "image": "Abunashar_Ayub.jpg",
+    "highQual": "B.Sc. Zoology",
+    "skills": "Python | R programming | SQL | C++ | Machine Learning | PyMOL | Snakemake | Nextflow | NGS | GitHub | AutoDock | BLAST | MEGA",
+    "linkedin": "https://www.linkedin.com/in/abunasharayub1",
+    "driveLink": "https://drive.google.com/file/d/1JxQPWPQU91obPRvIOacnlnseSVvq1fVf/view?usp=drive_link"
   },
   {
     "id": 4,
     "name": "Adeeba",
-    "email": "adeeba@example.com",
-    "image": "4.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Data Science, SQL",
-    "linkedin": "https://linkedin.com/in/adeeba",
-    "driveLink": "https://drive.google.com/example4"
+    "email": "adeebas1002@gmail.com",
+    "image": "Adeeba.jpg",
+    "highQual": "B.Sc. Biotechnology",
+    "skills": "Python, SQL, PL/SQL, Linux, Pandas, NumPy, Data Visualization, Bioinformatics, Sequence Analysis, BLAST, FASTA, Phylogenetic Analysis, Database Management, Machine Learning (Basics), Cell Culture, PCR, Gel Electrophoresis, Molecular Biology. Tools: Cytoscape, MEGA, EMBOSS, CellDesigner, COPASI, BLAST, RCSB PDB, UniProt, GenBank, VS Code, Microsoft Excel.",
+    "linkedin": "https://www.linkedin.com/in/adeeba-s-20a3593aa/",
+    "driveLink": "https://drive.google.com/file/d/1dlBqP19C1muEMD48ZuURZhY9UoPTYh7G/view?usp=sharing"
   },
   {
     "id": 5,
     "name": "Adeeba Ahmed",
-    "email": "adeeba.ahmed@example.com",
-    "image": "5.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/adeeba-ahmed",
-    "driveLink": "https://drive.google.com/example5"
+    "email": "adeebadecember4@gmail.com",
+    "image": "Adeeba_Ahmed.jpg",
+    "highQual": "B.Sc Life Sciences",
+    "skills": "Programming & Systems: Python, Biopython, R, C++, SQL, Linux, CLI/Terminal, Git & GitHub; Bioinformatics Tools & Databases: NCBI, GenBank, BLAST, ClustalW, MEGA/PHYLIP, ExPASy, PDB/RCSB, Cytoscape, PyMol, COPASI; Genomics & Analysis: FASTA/FASTQ formats, sequence retrieval/alignment, comparative & functional genomics, phylogenetics, GO enrichment, ORF/repeat/RNA-structure analysis; Data & Databases: Biostatistics, systems biology, MySQL, Oracle, MS Excel, Power BI, machine-learning exposure; Web & Digital: HTML, CSS, JavaScript, GitHub Pages, Wix",
+    "linkedin": "https://www.linkedin.com/in/adeeba-ahmed-598820427?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    "driveLink": "https://drive.google.com/file/d/1Sit5zl2JcW9qSdr5o6-4V7uKyDQVwR-E/view?usp=drivesdk"
   },
   {
     "id": 6,
     "name": "Afreen Jahan",
-    "email": "afreen.jahan@example.com",
-    "image": "6.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Machine Learning, NLP",
-    "linkedin": "https://linkedin.com/in/afreen-jahan",
-    "driveLink": "https://drive.google.com/example6"
+    "email": "afreenjahan9911@gmail.com",
+    "image": "Afreen_Jahan.jpg",
+    "highQual": "B.Sc Biochemistry",
+    "skills": "Python, C++, R programming, SQL, Linux, Tableau, Web development, Bioinformatics tools, NGS, Data analysis.",
+    "linkedin": "https://www.linkedin.com/in/afreen-jahan-ab804b378",
+    "driveLink": "https://drive.google.com/file/d/1ilELnTf1oySmq5x_xdEQy94lkp99Sn1P/view?usp=drivesdk"
   },
   {
     "id": 7,
     "name": "Ahmed Raza Zaidi",
-    "email": "ahmed.raza.zaidi@example.com",
-    "image": "7.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, PostgreSQL",
-    "linkedin": "https://linkedin.com/in/ahmed-raza-zaidi",
-    "driveLink": "https://drive.google.com/example7"
+    "email": "theradahmed@gmail.com",
+    "image": "Ahmed_Raza_Zaidi.jpg",
+    "highQual": "B.Tech CSE",
+    "skills": "Python, C++, R, SQL/MySQL, HTML/CSS, NumPy, Pandas, dplyr, ggplot2, Bioconductor, HTSeq, SRA Toolkit, BLAST, FASTA, PyMOL, SWISS-MODEL, DALI, UniProt, NCBI/GenBank, PDB, Pfam, Cytoscape, COPASI, CellDesigner, STRING, GeneMANIA, Git/GitHub, VS Code, Conda, Sequence Analysis, Homology Searching, Multiple Sequence Alignment, Protein Structure Analysis, NGS Data Analysis, RNA-seq, Systems Biology, Pathway Analysis",
+    "linkedin": "https://www.linkedin.com/theradahmed",
+    "driveLink": "https://drive.google.com/file/d/1WlZPsuCM3ozLJCdLXDrwMfiC0-apatY4/view?usp=drivesdk"
   },
   {
     "id": 8,
     "name": "Amna Abbasi",
-    "email": "amna.abbasi@example.com",
-    "image": "8.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Django, MySQL",
-    "linkedin": "https://linkedin.com/in/amna-abbasi",
-    "driveLink": "https://drive.google.com/example8"
+    "email": "amnaabbasi2003@gmail.com",
+    "image": "Amna_Abbasi.jpg",
+    "highQual": "B.Voc.Medical Laboratory Science",
+    "skills": "Python, R",
+    "linkedin": "https://www.linkedin.com/in/amna-abbasi-782506412?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1FrrpTN1vG2uRh4w23DGRItfV4-WYXvR_/view?usp=drivesdk"
   },
   {
     "id": 9,
     "name": "ARIZ ALI",
-    "email": "ariz.ali@example.com",
-    "image": "9.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, React",
-    "linkedin": "https://linkedin.com/in/ariz-ali",
-    "driveLink": "https://drive.google.com/example9"
+    "email": "arifbuxer@gmail.com",
+    "image": "ARIZ_ALI.jpg",
+    "highQual": "Bsc life science",
+    "skills": "Molecular biology, bioinformatics tools, SQL, Python, ML in biological data, programming in R, C++, Biopython, web-based programming, NGS analysis.",
+    "linkedin": "https://www.linkedin.com/in/ariz-ali-7bb477412?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1H7Rkh8sNIOQ2GLi5-ljPJvSdmZZrQRbm/view?usp=drivesdk"
   },
   {
     "id": 10,
     "name": "Fayza Ali",
-    "email": "fayza.ali@example.com",
-    "image": "10.jpg",
-    "highQual": "MCA",
-    "skills": "Python, AI, Machine Learning",
-    "linkedin": "https://linkedin.com/in/fayza-ali",
-    "driveLink": "https://drive.google.com/example10"
+    "email": "ali.fayza19@gmail.com",
+    "image": "Fayza_Ali.jpg",
+    "highQual": "BCA",
+    "skills": "HTML & CSS",
+    "linkedin": "https://www.linkedin.com/in/fayza-ali-240359247?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1J-QhMXYNIj9KoZGSg8MvePU0lWfb9795/view?usp=drivesdk"
   },
   {
     "id": 11,
     "name": "Iqra zafar",
-    "email": "iqra.zafar@example.com",
-    "image": "11.jpg",
-    "highQual": "MCA",
-    "skills": "Java, SQL, Spring Boot",
-    "linkedin": "https://linkedin.com/in/iqra-zafar",
-    "driveLink": "https://drive.google.com/example11"
+    "email": "iqrazafarjnmch@gmail.com",
+    "image": "Iqra_zafar.jpg",
+    "highQual": "4 year Bsc in medical laboratory sciences",
+    "skills": "Wet lab skills as well as dry lab",
+    "linkedin": "https://www.linkedin.com/in/iqra-zafar-65aa983a9",
+    "driveLink": "https://drive.google.com/file/d/1xm1OkOTomWmp41ta_ZlSQBt_AbFYAUNc/view?usp=drivesdk"
   },
   {
     "id": 12,
     "name": "Iram Ahmed",
-    "email": "iram.ahmed@example.com",
-    "image": "12.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Data Science, SQL",
-    "linkedin": "https://linkedin.com/in/iram-ahmed",
-    "driveLink": "https://drive.google.com/example12"
+    "email": "iirmahmed2@gmail.com",
+    "image": "Iram_Ahmed.jpg",
+    "highQual": "Bsc. Anesthesia and operation theatre techniques",
+    "skills": "Programming in R, MySQL",
+    "linkedin": "https://www.linkedin.com/in/iramahmed27?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    "driveLink": "https://drive.google.com/file/d/1rn5uvPQGayB00CRMKXmQfXjwOfTUs3dT/view?usp=drivesdk"
   },
   {
     "id": 13,
     "name": "Jahnavi Garg",
-    "email": "jahnavi.garg@example.com",
-    "image": "13.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/jahnavi-garg",
-    "driveLink": "https://drive.google.com/example13"
+    "email": "Jahnavi.garg2708@gmail.com",
+    "image": "Jahnavi_Garg.jpg",
+    "highQual": "B.Sc. (Hons.) Botany, University of Delhi",
+    "skills": "Bioinformatics, Python, SQL, DBMS, Sequence Analysis, Phylogenetics, MS Excel",
+    "linkedin": "https://www.linkedin.com/in/jahnavi-garg-0058a01a8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1yTM48OVeAv4wN73d7oD5P_u48_AcGBlr/view?usp=drivesdk"
   },
   {
     "id": 14,
     "name": "Jisha",
-    "email": "jisha@example.com",
-    "image": "14.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Machine Learning, NLP",
-    "linkedin": "https://linkedin.com/in/jisha",
-    "driveLink": "https://drive.google.com/example14"
+    "email": "waseemjisha0018@gmail.com",
+    "image": "Jisha.jpg",
+    "highQual": "Bsc biology",
+    "skills": "RNA-seq analysis, Python, SQL, Bioinformatics, Data Analysis, NumPy, Pandas, Cytoscape, DBMS, Problem Solving, Analytical Skills",
+    "linkedin": "https://www.linkedin.com/in/jisha-waseem-1ba75a24a",
+    "driveLink": "https://drive.google.com/file/d/1RKwfn3LFSFqeyKn0bGQzMJPmcfFABnkz/view?usp=drivesdk"
   },
   {
     "id": 15,
     "name": "Kazi Md Rizwan Ahmed",
-    "email": "kazi.rizwan.ahmed@example.com",
-    "image": "15.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, Microservices",
-    "linkedin": "https://linkedin.com/in/kazi-rizwan-ahmed",
-    "driveLink": "https://drive.google.com/example15"
+    "email": "rizwanahmed2603@gmail.com",
+    "image": "Kazi_Md_Rizwan_Ahmed.jpg",
+    "highQual": "BSc Bioinformatics",
+    "skills": "Structural Bioinformatics, In-Silico Drug Repurposing, Bioinformatics Tools and Databases, Leadership Management",
+    "linkedin": "https://www.linkedin.com/in/kazi-md-rizwan-ahmed-488a33257?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/170yfapTU2FyRjT3pNgu_BOK0RVx1NeGF/view"
   },
   {
     "id": 16,
     "name": "MD SAWOOD ALAM",
-    "email": "md.sawood.alam@example.com",
-    "image": "16.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/md-sawood-alam",
-    "driveLink": "https://drive.google.com/example16"
+    "email": "mdsawood512@gmail.com",
+    "image": "MD_SAWOOD_ALAM.jpg",
+    "highQual": "BSC BIOTECHNOLOGY",
+    "skills": "Python, SQL, Bioinformatics Tools, Data Analysis, Machine Learning Basics, Cytoscape, Molecular Biology, Genomics, Database Management, MS Excel (advanced), Linux environment handling, Basic AWS cloud knowledge.",
+    "linkedin": "https://www.linkedin.com/in/md-sawood-9529aa253?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1qJFEc6RnnelbW_D4fDBTt09NmR7laYHD/view?usp=drivesdk"
   },
   {
     "id": 17,
     "name": "Md Talha Abbasi",
-    "email": "md.talha.abbasi@example.com",
-    "image": "17.jpg",
-    "highQual": "MCA",
-    "skills": "Python, AI, Deep Learning",
-    "linkedin": "https://linkedin.com/in/md-talha-abbasi",
-    "driveLink": "https://drive.google.com/example17"
+    "email": "abbasitalha63@gmail.com",
+    "image": "Md_Talha_Abbasi.jpg",
+    "highQual": "Bsc(hons.) Botany",
+    "skills": "Python, HTML, PHP, R, NGS",
+    "linkedin": "https://www.linkedin.com/in/md-talha-245233332",
+    "driveLink": "https://drive.google.com/file/d/1uc8gqbrOBRUTqQvsTZC8hkyocPvajVFg/view?usp=drivesdk"
   },
   {
     "id": 18,
     "name": "MD. Arshad",
-    "email": "md.arshad@example.com",
-    "image": "18.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, SQL",
-    "linkedin": "https://linkedin.com/in/md-arshad",
-    "driveLink": "https://drive.google.com/example18"
+    "email": "arshad10867c@gmail.com",
+    "image": "MD_Arshad.jpg",
+    "highQual": "B.Sc. Bioinformatics",
+    "skills": "Zig, C++20, Assembly, R, Python, Shell Scripting, Systems Biology, Docker, Qiskit && Cirq",
+    "linkedin": "https://www.linkedin.com/in/subjects/",
+    "driveLink": "https://drive.google.com/file/d/1supN0G6MtJ4qg1DOH0GLm8qlmDcS7KLJ/view?usp=drivesdk"
   },
   {
     "id": 19,
     "name": "Mohd imaad ahmed",
-    "email": "mohd.imaad.ahmed@example.com",
-    "image": "19.jpg",
-    "highQual": "MCA",
-    "skills": "Java, React, MySQL",
-    "linkedin": "https://linkedin.com/in/mohd-imaad-ahmed",
-    "driveLink": "https://drive.google.com/example19"
+    "email": "Mdim",
+    "image": "Mohd_imaad_ahmed.jpg",
+    "highQual": "Bsc life science",
+    "skills": "Molecular Docking, MD Simulations, NGS, Bioinformatics tools, Python, R, C++",
+    "linkedin": "https://www.linkedin.com/in/mohd-imaad-ahmed-916620248?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1BXjE0Hh-mhgvd8sQVQj1KA4lX8RVsp2j/view?usp=drivesdk"
   },
   {
     "id": 20,
     "name": "Mohd Shahnawaz",
-    "email": "mohd.shahnawaz@example.com",
-    "image": "20.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Django, PostgreSQL",
-    "linkedin": "https://linkedin.com/in/mohd-shahnawaz",
-    "driveLink": "https://drive.google.com/example20"
+    "email": "mohdshahnawazsaif0123@gmail.com",
+    "image": "Mohd_Shahnawaz.jpg",
+    "highQual": "B.voc(Medical Electrophisiology)",
+    "skills": "R, Python, C++, SQL, POWER BI, MACHINE LEARNING, LINUX",
+    "linkedin": "https://www.linkedin.com/in/mohd-shahnawaz-aaa393349?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1qLGRVuLCwWXvr__ZXXgbqHStTnx_FN8h/view?usp=drivesdk"
   },
   {
     "id": 21,
     "name": "Mohd Sharique Khan",
-    "email": "mohd.sharique.khan@example.com",
-    "image": "21.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/mohd-sharique-khan",
-    "driveLink": "https://drive.google.com/example21"
+    "email": "shariq20702@gmail.com",
+    "image": "Mohd_Sharique_Khan.png",
+    "highQual": "Bsc Biotechnology",
+    "skills": "Bioinformatics, Linux, R, SQL, Python",
+    "linkedin": "https://www.linkedin.com/in/khan-sharique-a26369277/",
+    "driveLink": "https://drive.google.com/file/d/1Z2oEdiuPOS78HX_AjTRxrBbdJxoBC5yd/view?usp=drivesdk"
   },
   {
     "id": 22,
     "name": "Mohd.zaiba.khan",
-    "email": "mohd.zaiba.khan@example.com",
-    "image": "22.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Machine Learning, SQL",
-    "linkedin": "https://linkedin.com/in/mohd-zaiba-khan",
-    "driveLink": "https://drive.google.com/example22"
+    "email": "zaibankhan12345@gmail.com",
+    "image": "Mohd_zaiba_khan.jpg",
+    "highQual": "B.voc Medical laboratory science",
+    "skills": "C++, Python, R-language (basics), Web development: DBMS, HTML (basics), Database: NCBI, UniProt, PDB, GenBank, Bioinformatics tools: BLAST, ClustalW, MEGA, FASTA, Cytoscape, CellDesigner, COPASI, Sequence Analysis, Genomic Data Interpretation, Machine Learning (Basics)",
+    "linkedin": "https://www.linkedin.com/in/mohd-zaiban-khan-738875330",
+    "driveLink": "https://drive.google.com/file/d/1BzQ5R1v1MgYx-mmBGVne3fjgiZnRN3fp/view?usp=drivesdk"
   },
   {
     "id": 23,
     "name": "Nusrat Parvin",
-    "email": "nusrat.parvin@example.com",
-    "image": "23.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, React",
-    "linkedin": "https://linkedin.com/in/nusrat-parvin",
-    "driveLink": "https://drive.google.com/example23"
+    "email": "nusratk948@gmail.com",
+    "image": "Nusrat.jpg",
+    "highQual": "Bsc Biotechnology",
+    "skills": "Strong knowledge of biology and genomics, Bioinformatics tools and databases, R, Python, SQL. Drug discovery QSAR modelling - ligand based and structure based. Wet lab techniques - DNA isolation, gel electrophoresis, PCR.",
+    "linkedin": "https://www.linkedin.com/in/nusrat-parvin-69815329b",
+    "driveLink": "https://drive.google.com/drive/folders/1LK2NmBo6AlyFdthP3SB1Nh_ttIJc-hE-"
   },
   {
     "id": 24,
     "name": "Parul Sharma",
-    "email": "parul.sharma@example.com",
-    "image": "24.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Data Science, SQL",
-    "linkedin": "https://linkedin.com/in/parul-sharma",
-    "driveLink": "https://drive.google.com/example24"
+    "email": "parulsharma1419@gmail.com",
+    "image": "Parul_Sharma.jpg",
+    "highQual": "BSc. Medical Laboratory Technology, Delhi Skill And Entrepreneurship University",
+    "skills": "Python (Pandas, NumPy), R, SQL, C++, Linux/Bash, Git/GitHub, Bioinformatics, Computational Biology, Comparative & Functional Genomics, Data Analysis & Visualization, Biostatistics, Machine Learning (Basic), Molecular Biology",
+    "linkedin": "https://www.linkedin.com/in/parul-s-10b626245/",
+    "driveLink": "https://drive.google.com/file/d/1uBYi33BCD-CYOj_MRm28YF_8ugm8oQum/view?usp=drivesdk"
   },
   {
     "id": 25,
     "name": "Prakriti singh",
-    "email": "prakriti.singh@example.com",
-    "image": "25.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/prakriti-singh",
-    "driveLink": "https://drive.google.com/example25"
+    "email": "prakritisingh309135@gmail.com",
+    "image": "Prakriti_singh.jpg",
+    "highQual": "Bsc (hons) botany",
+    "skills": "Biological Data Analysis, Python Programming, Sales and Marketing Strategies",
+    "linkedin": "https://www.linkedin.com/in/prakriti-singh-2a6042255?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1-88iC1zxvSJCK6xMajtRdjPWBVzrnFiO/view?usp=drivesdk"
   },
   {
     "id": 26,
     "name": "saad yusuf",
-    "email": "saad.yusuf@example.com",
-    "image": "26.jpg",
-    "highQual": "MCA",
-    "skills": "Python, AI, Machine Learning",
-    "linkedin": "https://linkedin.com/in/saad-yusuf",
-    "driveLink": "https://drive.google.com/example26"
+    "email": "syed.saad7527@gmail.com",
+    "image": "saad_yusuf.jpg",
+    "highQual": "bsc life sciences",
+    "skills": "Bioinformatics: NGS Analysis (FASTQ/BAM/VCF), Phylogenetic Analysis (MEGA X), Homology Modeling (Swiss-Model), Molecular Docking (AutoDock Vina), Drug Design, BLAST, ClustalW. Programming: Python (BioPython, Pandas, NumPy), C++, SQL, Linux/Unix Shell Scripting, R Basics.",
+    "linkedin": "https://www.linkedin.com/in/sisyyphuss?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1OVe7QbHyat7FurRFSNUgRFQxL8-dNfwG/view?usp=drivesdk"
   },
   {
     "id": 27,
     "name": "Saksham Shrivastava",
-    "email": "saksham.shrivastava@example.com",
-    "image": "27.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, Microservices",
-    "linkedin": "https://linkedin.com/in/saksham-shrivastava",
-    "driveLink": "https://drive.google.com/example27"
+    "email": "isakshamshrivastava@gmail.com",
+    "image": "Saksham_Shrivastava.jpg",
+    "highQual": "B.Sc. Life Sciences",
+    "skills": "Python, Basic Molecular Biology, Biological Databases, Structural Bioinformatics",
+    "linkedin": "https://www.linkedin.com/in/isakshamshrivastava?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1kN6Pyo82G580zW0Z0g9JEBn3KHt5Bvsu/view?usp=drivesdk"
   },
   {
     "id": 28,
     "name": "Sania Zahid",
-    "email": "sania.zahid@example.com",
-    "image": "28.jpg",
-    "highQual": "MCA",
-    "skills": "Python, NLP, Deep Learning",
-    "linkedin": "https://linkedin.com/in/sania-zahid",
-    "driveLink": "https://drive.google.com/example28"
+    "email": "saniazahid3003@gmail.com",
+    "image": "Sania_Zahid.jpg",
+    "highQual": "BSc Biosciences",
+    "skills": "Python / C++ / R",
+    "linkedin": "https://www.linkedin.com/in/sania-zahid-ba7557297?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1FoNlOt33TLwdvaUXx-Xg705B_CpFMnLl/view?usp=drivesdk"
   },
   {
     "id": 29,
     "name": "Sanjana",
-    "email": "sanjana@example.com",
-    "image": "29.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, SQL",
-    "linkedin": "https://linkedin.com/in/sanjana",
-    "driveLink": "https://drive.google.com/example29"
+    "email": "sammi.893136@gmail.com",
+    "image": "Sanjana.jpg",
+    "highQual": "Bsc (hons) microbiology",
+    "skills": "Bioinformatics tools, Python",
+    "linkedin": "https://www.linkedin.com/in/sanjana-singh-595563215?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1j-Hz3kl1IGwKaK4RwB2HCtUBa8DHmG5N/view?usp=drivesdk"
   },
   {
     "id": 30,
     "name": "SURAJ KUMAR",
-    "email": "suraj.kumar@example.com",
-    "image": "30.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/suraj-kumar",
-    "driveLink": "https://drive.google.com/example30"
+    "email": "kumar02surajj@gmail.com",
+    "image": "SURAJ_KUMAR.jpg",
+    "highQual": "Medical Electrophysiology",
+    "skills": "R programming, Python, SQL, C++, ML and Bioinformatics tools",
+    "linkedin": "https://www.linkedin.com/in/suraj-kumar-822698291",
+    "driveLink": "https://drive.google.com/file/d/1x5xijXU5aGHPtwuCe-v3eGDpcWzAI-qS/view?usp=drivesdk"
   },
   {
     "id": 31,
     "name": "Suraj Rana",
-    "email": "suraj.rana@example.com",
-    "image": "31.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Machine Learning, SQL",
-    "linkedin": "https://linkedin.com/in/suraj-rana",
-    "driveLink": "https://drive.google.com/example31"
+    "email": "surajranaaa2003@gmail.com",
+    "image": "Suraj_Rana.jpg",
+    "highQual": "Bsc Life Sciences",
+    "skills": "R/Python, C++, Basic Power BI, Linux, NGS, Soft skills (team-oriented, adaptable, effective communication, fast learner)",
+    "linkedin": "https://www.linkedin.com/in/suraj-rana-1b387b2a1?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/1NIhvP_4trK2DpqxnDoPdRbC3KsU9iMsr/view"
   },
   {
     "id": 32,
     "name": "Syed Dur Rahman Tantray",
-    "email": "syed.dur.rahman.tantray@example.com",
-    "image": "32.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, React",
-    "linkedin": "https://linkedin.com/in/syed-dur-rahman-tantray",
-    "driveLink": "https://drive.google.com/example32"
+    "email": "syedurrahman871@gmail.com",
+    "image": "Syed_Dur_Rahman_Tantray.jpg",
+    "highQual": "BSc in Zoology, Botany and Bioinformatics",
+    "skills": "Python, R, C++, MD Simulation, Molecular Docking, SQL",
+    "linkedin": "https://www.linkedin.com/in/syed-ur-rahman-183a32209",
+    "driveLink": "https://drive.google.com/file/d/1Fgb5YBaLQio4rWKy38yN0pw9j95OLEyU/view?usp=drivesdk"
   },
   {
     "id": 33,
     "name": "Towqeer un nisa",
-    "email": "towqeer.un.nisa@example.com",
-    "image": "33.jpg",
-    "highQual": "MCA",
-    "skills": "Python, Data Science, SQL",
-    "linkedin": "https://linkedin.com/in/towqeer-un-nisa",
-    "driveLink": "https://drive.google.com/example33"
+    "email": "shhnissa@gmail.com",
+    "image": "Towqeer_un_nisa.jpg",
+    "highQual": "Bsc ( life sciences)",
+    "skills": "Python (Basic), SQL, Cytoscape, Bioinformatics Databases, Linux (Basic), Sequence Analysis, NGS (Learning), Data Analysis, Analytical & Problem-Solving Skills.",
+    "linkedin": "https://www.linkedin.com/in/towqeer-un-nisa-699a12376",
+    "driveLink": "https://drive.google.com/file/d/1jo39xnJtqK9pHk41fFcWB9FDQXfXKr-n/view?usp=drivesdk"
   },
   {
     "id": 34,
     "name": "Urooj Fatima",
-    "email": "urooj.fatima@example.com",
-    "image": "34.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/urooj-fatima",
-    "driveLink": "https://drive.google.com/example34"
+    "email": "uroojf1025@gmail.com",
+    "image": "Urooj_Fatima.jpg",
+    "highQual": "Bachelor of Science",
+    "skills": "Python, SQL, Bioinformatic Tools",
+    "linkedin": "https://www.linkedin.com/in/urooj-fatima-4a64a6212?trk=contact-info",
+    "driveLink": "https://drive.google.com/file/d/1BFj8hRssVwDYbWz7r7FcifqzpfPaktZq/view?usp=drivesdk"
   },
   {
     "id": 35,
     "name": "Uzma khan",
-    "email": "uzma.khan@example.com",
-    "image": "35.jpg",
-    "highQual": "MCA",
-    "skills": "Python, AI, Machine Learning",
-    "linkedin": "https://linkedin.com/in/uzma-khan",
-    "driveLink": "https://drive.google.com/example35"
+    "email": "6uzmakhan@gmail.com",
+    "image": "Uzma_khan.jpg",
+    "highQual": "Bsc biochemistry",
+    "skills": "R, Python, C++, DBMS, HTML",
+    "linkedin": "https://www.linkedin.com/in/uzma-khan-7b38b1374?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "driveLink": "https://drive.google.com/file/d/10XSSQd1DJQEn7envCONWBX9tZz7qaqvR/view?usp=drivesdk"
   },
   {
     "id": 36,
     "name": "Zainab",
-    "email": "zainab@example.com",
-    "image": "36.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, SQL",
-    "linkedin": "https://linkedin.com/in/zainab",
-    "driveLink": "https://drive.google.com/example36"
+    "email": "zainahmed10522@gmail.com",
+    "image": "Zainab.jpg",
+    "highQual": "Medical electrophysiology",
+    "skills": "Python, PL/SQL, C++, Data Analysis, Research skills, R programming, HTML, CSS, Cytoscape",
+    "linkedin": "https://www.linkedin.com/in/zainab-ahmed-1244b7412",
+    "driveLink": "https://drive.google.com/file/d/1ZoKUz4-IO-FMDCHfKaAkfmCZgwuagoGu/view?usp=drive_link"
   },
   {
     "id": 37,
     "name": "Zainab Naseer",
-    "email": "zainab.naseer@example.com",
-    "image": "37.jpg",
-    "highQual": "MCA",
-    "skills": "Java, Spring Boot, MySQL",
-    "linkedin": "https://linkedin.com/in/zainab-naseer",
-    "driveLink": "https://drive.google.com/example37"
+    "email": "zainabqadeemi@gmail.com",
+    "image": "Zainab_Naseer.jpg",
+    "highQual": "B.Sc Biotechnology",
+    "skills": "Bioinformatics and computational biology; sequence and genomic analysis; structural bioinformatics; pathway/network analysis; biological databases; Python, R, C++, and SQL; machine learning basics; cell culture; DNA/RNA/protein extraction; PCR, RT-PCR, gel electrophoresis; Western, Southern, Northern blotting",
+    "linkedin": "https://www.linkedin.com/in/zainab-n-23b110364",
+    "driveLink": "https://drive.google.com/file/d/1x34gY-eThCs4UEW3QFWujGUJPQ9nw4VY/view?usp=drivesdk"
   }
 ]
-
 }
