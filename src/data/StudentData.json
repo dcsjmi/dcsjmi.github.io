@@ -956,6 +956,378 @@
       "driveLink": "https://drive.google.com/file/d/1qF4cl5cO9djvlMZkSzVd4PlmUjAtMy8O/view?usp=sharing"
     }
   ]
-    
 
+  "Master of Science AI/ML": [
+  {
+    "id": 1,
+    "name": "Aaditya Singh",
+    "email": "aaditya.singh@example.com",
+    "image": "1.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/aaditya-singh",
+    "driveLink": "https://drive.google.com/example1"
+  },
+  {
+    "id": 2,
+    "name": "Aakriti Beniwal",
+    "email": "aakriti.beniwal@example.com",
+    "image": "2.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Machine Learning, SQL",
+    "linkedin": "https://linkedin.com/in/aakriti-beniwal",
+    "driveLink": "https://drive.google.com/example2"
+  },
+  {
+    "id": 3,
+    "name": "Abunashar Ayub",
+    "email": "abunashar.ayub@example.com",
+    "image": "3.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, React",
+    "linkedin": "https://linkedin.com/in/abunashar-ayub",
+    "driveLink": "https://drive.google.com/example3"
+  },
+  {
+    "id": 4,
+    "name": "Adeeba",
+    "email": "adeeba@example.com",
+    "image": "4.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Data Science, SQL",
+    "linkedin": "https://linkedin.com/in/adeeba",
+    "driveLink": "https://drive.google.com/example4"
+  },
+  {
+    "id": 5,
+    "name": "Adeeba Ahmed",
+    "email": "adeeba.ahmed@example.com",
+    "image": "5.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/adeeba-ahmed",
+    "driveLink": "https://drive.google.com/example5"
+  },
+  {
+    "id": 6,
+    "name": "Afreen Jahan",
+    "email": "afreen.jahan@example.com",
+    "image": "6.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Machine Learning, NLP",
+    "linkedin": "https://linkedin.com/in/afreen-jahan",
+    "driveLink": "https://drive.google.com/example6"
+  },
+  {
+    "id": 7,
+    "name": "Ahmed Raza Zaidi",
+    "email": "ahmed.raza.zaidi@example.com",
+    "image": "7.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, PostgreSQL",
+    "linkedin": "https://linkedin.com/in/ahmed-raza-zaidi",
+    "driveLink": "https://drive.google.com/example7"
+  },
+  {
+    "id": 8,
+    "name": "Amna Abbasi",
+    "email": "amna.abbasi@example.com",
+    "image": "8.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Django, MySQL",
+    "linkedin": "https://linkedin.com/in/amna-abbasi",
+    "driveLink": "https://drive.google.com/example8"
+  },
+  {
+    "id": 9,
+    "name": "ARIZ ALI",
+    "email": "ariz.ali@example.com",
+    "image": "9.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, React",
+    "linkedin": "https://linkedin.com/in/ariz-ali",
+    "driveLink": "https://drive.google.com/example9"
+  },
+  {
+    "id": 10,
+    "name": "Fayza Ali",
+    "email": "fayza.ali@example.com",
+    "image": "10.jpg",
+    "highQual": "MCA",
+    "skills": "Python, AI, Machine Learning",
+    "linkedin": "https://linkedin.com/in/fayza-ali",
+    "driveLink": "https://drive.google.com/example10"
+  },
+  {
+    "id": 11,
+    "name": "Iqra zafar",
+    "email": "iqra.zafar@example.com",
+    "image": "11.jpg",
+    "highQual": "MCA",
+    "skills": "Java, SQL, Spring Boot",
+    "linkedin": "https://linkedin.com/in/iqra-zafar",
+    "driveLink": "https://drive.google.com/example11"
+  },
+  {
+    "id": 12,
+    "name": "Iram Ahmed",
+    "email": "iram.ahmed@example.com",
+    "image": "12.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Data Science, SQL",
+    "linkedin": "https://linkedin.com/in/iram-ahmed",
+    "driveLink": "https://drive.google.com/example12"
+  },
+  {
+    "id": 13,
+    "name": "Jahnavi Garg",
+    "email": "jahnavi.garg@example.com",
+    "image": "13.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/jahnavi-garg",
+    "driveLink": "https://drive.google.com/example13"
+  },
+  {
+    "id": 14,
+    "name": "Jisha",
+    "email": "jisha@example.com",
+    "image": "14.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Machine Learning, NLP",
+    "linkedin": "https://linkedin.com/in/jisha",
+    "driveLink": "https://drive.google.com/example14"
+  },
+  {
+    "id": 15,
+    "name": "Kazi Md Rizwan Ahmed",
+    "email": "kazi.rizwan.ahmed@example.com",
+    "image": "15.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, Microservices",
+    "linkedin": "https://linkedin.com/in/kazi-rizwan-ahmed",
+    "driveLink": "https://drive.google.com/example15"
+  },
+  {
+    "id": 16,
+    "name": "MD SAWOOD ALAM",
+    "email": "md.sawood.alam@example.com",
+    "image": "16.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/md-sawood-alam",
+    "driveLink": "https://drive.google.com/example16"
+  },
+  {
+    "id": 17,
+    "name": "Md Talha Abbasi",
+    "email": "md.talha.abbasi@example.com",
+    "image": "17.jpg",
+    "highQual": "MCA",
+    "skills": "Python, AI, Deep Learning",
+    "linkedin": "https://linkedin.com/in/md-talha-abbasi",
+    "driveLink": "https://drive.google.com/example17"
+  },
+  {
+    "id": 18,
+    "name": "MD. Arshad",
+    "email": "md.arshad@example.com",
+    "image": "18.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, SQL",
+    "linkedin": "https://linkedin.com/in/md-arshad",
+    "driveLink": "https://drive.google.com/example18"
+  },
+  {
+    "id": 19,
+    "name": "Mohd imaad ahmed",
+    "email": "mohd.imaad.ahmed@example.com",
+    "image": "19.jpg",
+    "highQual": "MCA",
+    "skills": "Java, React, MySQL",
+    "linkedin": "https://linkedin.com/in/mohd-imaad-ahmed",
+    "driveLink": "https://drive.google.com/example19"
+  },
+  {
+    "id": 20,
+    "name": "Mohd Shahnawaz",
+    "email": "mohd.shahnawaz@example.com",
+    "image": "20.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Django, PostgreSQL",
+    "linkedin": "https://linkedin.com/in/mohd-shahnawaz",
+    "driveLink": "https://drive.google.com/example20"
+  },
+  {
+    "id": 21,
+    "name": "Mohd Sharique Khan",
+    "email": "mohd.sharique.khan@example.com",
+    "image": "21.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/mohd-sharique-khan",
+    "driveLink": "https://drive.google.com/example21"
+  },
+  {
+    "id": 22,
+    "name": "Mohd.zaiba.khan",
+    "email": "mohd.zaiba.khan@example.com",
+    "image": "22.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Machine Learning, SQL",
+    "linkedin": "https://linkedin.com/in/mohd-zaiba-khan",
+    "driveLink": "https://drive.google.com/example22"
+  },
+  {
+    "id": 23,
+    "name": "Nusrat Parvin",
+    "email": "nusrat.parvin@example.com",
+    "image": "23.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, React",
+    "linkedin": "https://linkedin.com/in/nusrat-parvin",
+    "driveLink": "https://drive.google.com/example23"
+  },
+  {
+    "id": 24,
+    "name": "Parul Sharma",
+    "email": "parul.sharma@example.com",
+    "image": "24.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Data Science, SQL",
+    "linkedin": "https://linkedin.com/in/parul-sharma",
+    "driveLink": "https://drive.google.com/example24"
+  },
+  {
+    "id": 25,
+    "name": "Prakriti singh",
+    "email": "prakriti.singh@example.com",
+    "image": "25.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/prakriti-singh",
+    "driveLink": "https://drive.google.com/example25"
+  },
+  {
+    "id": 26,
+    "name": "saad yusuf",
+    "email": "saad.yusuf@example.com",
+    "image": "26.jpg",
+    "highQual": "MCA",
+    "skills": "Python, AI, Machine Learning",
+    "linkedin": "https://linkedin.com/in/saad-yusuf",
+    "driveLink": "https://drive.google.com/example26"
+  },
+  {
+    "id": 27,
+    "name": "Saksham Shrivastava",
+    "email": "saksham.shrivastava@example.com",
+    "image": "27.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, Microservices",
+    "linkedin": "https://linkedin.com/in/saksham-shrivastava",
+    "driveLink": "https://drive.google.com/example27"
+  },
+  {
+    "id": 28,
+    "name": "Sania Zahid",
+    "email": "sania.zahid@example.com",
+    "image": "28.jpg",
+    "highQual": "MCA",
+    "skills": "Python, NLP, Deep Learning",
+    "linkedin": "https://linkedin.com/in/sania-zahid",
+    "driveLink": "https://drive.google.com/example28"
+  },
+  {
+    "id": 29,
+    "name": "Sanjana",
+    "email": "sanjana@example.com",
+    "image": "29.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, SQL",
+    "linkedin": "https://linkedin.com/in/sanjana",
+    "driveLink": "https://drive.google.com/example29"
+  },
+  {
+    "id": 30,
+    "name": "SURAJ KUMAR",
+    "email": "suraj.kumar@example.com",
+    "image": "30.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/suraj-kumar",
+    "driveLink": "https://drive.google.com/example30"
+  },
+  {
+    "id": 31,
+    "name": "Suraj Rana",
+    "email": "suraj.rana@example.com",
+    "image": "31.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Machine Learning, SQL",
+    "linkedin": "https://linkedin.com/in/suraj-rana",
+    "driveLink": "https://drive.google.com/example31"
+  },
+  {
+    "id": 32,
+    "name": "Syed Dur Rahman Tantray",
+    "email": "syed.dur.rahman.tantray@example.com",
+    "image": "32.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, React",
+    "linkedin": "https://linkedin.com/in/syed-dur-rahman-tantray",
+    "driveLink": "https://drive.google.com/example32"
+  },
+  {
+    "id": 33,
+    "name": "Towqeer un nisa",
+    "email": "towqeer.un.nisa@example.com",
+    "image": "33.jpg",
+    "highQual": "MCA",
+    "skills": "Python, Data Science, SQL",
+    "linkedin": "https://linkedin.com/in/towqeer-un-nisa",
+    "driveLink": "https://drive.google.com/example33"
+  },
+  {
+    "id": 34,
+    "name": "Urooj Fatima",
+    "email": "urooj.fatima@example.com",
+    "image": "34.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/urooj-fatima",
+    "driveLink": "https://drive.google.com/example34"
+  },
+  {
+    "id": 35,
+    "name": "Uzma khan",
+    "email": "uzma.khan@example.com",
+    "image": "35.jpg",
+    "highQual": "MCA",
+    "skills": "Python, AI, Machine Learning",
+    "linkedin": "https://linkedin.com/in/uzma-khan",
+    "driveLink": "https://drive.google.com/example35"
+  },
+  {
+    "id": 36,
+    "name": "Zainab",
+    "email": "zainab@example.com",
+    "image": "36.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, SQL",
+    "linkedin": "https://linkedin.com/in/zainab",
+    "driveLink": "https://drive.google.com/example36"
+  },
+  {
+    "id": 37,
+    "name": "Zainab Naseer",
+    "email": "zainab.naseer@example.com",
+    "image": "37.jpg",
+    "highQual": "MCA",
+    "skills": "Java, Spring Boot, MySQL",
+    "linkedin": "https://linkedin.com/in/zainab-naseer",
+    "driveLink": "https://drive.google.com/example37"
   }
+]
+
+}
