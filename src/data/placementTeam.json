@@ -50,7 +50,7 @@
       {
         
         "Name": "Sonam",
-        "Designation": "Spoc, Main Team",
+        "Designation": "SPoC, Main Team",
         "Image": "50.png",
         "Phone": "+91 9311751149",
         "Email": "100nam2002@gmail.com",
@@ -167,6 +167,27 @@
         }
       ]
 
-    }
-
+    },
+  "M.Sc. Bioinformatics": {
+    "Main":[
+      {
+        ”Name": "MD. Arshad", 
+        “Designation”: “Main Team”,
+        "Image": "MD_Arshad.jpg", 
+        “Phone”: ”8910085386”,
+        "Email": "arshad10867c@gmail.com", 
+        "Linkedin": "https://www.linkedin.com/in/subjects/"
+      },
+      
+      {
+        "Name": "Prakriti singh", 
+        “Designation”: “Main Team”,
+        "Image": "Prakriti_singh.jpg", 
+        “Phone”:7051514697,
+        "Email": "prakritisingh309135@gmail.com", 
+        "Linkedin": "https://www.linkedin.com/in/prakriti-singh-2a6042255?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      }
+    ]
+  }
+  
 }
