@@ -1337,10 +1337,9 @@
     "Name": "Noor Fatima Rizvi",
     "Email ID": "rizvinoor02@gmail.com",
     "image": "noor_fatima_rizvi.jpg",
-    "Current Course": "M.Sc. Bio Informatics",
-    "Previous Course Passed": "M.Sc. Mathematics",
-    "LinkedIn Profile": "https://www.linkedin.com/in/noor-fatima-rizvi-ab6874319",
-    "Skills & Technologies": "Bioinformatics tools and databases\nR language\nPython\nC++",
+    "highQual": "M.Sc. Mathematics",
+    "skills": "Bioinformatics tools and databases\nR language\nPython\nC++",
+    "linkedin": "https://www.linkedin.com/in/noor-fatima-rizvi-ab6874319",
     "driveLink":"https://drive.google.com/file/d/1IOpCO6R7uMmsLi-XnUbXzNsPZU_ma5_g/view?usp=drivesdk"
   },
 
@@ -1349,10 +1348,10 @@
     "Name": "Samad Saifi",
     "Email ID": "samadlylives00@gmail.com",
     "image": "samad_saifi.jpg",
-    "Current Course": "M.Sc. Bio Informatics",
-    "Previous Course Passed": "B.Sc Life Science",
-    "LinkedIn Profile": "https://www.linkedin.com/in/samad-saifi-ab91aa374/",
-    "Skills & Technologies": "Programming: C++, Python, JavaScript, Basic R\n\nBioinformatics Tools: BLAST, ClustalW, MEGA, FASTA, Cytoscape\n\nDatabases: NCBI, UniProt, PDB, Supabase\n\nWeb Development: Next.js, React, HTML, CSS\n\nData & ML: Sequence Analysis, Genomic Data Interpretation, Machine Learning Basics\n\nDev Tools: Git, GitHub, SQL (Basics), Google OAuth",
+   
+    "highQual": "B.Sc Life Science",
+    "skills": "Programming: C++, Python, JavaScript, Basic R\n\nBioinformatics Tools: BLAST, ClustalW, MEGA, FASTA, Cytoscape\n\nDatabases: NCBI, UniProt, PDB, Supabase\n\nWeb Development: Next.js, React, HTML, CSS\n\nData & ML: Sequence Analysis, Genomic Data Interpretation, Machine Learning Basics\n\nDev Tools: Git, GitHub, SQL (Basics), Google OAuth",
+    "linkedin": "https://www.linkedin.com/in/samad-saifi-ab91aa374/",
     "driveLink":"https://drive.google.com/file/d/1Fe7jnVJmC6bLum80Jj4gSu-DaahIJL8X/view?usp=drivesdk"
   },
 
@@ -1361,10 +1360,9 @@
     "Name": "Ramsha Saud",
     "Email ID": "ramshasaud2316@gmail.com",
     "image": "Ramsha.jpg",
-    "Current Course": "M.Sc. Bio Informatics",
-    "Previous Course Passed": "B.Sc cardiology Lab Techniques",
-    "LinkedIn Profile": "https://www.linkedin.com/in/ramsha-saud-573826336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwHZoI2NHRJ2RDNcmuNFQtA%3D%3D",
-    "Skills & Technologies": "R, Python, C++, DBMS, HTML",
+    "highQual": "B.Sc cardiology Lab Techniques",
+    "skills": "R, Python, C++, DBMS, HTML",
+    "linkedin": "https://www.linkedin.com/in/ramsha-saud-573826336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwHZoI2NHRJ2RDNcmuNFQtA%3D%3D",
     "driveLink": "https://drive.google.com/file/d/1xkz5U59sks5yHz4hQ9kE7eq7hOAxRa7F/view"
 },
 {
@@ -1372,10 +1370,9 @@
     "Name": "Khubaib Reyaz",
     "Email ID": "Khubaibreyaz0@gmail.com",
     "image": "Khubaib_Reyaz.png",
-    "Current Course": "M.Sc. Bio Informatics",
-    "Previous Course Passed": "B.Sc (Hons)Botany",
-    "LinkedIn Profile": "https://www.linkedin.com/in/khubaibreyaz/",
-    "Skills & Technologies": "Python, r, c++, md simulation, molecular docking, sql",
+    "highQual": "B.Sc (Hons)Botany",
+    "skills": "Python, r, c++, md simulation, molecular docking, sql",
+    "linkedin": "https://www.linkedin.com/in/khubaibreyaz/",
     "driveLink": "https://drive.google.com/file/d/1RU-vSQ-SXyG5p_ip8jsW5h4s22IOeAeN/view"
 }
 ]
