@@ -1328,6 +1328,51 @@
     "skills": "Bioinformatics and computational biology; sequence and genomic analysis; structural bioinformatics; pathway/network analysis; biological databases; Python, R, C++, and SQL; machine learning basics; cell culture; DNA/RNA/protein extraction; PCR, RT-PCR, gel electrophoresis; Western, Southern, Northern blotting",
     "linkedin": "https://www.linkedin.com/in/zainab-n-23b110364",
     "driveLink": "https://drive.google.com/file/d/1x34gY-eThCs4UEW3QFWujGUJPQ9nw4VY/view?usp=drivesdk"
-  }
+  },
+
+
+    
+    {
+    "Name": "Noor Fatima Rizvi",
+    "Email ID": "rizvinoor02@gmail.com",
+    "image": “noor_fatima_rizvi.jpg”,
+    "Current Course": "M.Sc. Bio Informatics",
+    "Previous Course Passed": "M.Sc. Mathematics",
+    "LinkedIn Profile": "https://www.linkedin.com/in/noor-fatima-rizvi-ab6874319",
+    "Skills & Technologies": "Bioinformatics tools and databases\nR language\nPython\nC++",
+    "Photo [drive link]”:”https://drive.google.com/file/d/1IOpCO6R7uMmsLi-XnUbXzNsPZU_ma5_g/view?usp=drivesdk”
+  },
+
+  {
+    "Name": "Samad Saifi",
+    "Email ID": "samadlylives00@gmail.com",
+    "image": “samad_saifi.jpg”,
+    "Current Course": "M.Sc. Bio Informatics",
+    "Previous Course Passed": "B.Sc Life Science",
+    "LinkedIn Profile": "https://www.linkedin.com/in/samad-saifi-ab91aa374/",
+    "Skills & Technologies": "Programming: C++, Python, JavaScript, Basic R\n\nBioinformatics Tools: BLAST, ClustalW, MEGA, FASTA, Cytoscape\n\nDatabases: NCBI, UniProt, PDB, Supabase\n\nWeb Development: Next.js, React, HTML, CSS\n\nData & ML: Sequence Analysis, Genomic Data Interpretation, Machine Learning Basics\n\nDev Tools: Git, GitHub, SQL (Basics), Google OAuth",
+    "Photo [drive link]": “https://drive.google.com/file/d/1Fe7jnVJmC6bLum80Jj4gSu-DaahIJL8X/view?usp=drivesdk”
+  },
+
+{
+    "Name": "Ramsha Saud",
+    "Email ID": "ramshasaud2316@gmail.com",
+    "image": “Ramsha.jpg”,
+    "Current Course": "M.Sc. Bio Informatics",
+    "Previous Course Passed": “B.Sc cardiology Lab Techniques",
+    "LinkedIn Profile": "https://www.linkedin.com/in/ramsha-saud-573826336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwHZoI2NHRJ2RDNcmuNFQtA%3D%3D",
+    "Skills & Technologies": "R, Python, C++, DBMS, HTML",
+    "Photo [drive link]": “https://drive.google.com/file/d/1xkz5U59sks5yHz4hQ9kE7eq7hOAxRa7F/view”
+},
+{
+    "Name": "Khubaib Reyaz",
+    "Email ID": "Khubaibreyaz0@gmail.com",
+    "image": “Khubaib_Reyaz.png”,
+    "Current Course": "M.Sc. Bio Informatics",
+    "Previous Course Passed": “B.Sc (Hons)Botany",
+    "LinkedIn Profile": "https://www.linkedin.com/in/khubaibreyaz/",
+    "Skills & Technologies": "Python, r, c++, md simulation, molecular docking, sql",
+    "Photo [drive link]": “https://drive.google.com/file/d/1RU-vSQ-SXyG5p_ip8jsW5h4s22IOeAeN/view”
+}
 ]
 }
