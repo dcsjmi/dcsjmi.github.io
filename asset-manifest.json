@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ac64c416.css",
-    "main.js": "/static/js/main.af3391c1.js",
+    "main.js": "/static/js/main.e24e81dd.js",
     "static/media/aiml.jpg": "/static/media/aiml.0b67ae9dddd177336ca2.jpg",
     "static/media/vc.jpg": "/static/media/vc.6274ab704b8fdae4b97d.jpg",
     "static/media/Swiper_4.jpg": "/static/media/Swiper_4.04e6dbf82e9774556956.jpg",
@@ -11,6 +11,7 @@
     "static/media/Swiper_10.jpg": "/static/media/Swiper_10.73c26c595cc3572913ba.jpg",
     "static/media/IrfanPhoto.png": "/static/media/IrfanPhoto.14800857c81a09b519d4.png",
     "static/media/17.jpg": "/static/media/17.28852006845d43f64126.jpg",
+    "static/media/Ramsha.jpg": "/static/media/Ramsha.eaa4f80a9e889044f5b8.jpg",
     "static/media/24.jpg": "/static/media/24.97e531caa700441753ca.jpg",
     "static/media/Adeeba.jpg": "/static/media/Adeeba.3bb71734092c3101e0e6.jpg",
     "static/media/09.jpg": "/static/media/09.b30c0932e554b6a6d5fa.jpg",
@@ -38,6 +39,7 @@
     "static/media/Sanjana.jpg": "/static/media/Sanjana.4cc32b4529b288981403.jpg",
     "static/media/06.jpg": "/static/media/06.09e5d5eddb698d425d5e.jpg",
     "static/media/Mohd_Shahnawaz.jpg": "/static/media/Mohd_Shahnawaz.13de1c733c06689ee5ab.jpg",
+    "static/media/noor_fatima_rizvi.jpg": "/static/media/noor_fatima_rizvi.4d1234defd5adf7ecbfd.jpg",
     "static/media/Amna_Abbasi.jpg": "/static/media/Amna_Abbasi.dbe4e93e73a1482aa892.jpg",
     "static/media/37.jpg": "/static/media/37.3984b4f0cb7a3de903b0.jpg",
     "static/media/Iram_Ahmed.jpg": "/static/media/Iram_Ahmed.cfaebe6b808704d45169.jpg",
@@ -53,6 +55,7 @@
     "static/media/Mansi.jpg": "/static/media/Mansi.78517bd71411ae96d22c.jpg",
     "static/media/33.jpg": "/static/media/33.1db23d01a69dcd455c04.jpg",
     "static/media/34.jpg": "/static/media/34.e73b29d86313c06c758a.jpg",
+    "static/media/samad_saifi.jpg": "/static/media/samad_saifi.160be9734c4ac71786cf.jpg",
     "static/media/21.jpg": "/static/media/21.a6c2743df63814a11929.jpg",
     "static/media/45.jpg": "/static/media/45.ad90acaab0d1776ae175.jpg",
     "static/media/02.jpg": "/static/media/02.f1237a99573271fd47f7.jpg",
@@ -62,6 +65,7 @@
     "static/media/13.jpg": "/static/media/13.8bdd09830e8e92ca4330.jpg",
     "static/media/39.jpg": "/static/media/39.ab26eee3cd3f0d069d06.jpg",
     "static/media/IMG_1965.jpg": "/static/media/IMG_1965.1fb82603609715b464d6.jpg",
+    "static/media/Khubaib_Reyaz.png": "/static/media/Khubaib_Reyaz.04ab3f24d8b5ae12d7bf.png",
     "static/media/38.png": "/static/media/38.16c61d31cd990ddd9c82.png",
     "static/media/19.jpg": "/static/media/19.d3e00e2fe2841d11ecd6.jpg",
     "static/media/50.png": "/static/media/50.8c06b8c03d74cc87a9e1.png",
@@ -251,10 +255,10 @@
     "static/media/placement.png": "/static/media/placement.7b8249d3d5380f20a3cc.png",
     "index.html": "/index.html",
     "main.ac64c416.css.map": "/static/css/main.ac64c416.css.map",
-    "main.af3391c1.js.map": "/static/js/main.af3391c1.js.map"
+    "main.e24e81dd.js.map": "/static/js/main.e24e81dd.js.map"
   },
   "entrypoints": [
     "static/css/main.ac64c416.css",
-    "static/js/main.af3391c1.js"
+    "static/js/main.e24e81dd.js"
   ]
 }
