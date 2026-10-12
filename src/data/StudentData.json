@@ -1329,46 +1329,40 @@
     "linkedin": "https://www.linkedin.com/in/zainab-n-23b110364",
     "driveLink": "https://drive.google.com/file/d/1x34gY-eThCs4UEW3QFWujGUJPQ9nw4VY/view?usp=drivesdk"
   },
-
-
-    
-    {
+  {
     "id": 38,
-    "Name": "Noor Fatima Rizvi",
-    "Email ID": "rizvinoor02@gmail.com",
+    "name": "Noor Fatima Rizvi",
+    "email": "rizvinoor02@gmail.com",
     "image": "noor_fatima_rizvi.jpg",
     "highQual": "M.Sc. Mathematics",
     "skills": "Bioinformatics tools and databases\nR language\nPython\nC++",
     "linkedin": "https://www.linkedin.com/in/noor-fatima-rizvi-ab6874319",
     "driveLink":"https://drive.google.com/file/d/1IOpCO6R7uMmsLi-XnUbXzNsPZU_ma5_g/view?usp=drivesdk"
   },
-
   {
     "id": 39,
-    "Name": "Samad Saifi",
-    "Email ID": "samadlylives00@gmail.com",
+    "name": "Samad Saifi",
+    "email": "samadlylives00@gmail.com",
     "image": "samad_saifi.jpg",
-   
     "highQual": "B.Sc Life Science",
     "skills": "Programming: C++, Python, JavaScript, Basic R\n\nBioinformatics Tools: BLAST, ClustalW, MEGA, FASTA, Cytoscape\n\nDatabases: NCBI, UniProt, PDB, Supabase\n\nWeb Development: Next.js, React, HTML, CSS\n\nData & ML: Sequence Analysis, Genomic Data Interpretation, Machine Learning Basics\n\nDev Tools: Git, GitHub, SQL (Basics), Google OAuth",
     "linkedin": "https://www.linkedin.com/in/samad-saifi-ab91aa374/",
     "driveLink":"https://drive.google.com/file/d/1Fe7jnVJmC6bLum80Jj4gSu-DaahIJL8X/view?usp=drivesdk"
   },
-
-{
+  {
     "id": 40,
-    "Name": "Ramsha Saud",
-    "Email ID": "ramshasaud2316@gmail.com",
+    "name": "Ramsha Saud",
+    "email": "ramshasaud2316@gmail.com",
     "image": "Ramsha.jpg",
     "highQual": "B.Sc cardiology Lab Techniques",
     "skills": "R, Python, C++, DBMS, HTML",
     "linkedin": "https://www.linkedin.com/in/ramsha-saud-573826336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwHZoI2NHRJ2RDNcmuNFQtA%3D%3D",
     "driveLink": "https://drive.google.com/file/d/1xkz5U59sks5yHz4hQ9kE7eq7hOAxRa7F/view"
-},
-{
+  },
+  {
     "id": 41,
-    "Name": "Khubaib Reyaz",
-    "Email ID": "Khubaibreyaz0@gmail.com",
+    "name": "Khubaib Reyaz",
+    "email": "Khubaibreyaz0@gmail.com",
     "image": "Khubaib_Reyaz.png",
     "highQual": "B.Sc (Hons)Botany",
     "skills": "Python, r, c++, md simulation, molecular docking, sql",
