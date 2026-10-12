@@ -7,6 +7,7 @@
       "designation": "Teacher Placement Coordinator"
     }
   ],
+  
   "M.C.A. SPoC": [
     {
       "name": "Aanya Sharma",
@@ -19,8 +20,8 @@
       "phone": "+91 8078 676 270"
     }
   ],
+  
   "M.Sc. AI/ML SPoC": [
-   
     {
       "name": "Megha R",
       "mail": "megharnair1312@gmail.com",
@@ -30,6 +31,19 @@
       "name": "Jayant Aggarwal",
       "mail": "jayantaggarwal7122@gmail.com",
       "phone": "+91 8266928202"
+    }
+  ],
+  
+  "M.Sc. Bioinformatics SPoC": [   
+    {
+      "name": "MD. Arshad",
+      "mail": "arshad10867c@gmail.com",
+      "phone": "91 8910085386"
+    },
+     {
+       "name": "Prakriti singh",
+      "mail": "prakritisingh309135@gmail.com",
+      "phone": "91 7051514697"
     }
   ]
 }
