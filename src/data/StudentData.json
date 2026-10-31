@@ -1,1373 +1,1262 @@
 {
-  
-  "Master of Computer Application": [
-    {
-    "id": 1,
-    "name": "Aanya Sharma",
-    "email": "aanyasharma.1103@gmail.com",
-    "image": "abc.png",
-    "highQual": "BCA",
-    "skills": "Java, Python, SQL, Asp.net, HTML, CSS, Javascript, Node.js, React.js, MongoDB",
-    "linkedin": "https://www.linkedin.com/in/aanya-sharma-838698223",
-    "driveLink": "https://drive.google.com/file/d/1vDYrzOrP75OjLRPkBRxmtUHiC49NJQVJ/view?usp=drivesdk"
-  },
-  {
-    "id": 2,
-    "name": "Abdul Subhan",
-    "email": "abdsubhan2004@gmail.com",
-    "image": "Subhan.jpg",
-    "highQual": "B.Sc.(Hons.) Mathematics (2024) and P.G.Diploma in Computer Applications (2025)",
-    "skills": "C, Java, Python, MySQL, GenAI, NN, AWS, Communication, Adaptability",
-    "linkedin": "https://www.linkedin.com/in/abdul-subhan-4b0606320?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1RhjMNiwn4Wu-uF5-G4gG638NHnA-98is/view?usp=drivesdk"
-  },
-  {
-    "id": 3,
-    "name": "Abul Hasan",
-    "email": "Abulhasanjmi@gmail.com",
-    "image": "03.png",
-    "highQual": "Bachelor in Solar Energy (Department of Physics) ",
-    "skills": "\n\nJava, Python, C, JavaScript, HTML, CSS, React.js, Node.js, Express.js, MongoDB, MySQL, Machine Learning, PyTorch, Scikit-learn, NumPy, Pandas, Git, GitHub, Data Structures & Algorithms, DBMS, Operating Systems.",
-    "linkedin": "https://www.linkedin.com/in/abul-hasan-303047386",
-    "driveLink": "https://drive.google.com/file/d/1yuekOBSQRSbm9N8dmCq6s41_l8yUrLIu/view?usp=drivesdk"
-  },
-  {
-    "id": 4,
-    "name": "Ainish Zehra",
-    "email": "ainishzehra123@gmail.com",
-    "image": "04.jpg",
-    "highQual": "BCA",
-    "skills": "Html,CSS,JS, React Node.js,Express.js,MongoDB,SQL, Mongoose, java",
-    "linkedin": "https://www.linkedin.com/in/ainish-zehra-967710388?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1fRrtebJzO9Ae2yPGI8C8mkuya1MzomNK/view?usp=drivesdk"
-  },
-  {
-    "id": 5,
-    "name": "Alisha Khanam",
-    "email": "ALISHAKHANAM18082005@GMAIL.COM",
-    "image": "05.jpg",
-    "highQual": "BCA ",
-    "skills": "Java, python, SQL, OOPS ,  AI/ML, DSA",
-    "linkedin": "https://www.linkedin.com/in/alisha-khan-034868261?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1dVMNZglZghaBs2Z5_CYgWXc5QTJHy7Kp/view?usp=drivesdk"
-  },
-  {
-    "id": 6,
-    "name": "Altamash Abbasi",
-    "email": "altamashabbasi001@gmail.com",
-    "image": "06.jpeg",
-    "highQual": "BCA",
-    "skills": "Tools: SQL, Python, Pandas, PowerBI, Excel, Git\n\nSkills: Data Cleaning, ETL Pipelines, EDA and Data Visualization",
-    "linkedin": "https://www.linkedin.com/in/altamashabbasi",
-    "driveLink": "https://drive.google.com/file/d/1MmDLRBfhw7TdRszpws3Fkbsuqy_5ww2c/view?usp=drive_link"
-  },
-  {
-    "id": 7,
-    "name": " Ammar",
-    "email": "amjadammar786786@gmail.com",
-    "image": "07.png",
-    "highQual": "Bsc(hons) Mathematics ",
-    "skills": "Basic AI/ML, Python with libraries, Basic Data Analytics,Java,Basic Web Design ",
-    "linkedin": "https://www.linkedin.com/in/ammar-qasmi-082266289?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.comcom/file/d/1P4P1GP-REkXN8whj31qGNSrsK6EWopKt/view?usp=drivesdk"
-  },
-  {
-    "id": 8,
-    "name": "Anam Saifi",
-    "email": "anamsaifi2610@gmail.com",
-    "image": "My photo.jpg",
-    "highQual": "Bsc",
-    "skills": "HTML, css, JavaScript, React js, core java, spring boot, Python",
-    "linkedin": "https://www.linkedin.com/in/anam-saifi-ab6413230?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1e0JBbFTEMQM-nQ3Di1HJalM1OjvNlT7m/view?usp=drivesdk"
-  },
-  {
-    "id": 9,
-    "name": " Anmol Pandita",
-    "email": "panditaanmol8@gmail.com",
-    "image": "09.jpg",
-    "highQual": "Bachelors in Computer Application ",
-    "skills": "Sql, Python, Shell programming, MS Office",
-    "linkedin": "https://www.linkedin.com/in/anmol-pandita-38343a272?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1Kqt9rDuW5CFlrA8yFVBTa0h-1yPZRntL/view?usp=sharing"
-  },
-  {
-    "id": 10,
-    "name": "Aqdas Amaan",
-    "email": "aqdasamaan88@gmail.com",
-    "image": "10.jpg",
-    "highQual": "BCA",
-    "skills": "Python, C++, JavaScript, SQL, React, Node.js, Express.js, PostgreSQL, PyTorch, Machine Learning, Git/GitHub",
-    "linkedin": "linkedin.com/in/aqdas-amaan",
-    "driveLink": "https://drive.google.com/file/d/1A5JJ2rYNm_SPpRyqbErLifGnTzLa2b0q/view?usp=drive_link"
-  },
-  {
-    "id": 11,
-    "name": "Ariba Almas Chaudhry",
-    "email": "ariba.almas.cs@gmail.com",
-    "image": "11.jpg",
-    "highQual": "Bsc. Aeronautics ",
-    "skills": "SQl , DBMS , DSA, Java , Python, Ai, ML, DL,Data Visualization ",
-    "linkedin": "https://www.linkedin.com/in/ariba-almas?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1uf4Wzt7RwGU2MonZFU24LZrRJzHQXvRY/view?usp=drivesdk"
-  },
-  {
-    "id": 12,
-    "name": "Arman Khan",
-    "email": "armanakhana786@gmail.com",
-    "image": "24MCA012.jpg",
-    "highQual": "B.sc",
-    "skills": "Java, DSA, Spring Boot, MySQL, DBMS, REST APIs, Backend Development, Git/GitHub, Microservices Basics, Problem Solving",
-    "linkedin": "https://www.linkedin.com/in/armankhann/",
-    "driveLink": "https://drive.google.com/file/d/1FrwKlRdG29q6BwgLNyrR-zbkMU0FSqaF/view?usp=drivesdk"
-  },
-  {
-    "id": 13,
-    "name": "Arslan Akhtar",
-    "email": "iamarslanakhtar@gmail.com",
-    "image": "13.jpg",
-    "highQual": "B.Sc(Hons) Applied Mathematics",
-    "skills": "Artificial Neural Network, C, Java, Sql",
-    "linkedin": "https://www.linkedin.com/in/arslan-akhtar-8889a9271?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1kTre917-QLteWFpHJcB22KTK0SJ7fJ8X/view?usp=drivesdk"
-  },
-  {
-    "id": 14,
-    "name": "Ayan Ahmad",
-    "email": "neuronloop62@gmail.com",
-    "image": "14.png",
-    "highQual": "BCA",
-    "skills": "Web and Mobile Development, AI & ML",
-    "linkedin": "https://www.linkedin.com/in/iayanahmad",
-    "driveLink": "https://drive.google.com/file/d/1oeauTZhg_HMjnlmjF-tI5yJV7zeEOu44/view?usp=sharing"
-  },
-  {
-    "id": 15,
-    "name": "Chetna Panchal",
-    "email": "panchal.chetnaoct@gmail.com",
-    "image": "15.jpg",
-    "highQual": "B. Sc.(PHYSICAL SCIENCE WITH COMPUTER SCIENCE) ",
-    "skills": "Java, Python, HTML, CSS, JavaScript, SQL, Machine Learning and Deep Learning, Git and Github",
-    "linkedin": "https://www.linkedin.com/in/chetnapanchal/",
-    "driveLink": "https://drive.google.com/file/d/1HDUu2O6AuwZgvPaYealfwUiPL3afxN2W/view?usp=drivesdk"
-  },
-  {
-    "id": 16,
-    "name": "Faisal Ansari",
-    "email": "faisalraj9193@gmail.com",
-    "image": "16.jpg",
-    "highQual": "Bachelor of Science Physics (Hons.) ",
-    "skills": "Core java, Python, Object-Oriented Programming, Dbms, Oracle DB, Mysql, Java Development, JDBC, Data Structures, Algorithm Design & Optimization, MS-office. ",
-    "linkedin": "https://www.linkedin.com/in/faisal-ansari-1b5601195",
-    "driveLink": "https://drive.google.com/file/d/1xH6PA3NtPhnYiDbfl6lLgtng7Oyks1hV/view?usp=drivesdk"
-  },
-  {
-    "id": 17,
-    "name": "Faizan Yousuf",
-    "email": "Reshifaixxan980@gmail.com",
-    "image": "17.jpg",
-    "highQual": "BCA",
-    "skills": "Data Structures and algorithms, OOPs, JAVA, Web Development, DevOps ",
-    "linkedin": "https://www.linkedin.com/in/faizan-yousuf-783486207",
-    "driveLink": "https://drive.google.com/file/d/14aDUlN37VnABQTFdtjWpuouJXLaeihOC/view?usp=drivesdk"
-  },
-  {
-    "id": 18,
-    "name": "Fizza Khatoon",
-    "email": "khatoonfizza91@gmail.com",
-    "image": "18.jpg",
-    "highQual": "Bachelor of Computer Applications",
-    "skills": "Java, DSA,CSS3, HTML5, JavaScript,React.js",
-    "linkedin": "https://www.linkedin.com/in/fizza-khatoon",
-    "driveLink": "https://drive.google.com/file/d/1MB1bntzVlJ5QOqy-5Q2yPklkZ5GP9jJF/view?usp=sharing"
-  },
-  {
-    "id": 19,
-    "name": "Gulista Parveen",
-    "email": "pgulista70@gmail.com",
-    "image": "19.jpg",
-    "highQual": "BCA",
-    "skills": "Java, spring boot, JavaScript ,C,C++,html,CSS,SQL",
-    "linkedin": "https://www.linkedin.com/in/gulista-parveen-847869389",
-    "driveLink": "https://drive.google.com/file/d/1qE7Vd1FNELDy4nXIhqo6V-iIE_rhLZZ7/view?usp=drivesdk"
-  },
-  {
-    "id": 20,
-    "name": "Irfan Khan",
-    "email": "irfank1191326@gmail.com",
-    "image": "IrfanPhoto.png",
-    "highQual": "Bsc",
-    "skills": "Java, Spring Boot, Microservices, MySQL, MongoDB, Backend Engineering, Rest API, Generative AI, RAG, Docker, React.js, Git, GitHub.",
-    "linkedin": "https://www.linkedin.com/in/irfan-khan-26498823a",
-    "driveLink": "https://drive.google.com/file/d/15C3m5gCjya09CMBzzxO49K7eUzZCM5KN/view?usp=drivesdk"
-  },
-  {
-    "id": 21,
-    "name": " Kamlendra Singh",
-    "email": "singhkamlendra201@gmail.com",
-    "image": "21.jpg",
-    "highQual": "BCA",
-    "skills": "Java, DSA with Java, Algorithm Design, Spring Boot, Spring  security, JPA, React, ASP.net, MySql",
-    "linkedin": "https://www.linkedin.com/in/kamlendra-singh-08b166258/",
-    "driveLink": "https://drive.google.com/file/d/1su4ChY7BkJ55hMbuN6qh7ktJDhxUSBEB/view?usp=drivesdk"
-  },
-  {
-    "id": 22,
-    "name": "Kamran Saif",
-    "email": "kamransaif6789@gmail.com",
-    "image": "22.png",
-    "highQual": "BSc",
-    "skills": "Java, HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, DSA",
-    "linkedin": "https://www.linkedin.com/in/kamran-saif-638410261?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1XxbDqRUedEYipWYvgLKJ43SMwDpHDiVl/view?usp=drivesdk"
-  },
-  {
-    "id": 23,
-    "name": " Kunal Chhabra",
-    "email": "mdkumar591@gmail.com",
-    "image": "24MCA023.jpg",
-    "highQual": "BCA",
-    "skills": "C, C++, Python, AI, ML, DL, NLP,  Computer Vision, Web Scraping, Git, Data Analysis, Data Visualization, Probability, Statistics, Flask, Streamlit, BeautifulSoup, LangChain, MySql, Bootstrap, Java, JavaScript, HTML, CSS",
-    "linkedin": "https://www.linkedin.com/in/md-kazi-sajiduddin-1aa127268/",
-    "driveLink": "https://drive.google.com/file/d/1AqydYAvbFiy_OUBmg3_sJ6BuZ-fkxpHj/view?usp=sharing"
-  },
-  {
-    "id": 24,
-    "name": " Md Sahalam Khan",
-    "email": "sahalamkhan09@gmail.com",
-    "image": "24.jpg",
-    "highQual": "Bvoc",
-    "skills": "Frontend:HTML,CSS, Javascript, React.js Backend: core Java,C, Python Node.js, Express.js Database: MySQL,MongoDB",
-    "linkedin": "https://www.linkedin.com/in/md-sahalam-khan-44880b253?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1uxsLVdfHkVaUh4w-q0w5rQpG-WB1rtey/view?usp=drivesdk"
-  },
-  {
-    "id": 25,
-    "name": "Md Afshan Ahmed",
-    "email": "afshanahmed1202@gmail.com",
-    "image": "25.jpeg",
-    "highQual": "B.A. PROGRAMME",
-    "skills": "JAVA | PYTHON | SQL | ML",
-    "linkedin": "https://www.linkedin.com/in/afshan-ahmed-81010024a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1KGGL_M4mqly4RpJgVP9pkinlH7yFrxPO/view?usp=sharing"
-  },
-  {
-    "id": 26,
-    "name": " Md Faishal",
-    "email": "iamfaizsaifi@gmail.com",
-    "image": "Faishal.jpeg",
-    "highQual": "Bcom Hons",
-    "skills": "Java, Js, Web dev, DSA, SQL",
-    "linkedin": "https://www.linkedin.com/in/md-faishal-3779a6373/",
-    "driveLink": "https://drive.google.com/file/d/1hdcYZLKSCKrUSoyX5xMHrQmH6WP3ZwM6/view?usp=sharing"
-  },
-  {
-    "id": 27,
-    "name": "Md Shahnebaij",
-    "email": "mdshahnebaj649@gmail.com",
-    "image": "27.jpg",
-    "highQual": "Bsc",
-    "skills": "C js java",
-    "linkedin": "https://www.linkedin.com/in/md-shahnebaj",
-    "driveLink": "https://drive.google.com/file/d/1Z-LEA5dM1ZwAK06O6tVFtiUQrlz7jxWA/view?usp=drivesdk"
-  },
-  {
-    "id": 28,
-    "name": "Md Muzammil",
-    "email": "mdshahwazsaharsa2@gmail.com",
-    "image": "28.jpg",
-    "highQual": "Other",
-    "skills": "My sql",
-    "linkedin": "https://www.linkedin.com/in/md-shahwaz",
-    "driveLink": "https://drive.google.com/file/d/1JkH0VS5c_r9aCi8xXERG6UINIBrhjvtn/view?usp=drivesdk"
-  },
-  {
-    "id": 29,
-    "name": "Md Mozammil Raja",
-    "email": "mozammil.mr@gmail.com",
-    "image": "29.png",
-    "highQual": "BSc Computer Application",
-    "skills": "Java\nSpring Boot\nPython\nMySQL\nSQL\nData Analysis\nData Visualization\nStatistics\nPandas\nNumPy\nExcel\nPower BI\nData Structures & Algorithms\nObject-Oriented Programming (OOP)\nSystem Design (Basic)\nGit & GitHub",
-    "linkedin": "linkedin.com/in/mozammil27/",
-    "driveLink": "https://drive.google.com/file/d/1UQUaGAmbOHUi74URX9L7kmS8qe772sHw/view?usp=drivesdk"
-  },
-  {
-    "id": 30,
-    "name": "Mohammed Muhafiz Hussain",
-    "email": "hussainmuhafiz@gmail.com",
-    "image": "30.jpeg",
-    "highQual": "B.Sc. Computer Science",
-    "skills": "Languages: Go, Java, JavaScript, C, C++\nFrontend: SolidJS, Vanilla JS, Vite, HTML, CSS, DaisyUI\nBackend & Databases: Go, Node.js/Express, REST APIs, SQLite, PostgreSQL, SQL, Drizzle ORM, GORM, PocketBase\nSystems & Tools: Linux, Git/GitHub, Docker, Make, ffmpeg, Neovim\nOther: Database Design, Authentication, API Development, Project Management",
-    "linkedin": "https://www.linkedin.com/in/mohammed-muhafiz-hussain-22o4",
-    "driveLink": "https://drive.google.com/file/d/1dbLCh-k-dk6Mgz2Pw2zihkFioXdXS_dA/view?usp=drive_link"
-  },
-  {
-    "id": 31,
-    "name": "Mohd Fardeen Akhtar",
-    "email": "fardeenakh0023@gmail.com",
-    "image": "31.jpeg",
-    "highQual": "Bsc (Maths)",
-    "skills": "Python, SQL, Power BI, Pandas, NumPy, Statistics, Data Analytics, Machine Learning\n",
-    "linkedin": "www.linkedin.com/in/mohd-fardeen-akhtar",
-    "driveLink": "https://drive.google.com/file/d/1SabmsJdHsG1Ziomdk-ZnA23efiLfOP9n/view?usp=drive_link"
-  },
-  {
-    "id": 32,
-    "name": "Mohd Bilal Hasan",
-    "email": "bilalhasan403@gmail.com",
-    "image": "32.png",
-    "highQual": "Bachelor of engineering (Civil)",
-    "skills": "Python, Java, SQL, FastAPI, Deep Learning, pytorch, RAG Systems, AI Agents, PostgreSQL",
-    "linkedin": "https://www.linkedin.com/in/mohd-bilal-hasan/",
-    "driveLink": "https://drive.google.com/file/d/17ciCqu_p2tYMVMQmVUIS_DzEvLNTjO4d/view?usp=sharing"
-  },
-  {
-    "id": 33,
-    "name": "Mohd Saad Ansari",
-    "email": "aenz69136@gmail.com",
-    "image": "33.jpg",
-    "highQual": "BCA",
-    "skills": "Spring Boot, Spring MVC, REST APIs, Spring Data JPA (Hibernate), Spring Security, JWT, MySQL, GitHub, DSA, OOP,",
-    "linkedin": "https://www.linkedin.com/in/saad-ansari-a75b6621a",
-    "driveLink": "https://drive.google.com/file/d/14A_9XC3QCfm4CB6pAMYFgdKb6FlyjO5z/view?usp=drivesdk"
-  },
-  {
-    "id": 34,
-    "name": "Mohd Danish",
-    "email": "ansaridanish4946@gmail.com",
-    "image": "34.jpg",
-    "highQual": "B.Sc (Physics, Chemistry & Maths)",
-    "skills": "C, Java, Python, django, MySQL, HTML5, CSS, Javascript,React , Git, GitHub ",
-    "linkedin": "https://www.linkedin.com/in/mohd-danish-090218214?",
-    "driveLink": "https://drive.google.com/file/d/1P-au6CSJGp3G_O52nkYZZHizTq2eq03E/view?usp=drivesdk"
-  },
-  {
-    "id": 35,
-    "name": "Mohd Hammad",
-    "email": "hammadmd445@gmail.com",
-    "image": "35.jpg",
-    "highQual": "B.Sc. Physical Science with Computer Science ",
-    "skills": "Java, Python, Data structure and algorithm ,AI & Ml, FastApi, GenAi, power bi",
-    "linkedin": "https://www.linkedin.com/in/mohammad-hammad-1822b9264?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-    "driveLink": "https://drive.google.com/drive/folders/1Z3UBzPfc0j-W1eQTLLUKdF4F7LPhG9he"
-  },
-  {
-    "id": 36,
-    "name": " Mohd Shaiq",
-    "email": "md.shaiq2102@gmail.com",
-    "image": "Shaiq.jpeg",
-    "highQual": "BSc(Hons.) Computer Science ",
-    "skills": "Cloud & Devops",
-    "linkedin": "https://www.linkedin.com/in/mohd-shaiq?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-    "driveLink": "https://drive.google.com/drive/folders/1ZIZgVw3gy1u7-5UiNvonl5GpI-xNApk8?usp=sharing"
-  },
-  {
-    "id": 37,
-    "name": "Mohit Kumar Chaurasiya",
-    "email": "mohitkumarchaurasiya179@gmail.com",
-    "image": "37.jpg",
-    "highQual": "BCA",
-    "skills": "Core Java, MySQL , HTML",
-    "linkedin": "https://www.linkedin.com/in/mohit-chaurasiya-801567426?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1BKSvNJuJqJAd4-wwmqtQcCvlH6ycUgUk/view?usp=drivesdk"
-  },
-  {
-    "id": 38,
-    "name": "Monish Hasan",
-    "email": "monishhasan0@gmail.com",
-    "image": "38.png",
-    "highQual": "Bachelor's of Arts",
-    "skills": "Node.js\nReact.js\nMongoDB\nExcel\nSQL",
-    "linkedin": "https://www.linkedin.com/in/monish-hasan-311ab4208?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1gngAAZfm2fbKYPKqZKP_NEg4WMs5YGOT/view?usp=drivesdk"
-  },
-  {
-    "id": 39,
-    "name": "Mohammad Fuzail",
-    "email": "fuzailshafi0012@gmail.com",
-    "image": "39.jpeg",
-    "highQual": "Bachelors with major in Comp Science and minor in  Mathematics ",
-    "skills": "Java, Spring Boot, Python, Machine Learning, Deep Learning, TensorFlow, MySQL, MongoDB, REST APIs, Git/GitHub.",
-    "linkedin": "www.linkedin.com/in/mohammad-fuzail-051a10347",
-    "driveLink": "https://drive.google.com/file/d/1ZHOSxZ-Ui9FcwgFqtCVFQT5EPGQK1wn5/view?usp=drivesdk"
-  },
-  {
-    "id": 40,
-    "name": "Noor Fatma",
-    "email": "noorfatma9525@gmail.com",
-    "image": "40.jpg",
-    "highQual": 2023,
-    "skills": "JavaScript, HTML, CSS, React.js, Node.js, Express.js, MongoDB,REST APIs",
-    "linkedin": "www.linkedin.com/in/ noorfatma28",
-    "driveLink": "https://drive.google.com/file/d/1_nhOST17gF4-1xwePjGuQmnIaPXeTYDM/view?usp=drivesdk"
-  },
-  {
-    "id": 41,
-    "name": "Rahul",
-    "email": "rehanjaffery.02@gmail.com",
-    "image": "41.png",
-    "highQual": "BCA",
-    "skills": "Python, DBMS, MySql, Java, HTML5, CSS, JavaScript, Cloud computing, Troubleshooting, Git, linux fundamentals, AI, Software testing and quality assurance.",
-    "linkedin": "https://www.linkedin.com/in/rehan-jaffery-a98019206",
-    "driveLink": "https://drive.google.com/file/d/1xMQg0Uw1_QMC2RFz6rkq0u98loXbt_c6/view?usp=drive_link"
-  },
-  {
-    "id": 42,
-    "name": "Rampal Prajapati",
-    "email": "lrampal86@gmail.com",
-    "image": "42.jpg",
-    "highQual": "BCA",
-    "skills": "Java full stack development and AIML ",
-    "linkedin": "linkedin.com/in/rampal-prajapati-5192681b5",
-    "driveLink": "https://drive.google.com/file/d/1E6O0KIlxDWYvCtpnLMdOrwlE42hrAnkq/view?usp=drivesdk"
-  },
-  {
-    "id": 43,
-    "name": "Sabahat Parween",
-    "email": "sabahatparween199@gmail.com",
-    "image": "43.jpg",
-    "highQual": "Bsc honours(Mathematics)",
-    "skills": "Java, springboot,C, MySQL, javascript,C++",
-    "linkedin": "https://www.linkedin.com/in/sabahat-parween-3520bb31a",
-    "driveLink": "https://drive.google.com/file/d/1kDV-YRGr-klW8ZGgrYIj556zjykxU60v/view?usp=drivesdk"
-  },
-  {
-    "id": 44,
-    "name": "Saddam Khan",
-    "email": "sattari8949@gmail.com",
-    "image": "Saddam.jpg",
-    "highQual": " Bsc (computer science)",
-    "skills": "Java, spring boot,genAi, microservices, MySQL",
-    "linkedin": "https://www.linkedin.com/in/saddam-khan-9207113a8",
-    "driveLink": "https://drive.google.com/file/d/1LdmGVeHddZ0qZXG_XnRmIPqOHeFwYj4b/view?usp=drivesdk"
-  },
-  {
-    "id": 45,
-    "name": "Saneen V",
-    "email": "saneenv99@gmail.com",
-    "image": "45.jpg",
-    "highQual": "Bsc Computer Science ",
-    "skills": "HTML,CSS,Javascript,Java,C,Python,Oracle SQL",
-    "linkedin": "https://www.linkedin.com/in/saneen-v-727395273/",
-    "driveLink": "https://drive.google.com/file/d/1GYc0LYJdujKtFYrvsy43R2OysOO1Wczi/view?usp=drivesdk"
-  },
-  {
-    "id": 46,
-    "name": "Shaba Khan",
-    "email": "kshaba021@gmail.com",
-    "image": "46.png",
-    "highQual": "BSc Maths Honours ",
-    "skills": "Java, HTML, CSS, JavaScript, Python, DBMS, DataStructure, Node.js, React, Express, Mongodb, Tailwind ",
-    "linkedin": "www.linkedin.com/in/shaba-khan-7a2ab12a0",
-    "driveLink": "https://drive.google.com/file/d/1-YucyBViFAfx5oDvShDEL2QwvMuXW55m/view?usp=drivesdk"
-  },
-  {
-    "id": 47,
-    "name": "Shahvej Khan",
-    "email": "shahvejkhanjmi@gmail.com",
-    "image": "25MCA047.jpg",
-    "highQual": "Bsc(Cs & maths)",
-    "skills": "Mern Java, react,nodejs,mongodb, express js, langchain,genAi devops,Html,css, machine learning,git",
-    "linkedin": "https://www.linkedin.com/in/shahvej-khan-5991452b6?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1xyAU5W14AibQOhCanpwZtEjzNdafXdXj/view?usp=drivesdk"
-  },
-  {
-    "id": 48,
-    "name": "Shahzan Zafar",
-    "email": "shahzanzafar11@gmail.com",
-    "image": "48.jpeg",
-    "highQual": "B.Sc.",
-    "skills": "Java, Python, Pandas, PowerBI, MySQL",
-    "linkedin": "https://www.linkedin.com/in/shahzan-zafar/",
-    "driveLink": "https://drive.google.com/file/d/1eniQ-Ba7an02vYPvUeuXms_tezvjUNFQ/view?usp=drive_link"
-  },
-  {
-    "id": 49,
-    "name": "Shamir Ahmed",
-    "email": "ahmed29shamir@gmail.com",
-    "image": "49.jpg",
-    "highQual": "BCA",
-    "skills": "Java, Python, C, MySQL, React,\n Express.js, HTML5, CSS, Javascript, Git, GitHub",
-    "linkedin": "https://www.linkedin.com/in/shamir-ahmed-34650b207",
-    "driveLink": "https://drive.google.com/file/d/12EBAugQd76JNldIpDP1G1XpTBBN1Zv0n/view?usp=drivesdk"
-  },
-  {
-    "id": 50,
-    "name": "Sonam",
-    "email": "100nam2002@gmail.com",
-    "image": "50.png",
-    "highQual": "BCA",
-    "skills": "Java,DBMS,SQL,Data Structure,AI ML",
-    "linkedin": "https://www.linkedin.com/in/sonam-saini-02a852268",
-    "driveLink": "https://drive.google.com/drive/folders/1FFMu3M5htgJrozwjRhhC9JvTXCxeBVEH"
-  },
-  {
-    "id": 51,
-    "name": "Tiskeen Laba",
-    "email": "tiskeenlaba@gmail.com",
-    "image": "51.jpg",
-    "highQual": "B.Sc. (H) Mathematics ",
-    "skills": "Java, python, AI, MySQL, ML",
-    "linkedin": "https://www.linkedin.com/in/tiskeenlaba",
-    "driveLink": "https://drive.google.com/file/d/1biQy_PKJ2w0QYLkyDgypJks6nznWE-AE/view?usp=drivesdk"
-  },
-  {
-    "id": 52,
-    "name": " Vishwajeet Singh",
-    "email": "vishwajeetworks@gmail.com",
-    "image": "52.jpg",
-    "highQual": "BCA",
-    "skills": "MERN, FAST API, C++, PYTHON",
-    "linkedin": "https://www.linkedin.com/in/vishwajeet-singh-6aaa9a244/",
-    "driveLink": "https://drive.google.com/file/d/1kQ0EFD7_qbw_3fqyl7xDf72u6iTbDVIO/view?usp=drivesdk"
-  },
-  {
-    "id": 53,
-    "name": " Waqar Ahmed",
-    "email": "waqa1022@gmail.com",
-    "image": "53.jpg",
-    "highQual": "BCA",
-    "skills": "Node.Js\nMongoDB\nReact.Js\nSQL\nC, C++\nLinux\nPython",
-    "linkedin": "https://www.linkedin.com/in/waqar-ahmed-b82704212?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1YtwhE_iFNciSsbe6wxgraFrus4YUApt9/view?usp=drivesdk"
-  },
-  {
-    "id": 54,
-    "name": " Yasmeen Khatoon",
-    "email": "yasmeen200215@gmail.com",
-    "image": "54.png",
-    "highQual": "B.Sc",
-    "skills": "java,python,SQL,HTML,CSS,JavaScript",
-    "linkedin": "https://www.linkedin.com/in/yasmeen-khatoon-9b04643a9",
-    "driveLink": "https://drive.google.com/file/d/12pNj0TdCLAHhjPtWvlZCqywPCp-mKpgW/view?usp=drivesdk"
-  }
-    ],
+   "Master of Computer Application": [
+     {
+     "id": 1,
+     "name": "Aanya Sharma",
+     "email": "aanyasharma.1103@gmail.com",
+     "image": "abc.png",
+     "highQual": "BCA",
+     "skills": "Java, Python, SQL, Asp.net, HTML, CSS, Javascript, Node.js, React.js, MongoDB",
+     "linkedin": "https://www.linkedin.com/in/aanya-sharma-838698223",
+     "driveLink": "https://drive.google.com/file/d/1vDYrzOrP75OjLRPkBRxmtUHiC49NJQVJ/view?usp=drivesdk"
+   },
+   {
+     "id": 2,
+     "name": "Abdul Subhan",
+     "email": "abdsubhan2004@gmail.com",
+     "image": "Subhan.jpg",
+     "highQual": "B.Sc.(Hons.) Mathematics (2024) and P.G.Diploma in Computer Applications (2025)",
+     "skills": "C, Java, Python, MySQL, GenAI, NN, AWS, Communication, Adaptability",
+     "linkedin": "https://www.linkedin.com/in/abdul-subhan-4b0606320?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1RhjMNiwn4Wu-uF5-G4gG638NHnA-98is/view?usp=drivesdk"
+   },
+   {
+     "id": 3,
+     "name": "Abul Hasan",
+     "email": "Abulhasanjmi@gmail.com",
+     "image": "03.png",
+     "highQual": "Bachelor in Solar Energy (Department of Physics) ",
+     "skills": "\n\nJava, Python, C, JavaScript, HTML, CSS, React.js, Node.js, Express.js, MongoDB, MySQL, Machine Learning, PyTorch, Scikit-learn, NumPy, Pandas, Git, GitHub, Data Structures & Alg[...]",
+     "linkedin": "https://www.linkedin.com/in/abul-hasan-303047386",
+     "driveLink": "https://drive.google.com/file/d/1yuekOBSQRSbm9N8dmCq6s41_l8yUrLIu/view?usp=drivesdk"
+   },
+   {
+     "id": 4,
+     "name": "Ainish Zehra",
+     "email": "ainishzehra123@gmail.com",
+     "image": "04.jpg",
+     "highQual": "BCA",
+     "skills": "Html,CSS,JS, React Node.js,Express.js,MongoDB,SQL, Mongoose, java",
+     "linkedin": "https://www.linkedin.com/in/ainish-zehra-967710388?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1fRrtebJzO9Ae2yPGI8C8mkuya1MzomNK/view?usp=drivesdk"
+   },
+   {
+     "id": 5,
+     "name": "Alisha Khanam",
+     "email": "ALISHAKHANAM18082005@GMAIL.COM",
+     "image": "05.jpg",
+     "highQual": "BCA ",
+     "skills": "Java, python, SQL, OOPS ,  AI/ML, DSA",
+     "linkedin": "https://www.linkedin.com/in/alisha-khan-034868261?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1dVMNZglZghaBs2Z5_CYgWXc5QTJHy7Kp/view?usp=drivesdk"
+   },
+   {
+     "id": 6,
+     "name": "Altamash Abbasi",
+     "email": "altamashabbasi001@gmail.com",
+     "image": "06.jpeg",
+     "highQual": "BCA",
+     "skills": "Tools: SQL, Python, Pandas, PowerBI, Excel, Git\n\nSkills: Data Cleaning, ETL Pipelines, EDA and Data Visualization",
+     "linkedin": "https://www.linkedin.com/in/altamashabbasi",
+     "driveLink": "https://drive.google.com/file/d/1MmDLRBfhw7TdRszpws3Fkbsuqy_5ww2c/view?usp=drive_link"
+   },
+   {
+     "id": 7,
+     "name": " Ammar",
+     "email": "amjadammar786786@gmail.com",
+     "image": "07.png",
+     "highQual": "Bsc(hons) Mathematics ",
+     "skills": "Basic AI/ML, Python with libraries, Basic Data Analytics,Java,Basic Web Design ",
+     "linkedin": "https://www.linkedin.com/in/ammar-qasmi-082266289?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.comcom/file/d/1P4P1GP-REkXN8whj31qGNSrsK6EWopKt/view?usp=drivesdk"
+   },
+   {
+     "id": 8,
+     "name": "Anam Saifi",
+     "email": "anamsaifi2610@gmail.com",
+     "image": "My photo.jpg",
+     "highQual": "Bsc",
+     "skills": "HTML, css, JavaScript, React js, core java, spring boot, Python",
+     "linkedin": "https://www.linkedin.com/in/anam-saifi-ab6413230?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1e0JBbFTEMQM-nQ3Di1HJalM1OjvNlT7m/view?usp=drivesdk"
+   },
+   {
+     "id": 9,
+     "name": " Anmol Pandita",
+     "email": "panditaanmol8@gmail.com",
+     "image": "09.jpg",
+     "highQual": "Bachelors in Computer Application ",
+     "skills": "Sql, Python, Shell programming, MS Office",
+     "linkedin": "https://www.linkedin.com/in/anmol-pandita-38343a272?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1Kqt9rDuW5CFlrA8yFVBTa0h-1yPZRntL/view?usp=sharing"
+   },
+   {
+     "id": 10,
+     "name": "Aqdas Amaan",
+     "email": "aqdasamaan88@gmail.com",
+     "image": "10.jpg",
+     "highQual": "BCA",
+     "skills": "Python, C++, JavaScript, SQL, React, Node.js, Express.js, PostgreSQL, PyTorch, Machine Learning, Git/GitHub",
+     "linkedin": "linkedin.com/in/aqdas-amaan",
+     "driveLink": "https://drive.google.com/file/d/1A5JJ2rYNm_SPpRyqbErLifGnTzLa2b0q/view?usp=drive_link"
+   },
+   {
+     "id": 11,
+     "name": "Ariba Almas Chaudhry",
+     "email": "ariba.almas.cs@gmail.com",
+     "image": "11.jpg",
+     "highQual": "Bsc. Aeronautics ",
+     "skills": "SQl , DBMS , DSA, Java , Python, Ai, ML, DL,Data Visualization ",
+     "linkedin": "https://www.linkedin.com/in/ariba-almas?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1uf4Wzt7RwGU2MonZFU24LZrRJzHQXvRY/view?usp=drivesdk"
+   },
+   {
+     "id": 12,
+     "name": "Arman Khan",
+     "email": "armanakhana786@gmail.com",
+     "image": "24MCA012.jpg",
+     "highQual": "B.sc",
+     "skills": "Java, DSA, Spring Boot, MySQL, DBMS, REST APIs, Backend Development, Git/GitHub, Microservices Basics, Problem Solving",
+     "linkedin": "https://www.linkedin.com/in/armankhann/",
+     "driveLink": "https://drive.google.com/file/d/1FrwKlRdG29q6BwgLNyrR-zbkMU0FSqaF/view?usp=drivesdk"
+   },
+   {
+     "id": 13,
+     "name": "Arslan Akhtar",
+     "email": "iamarslanakhtar@gmail.com",
+     "image": "13.jpg",
+     "highQual": "B.Sc(Hons) Applied Mathematics",
+     "skills": "Artificial Neural Network, C, Java, Sql",
+     "linkedin": "https://www.linkedin.com/in/arslan-akhtar-8889a9271?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1kTre917-QLteWFpHJcB22KTK0SJ7fJ8X/view?usp=drivesdk"
+   },
+   {
+     "id": 14,
+     "name": "Ayan Ahmad",
+     "email": "neuronloop62@gmail.com",
+     "image": "14.png",
+     "highQual": "BCA",
+     "skills": "Web and Mobile Development, AI & ML",
+     "linkedin": "https://www.linkedin.com/in/iayanahmad",
+     "driveLink": "https://drive.google.com/file/d/1oeauTZhg_HMjnlmjF-tI5yJV7zeEOu44/view?usp=sharing"
+   },
+   {
+     "id": 15,
+     "name": "Chetna Panchal",
+     "email": "panchal.chetnaoct@gmail.com",
+     "image": "15.jpg",
+     "highQual": "B. Sc.(PHYSICAL SCIENCE WITH COMPUTER SCIENCE) ",
+     "skills": "Java, Python, HTML, CSS, JavaScript, SQL, Machine Learning and Deep Learning, Git and Github",
+     "linkedin": "https://www.linkedin.com/in/chetnapanchal/",
+     "driveLink": "https://drive.google.com/file/d/1HDUu2O6AuwZgvPaYealfwUiPL3afxN2W/view?usp=drivesdk"
+   },
+   {
+     "id": 16,
+     "name": "Faisal Ansari",
+     "email": "faisalraj9193@gmail.com",
+     "image": "16.jpg",
+     "highQual": "Bachelor of Science Physics (Hons.) ",
+     "skills": "Core java, Python, Object-Oriented Programming, Dbms, Oracle DB, Mysql, Java Development, JDBC, Data Structures, Algorithm Design & Optimization, MS-office. ",
+     "linkedin": "https://www.linkedin.com/in/faisal-ansari-1b5601195",
+     "driveLink": "https://drive.google.com/file/d/1xH6PA3NtPhnYiDbfl6lLgtng7Oyks1hV/view?usp=drivesdk"
+   },
+   {
+     "id": 17,
+     "name": "Faizan Yousuf",
+     "email": "Reshifaixxan980@gmail.com",
+     "image": "17.jpg",
+     "highQual": "BCA",
+     "skills": "Data Structures and algorithms, OOPs, JAVA, Web Development, DevOps ",
+     "linkedin": "https://www.linkedin.com/in/faizan-yousuf-783486207",
+     "driveLink": "https://drive.google.com/file/d/14aDUlN37VnABQTFdtjWpuouJXLaeihOC/view?usp=drivesdk"
+   },
+   {
+     "id": 18,
+     "name": "Fizza Khatoon",
+     "email": "khatoonfizza91@gmail.com",
+     "image": "18.jpg",
+     "highQual": "Bachelor of Computer Applications",
+     "skills": "Java, DSA,CSS3, HTML5, JavaScript,React.js",
+     "linkedin": "https://www.linkedin.com/in/fizza-khatoon",
+     "driveLink": "https://drive.google.com/file/d/1MB1bntzVlJ5QOqy-5Q2yPklkZ5GP9jJF/view?usp=sharing"
+   },
+   {
+     "id": 19,
+     "name": "Gulista Parveen",
+     "email": "pgulista70@gmail.com",
+     "image": "19.jpg",
+     "highQual": "BCA",
+     "skills": "Java, spring boot, JavaScript ,C,C++,html,CSS,SQL",
+     "linkedin": "https://www.linkedin.com/in/gulista-parveen-847869389",
+     "driveLink": "https://drive.google.com/file/d/1qE7Vd1FNELDy4nXIhqo6V-iIE_rhLZZ7/view?usp=drivesdk"
+   },
+   {
+     "id": 20,
+     "name": "Irfan Khan",
+     "email": "irfank1191326@gmail.com",
+     "image": "IrfanPhoto.png",
+     "highQual": "Bsc",
+     "skills": "Java, Spring Boot, Microservices, MySQL, MongoDB, Backend Engineering, Rest API, Generative AI, RAG, Docker, React.js, Git, GitHub.",
+     "linkedin": "https://www.linkedin.com/in/irfan-khan-26498823a",
+     "driveLink": "https://drive.google.com/file/d/15C3m5gCjya09CMBzzxO49K7eUzZCM5KN/view?usp=drivesdk"
+   },
+   {
+     "id": 21,
+     "name": " Kamlendra Singh",
+     "email": "singhkamlendra201@gmail.com",
+     "image": "21.jpg",
+     "highQual": "BCA",
+     "skills": "Java, DSA with Java, Algorithm Design, Spring Boot, Spring  security, JPA, React, ASP.net, MySql",
+     "linkedin": "https://www.linkedin.com/in/kamlendra-singh-08b166258/",
+     "driveLink": "https://drive.google.com/file/d/1su4ChY7BkJ55hMbuN6qh7ktJDhxUSBEB/view?usp=drivesdk"
+   },
+   {
+     "id": 22,
+     "name": "Kamran Saif",
+     "email": "kamransaif6789@gmail.com",
+     "image": "22.png",
+     "highQual": "BSc",
+     "skills": "Java, HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, DSA",
+     "linkedin": "https://www.linkedin.com/in/kamran-saif-638410261?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1XxbDqRUedEYipWYvgLKJ43SMwDpHDiVl/view?usp=drivesdk"
+   },
+   {
+     "id": 23,
+     "name": " Kunal Chhabra",
+     "email": "mdkumar591@gmail.com",
+     "image": "24MCA023.jpg",
+     "highQual": "BCA",
+     "skills": "C, C++, Python, AI, ML, DL, NLP,  Computer Vision, Web Scraping, Git, Data Analysis, Data Visualization, Probability, Statistics, Flask, Streamlit, BeautifulSoup, LangChain, MySql,[...]",
+     "linkedin": "https://www.linkedin.com/in/md-kazi-sajiduddin-1aa127268/",
+     "driveLink": "https://drive.google.com/file/d/1AqydYAvbFiy_OUBmg3_sJ6BuZ-fkxpHj/view?usp=sharing"
+   },
+   {
+     "id": 24,
+     "name": " Md Sahalam Khan",
+     "email": "sahalamkhan09@gmail.com",
+     "image": "24.jpg",
+     "highQual": "Bvoc",
+     "skills": "Frontend:HTML,CSS, Javascript, React.js Backend: core Java,C, Python Node.js, Express.js Database: MySQL,MongoDB",
+     "linkedin": "https://www.linkedin.com/in/md-sahalam-khan-44880b253?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1uxsLVdfHkVaUh4w-q0w5rQpG-WB1rtey/view?usp=drivesdk"
+   },
+   {
+     "id": 25,
+     "name": "Md Afshan Ahmed",
+     "email": "afshanahmed1202@gmail.com",
+     "image": "25.jpeg",
+     "highQual": "B.A. PROGRAMME",
+     "skills": "JAVA | PYTHON | SQL | ML",
+     "linkedin": "https://www.linkedin.com/in/afshan-ahmed-81010024a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1KGGL_M4mqly4RpJgVP9pkinlH7yFrxPO/view?usp=sharing"
+   },
+   {
+     "id": 26,
+     "name": " Md Faishal",
+     "email": "iamfaizsaifi@gmail.com",
+     "image": "Faishal.jpeg",
+     "highQual": "Bcom Hons",
+     "skills": "Java, Js, Web dev, DSA, SQL",
+     "linkedin": "https://www.linkedin.com/in/md-faishal-3779a6373/",
+     "driveLink": "https://drive.google.com/file/d/1hdcYZLKSCKrUSoyX5xMHrQmH6WP3ZwM6/view?usp=sharing"
+   },
+   {
+     "id": 27,
+     "name": "Md Shahnebaij",
+     "email": "mdshahnebaj649@gmail.com",
+     "image": "27.jpg",
+     "highQual": "Bsc",
+     "skills": "C js java",
+     "linkedin": "https://www.linkedin.com/in/md-shahnebaj",
+     "driveLink": "https://drive.google.com/file/d/1Z-LEA5dM1ZwAK06O6tVFtiUQrlz7jxWA/view?usp=drivesdk"
+   },
+   {
+     "id": 28,
+     "name": "Md Muzammil",
+     "email": "mdshahwazsaharsa2@gmail.com",
+     "image": "28.jpg",
+     "highQual": "Other",
+     "skills": "My sql",
+     "linkedin": "https://www.linkedin.com/in/md-shahwaz",
+     "driveLink": "https://drive.google.com/file/d/1JkH0VS5c_r9aCi8xXERG6UINIBrhjvtn/view?usp=drivesdk"
+   },
+   {
+     "id": 29,
+     "name": "Md Mozammil Raja",
+     "email": "mozammil.mr@gmail.com",
+     "image": "29.png",
+     "highQual": "BSc Computer Application",
+     "skills": "Java\nSpring Boot\nPython\nMySQL\nSQL\nData Analysis\nData Visualization\nStatistics\nPandas\nNumPy\nExcel\nPower BI\nData Structures & Algorithms\nObject-Oriented Programming (OOP[...]",
+     "linkedin": "linkedin.com/in/mozammil27/",
+     "driveLink": "https://drive.google.com/file/d/1UQUaGAmbOHUi74URX9L7kmS8qe772sHw/view?usp=drivesdk"
+   },
+   {
+     "id": 30,
+     "name": "Mohammed Muhafiz Hussain",
+     "email": "hussainmuhafiz@gmail.com",
+     "image": "30.jpeg",
+     "highQual": "B.Sc. Computer Science",
+     "skills": "Languages: Go, Java, JavaScript, C, C++\nFrontend: SolidJS, Vanilla JS, Vite, HTML, CSS, DaisyUI\nBackend & Databases: Go, Node.js/Express, REST APIs, SQLite, PostgreSQL, SQL, Driz[...]",
+     "linkedin": "https://www.linkedin.com/in/mohammed-muhafiz-hussain-22o4",
+     "driveLink": "https://drive.google.com/file/d/1dbLCh-k-dk6Mgz2Pw2zihkFioXdXS_dA/view?usp=drive_link"
+   },
+   {
+     "id": 31,
+     "name": "Mohd Fardeen Akhtar",
+     "email": "fardeenakh0023@gmail.com",
+     "image": "31.jpeg",
+     "highQual": "Bsc (Maths)",
+     "skills": "Python, SQL, Power BI, Pandas, NumPy, Statistics, Data Analytics, Machine Learning\n",
+     "linkedin": "www.linkedin.com/in/mohd-fardeen-akhtar",
+     "driveLink": "https://drive.google.com/file/d/1SabmsJdHsG1Ziomdk-ZnA23efiLfOP9n/view?usp=drive_link"
+   },
+   {
+     "id": 32,
+     "name": "Mohd Bilal Hasan",
+     "email": "bilalhasan403@gmail.com",
+     "image": "32.png",
+     "highQual": "Bachelor of engineering (Civil)",
+     "skills": "Python, Java, SQL, FastAPI, Deep Learning, pytorch, RAG Systems, AI Agents, PostgreSQL",
+     "linkedin": "https://www.linkedin.com/in/mohd-bilal-hasan/",
+     "driveLink": "https://drive.google.com/file/d/17ciCqu_p2tYMVMQmVUIS_DzEvLNTjO4d/view?usp=sharing"
+   },
+   {
+     "id": 33,
+     "name": "Mohd Saad Ansari",
+     "email": "aenz69136@gmail.com",
+     "image": "33.jpg",
+     "highQual": "BCA",
+     "skills": "Spring Boot, Spring MVC, REST APIs, Spring Data JPA (Hibernate), Spring Security, JWT, MySQL, GitHub, DSA, OOP,",
+     "linkedin": "https://www.linkedin.com/in/saad-ansari-a75b6621a",
+     "driveLink": "https://drive.google.com/file/d/14A_9XC3QCfm4CB6pAMYFgdKb6FlyjO5z/view?usp=drivesdk"
+   },
+   {
+     "id": 34,
+     "name": "Mohd Danish",
+     "email": "ansaridanish4946@gmail.com",
+     "image": "34.jpg",
+     "highQual": "B.Sc (Physics, Chemistry & Maths)",
+     "skills": "C, Java, Python, django, MySQL, HTML5, CSS, Javascript,React , Git, GitHub ",
+     "linkedin": "https://www.linkedin.com/in/mohd-danish-090218214?",
+     "driveLink": "https://drive.google.com/file/d/1P-au6CSJGp3G_O52nkYZZHizTq2eq03E/view?usp=drivesdk"
+   },
+   {
+     "id": 35,
+     "name": "Mohd Hammad",
+     "email": "hammadmd445@gmail.com",
+     "image": "35.jpg",
+     "highQual": "B.Sc. Physical Science with Computer Science ",
+     "skills": "Java, Python, Data structure and algorithm ,AI & Ml, FastApi, GenAi, power bi",
+     "linkedin": "https://www.linkedin.com/in/mohammad-hammad-1822b9264?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+     "driveLink": "https://drive.google.com/drive/folders/1Z3UBzPfc0j-W1eQTLLUKdF4F7LPhG9he"
+   },
+   {
+     "id": 36,
+     "name": " Mohd Shaiq",
+     "email": "md.shaiq2102@gmail.com",
+     "image": "Shaiq.jpeg",
+     "highQual": "BSc(Hons.) Computer Science ",
+     "skills": "Cloud & Devops",
+     "linkedin": "https://www.linkedin.com/in/mohd-shaiq?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+     "driveLink": "https://drive.google.com/drive/folders/1ZIZgVw3gy1u7-5UiNvonl5GpI-xNApk8?usp=sharing"
+   },
+   {
+     "id": 37,
+     "name": "Mohit Kumar Chaurasiya",
+     "email": "mohitkumarchaurasiya179@gmail.com",
+     "image": "37.jpg",
+     "highQual": "BCA",
+     "skills": "Core Java, MySQL , HTML",
+     "linkedin": "https://www.linkedin.com/in/mohit-chaurasiya-801567426?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1BKSvNJuJqJAd4-wwmqtQcCvlH6ycUgUk/view?usp=drivesdk"
+   },
+   {
+     "id": 38,
+     "name": "Monish Hasan",
+     "email": "monishhasan0@gmail.com",
+     "image": "38.png",
+     "highQual": "Bachelor's of Arts",
+     "skills": "Node.js\nReact.js\nMongoDB\nExcel\nSQL",
+     "linkedin": "https://www.linkedin.com/in/monish-hasan-311ab4208?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1gngAAZfm2fbKYPKqZKP_NEg4WMs5YGOT/view?usp=drivesdk"
+   },
+   {
+     "id": 39,
+     "name": "Mohammad Fuzail",
+     "email": "fuzailshafi0012@gmail.com",
+     "image": "39.jpeg",
+     "highQual": "Bachelors with major in Comp Science and minor in  Mathematics ",
+     "skills": "Java, Spring Boot, Python, Machine Learning, Deep Learning, TensorFlow, MySQL, MongoDB, REST APIs, Git/GitHub.",
+     "linkedin": "www.linkedin.com/in/mohammad-fuzail-051a10347",
+     "driveLink": "https://drive.google.com/file/d/1ZHOSxZ-Ui9FcwgFqtCVFQT5EPGQK1wn5/view?usp=drivesdk"
+   },
+   {
+     "id": 40,
+     "name": "Noor Fatma",
+     "email": "noorfatma9525@gmail.com",
+     "image": "40.jpg",
+     "highQual": 2023,
+     "skills": "JavaScript, HTML, CSS, React.js, Node.js, Express.js, MongoDB,REST APIs",
+     "linkedin": "www.linkedin.com/in/ noorfatma28",
+     "driveLink": "https://drive.google.com/file/d/1_nhOST17gF4-1xwePjGuQmnIaPXeTYDM/view?usp=drivesdk"
+   },
+   {
+     "id": 41,
+     "name": "Rahul",
+     "email": "rehanjaffery.02@gmail.com",
+     "image": "41.png",
+     "highQual": "BCA",
+     "skills": "Python, DBMS, MySql, Java, HTML5, CSS, JavaScript, Cloud computing, Troubleshooting, Git, linux fundamentals, AI, Software testing and quality assurance.",
+     "linkedin": "https://www.linkedin.com/in/rehan-jaffery-a98019206",
+     "driveLink": "https://drive.google.com/file/d/1xMQg0Uw1_QMC2RFz6rkq0u98loXbt_c6/view?usp=drive_link"
+   },
+   {
+     "id": 42,
+     "name": "Rampal Prajapati",
+     "email": "lrampal86@gmail.com",
+     "image": "42.jpg",
+     "highQual": "BCA",
+     "skills": "Java full stack development and AIML ",
+     "linkedin": "linkedin.com/in/rampal-prajapati-5192681b5",
+     "driveLink": "https://drive.google.com/file/d/1E6O0KIlxDWYvCtpnLMdOrwlE42hrAnkq/view?usp=drivesdk"
+   },
+   {
+     "id": 43,
+     "name": "Sabahat Parween",
+     "email": "sabahatparween199@gmail.com",
+     "image": "43.jpg",
+     "highQual": "Bsc honours(Mathematics)",
+     "skills": "Java, springboot,C, MySQL, javascript,C++",
+     "linkedin": "https://www.linkedin.com/in/sabahat-parween-3520bb31a",
+     "driveLink": "https://drive.google.com/file/d/1kDV-YRGr-klW8ZGgrYIj556zjykxU60v/view?usp=drivesdk"
+   },
+   {
+     "id": 44,
+     "name": "Saddam Khan",
+     "email": "sattari8949@gmail.com",
+     "image": "Saddam.jpg",
+     "highQual": " Bsc (computer science)",
+     "skills": "Java, spring boot,genAi, microservices, MySQL",
+     "linkedin": "https://www.linkedin.com/in/saddam-khan-9207113a8",
+     "driveLink": "https://drive.google.com/file/d/1LdmGVeHddZ0qZXG_XnRmIPqOHeFwYj4b/view?usp=drivesdk"
+   },
+   {
+     "id": 45,
+     "name": "Saneen V",
+     "email": "saneenv99@gmail.com",
+     "image": "45.jpg",
+     "highQual": "Bsc Computer Science ",
+     "skills": "HTML,CSS,Javascript,Java,C,Python,Oracle SQL",
+     "linkedin": "https://www.linkedin.com/in/saneen-v-727395273/",
+     "driveLink": "https://drive.google.com/file/d/1GYc0LYJdujKtFYrvsy43R2OysOO1Wczi/view?usp=drivesdk"
+   },
+   {
+     "id": 46,
+     "name": "Shaba Khan",
+     "email": "kshaba021@gmail.com",
+     "image": "46.png",
+     "highQual": "BSc Maths Honours ",
+     "skills": "Java, HTML, CSS, JavaScript, Python, DBMS, DataStructure, Node.js, React, Express, Mongodb, Tailwind ",
+     "linkedin": "www.linkedin.com/in/shaba-khan-7a2ab12a0",
+     "driveLink": "https://drive.google.com/file/d/1-YucyBViFAfx5oDvShDEL2QwvMuXW55m/view?usp=drivesdk"
+   },
+   {
+     "id": 47,
+     "name": "Shahvej Khan",
+     "email": "shahvejkhanjmi@gmail.com",
+     "image": "25MCA047.jpg",
+     "highQual": "Bsc(Cs & maths)",
+     "skills": "Mern Java, react,nodejs,mongodb, express js, langchain,genAi devops,Html,css, machine learning,git",
+     "linkedin": "https://www.linkedin.com/in/shahvej-khan-5991452b6?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1xyAU5W14AibQOhCanpwZtEjzNdafXdXj/view?usp=drivesdk"
+   },
+   {
+     "id": 48,
+     "name": "Shahzan Zafar",
+     "email": "shahzanzafar11@gmail.com",
+     "image": "48.jpeg",
+     "highQual": "B.Sc.",
+     "skills": "Java, Python, Pandas, PowerBI, MySQL",
+     "linkedin": "https://www.linkedin.com/in/shahzan-zafar/",
+     "driveLink": "https://drive.google.com/file/d/1eniQ-Ba7an02vYPvUeuXms_tezvjUNFQ/view?usp=drive_link"
+   },
+   {
+     "id": 49,
+     "name": "Shamir Ahmed",
+     "email": "ahmed29shamir@gmail.com",
+     "image": "49.jpg",
+     "highQual": "BCA",
+     "skills": "Java, Python, C, MySQL, React,\n Express.js, HTML5, CSS, Javascript, Git, GitHub",
+     "linkedin": "https://www.linkedin.com/in/shamir-ahmed-34650b207",
+     "driveLink": "https://drive.google.com/file/d/12EBAugQd76JNldIpDP1G1XpTBBN1Zv0n/view?usp=drivesdk"
+   },
+   {
+     "id": 50,
+     "name": "Sonam",
+     "email": "100nam2002@gmail.com",
+     "image": "50.png",
+     "highQual": "BCA",
+     "skills": "Java,DBMS,SQL,Data Structure,AI ML",
+     "linkedin": "https://www.linkedin.com/in/sonam-saini-02a852268",
+     "driveLink": "https://drive.google.com/drive/folders/1FFMu3M5htgJrozwjRhhC9JvTXCxeBVEH"
+   },
+   {
+     "id": 51,
+     "name": "Tiskeen Laba",
+     "email": "tiskeenlaba@gmail.com",
+     "image": "51.jpg",
+     "highQual": "B.Sc. (H) Mathematics ",
+     "skills": "Java, python, AI, MySQL, ML",
+     "linkedin": "https://www.linkedin.com/in/tiskeenlaba",
+     "driveLink": "https://drive.google.com/file/d/1biQy_PKJ2w0QYLkyDgypJks6nznWE-AE/view?usp=drivesdk"
+   },
+   {
+     "id": 52,
+     "name": " Vishwajeet Singh",
+     "email": "vishwajeetworks@gmail.com",
+     "image": "52.jpg",
+     "highQual": "BCA",
+     "skills": "MERN, FAST API, C++, PYTHON",
+     "linkedin": "https://www.linkedin.com/in/vishwajeet-singh-6aaa9a244/",
+     "driveLink": "https://drive.google.com/file/d/1kQ0EFD7_qbw_3fqyl7xDf72u6iTbDVIO/view?usp=drivesdk"
+   },
+   {
+     "id": 53,
+     "name": " Waqar Ahmed",
+     "email": "waqa1022@gmail.com",
+     "image": "53.jpg",
+     "highQual": "BCA",
+     "skills": "Node.Js\nMongoDB\nReact.Js\nSQL\nC, C++\nLinux\nPython",
+     "linkedin": "https://www.linkedin.com/in/waqar-ahmed-b82704212?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+     "driveLink": "https://drive.google.com/file/d/1YtwhE_iFNciSsbe6wxgraFrus4YUApt9/view?usp=drivesdk"
+   },
+   {
+     "id": 54,
+     "name": " Yasmeen Khatoon",
+     "email": "yasmeen200215@gmail.com",
+     "image": "54.png",
+     "highQual": "B.Sc",
+     "skills": "java,python,SQL,HTML,CSS,JavaScript",
+     "linkedin": "https://www.linkedin.com/in/yasmeen-khatoon-9b04643a9",
+     "driveLink": "https://drive.google.com/file/d/12pNj0TdCLAHhjPtWvlZCqywPCq-mKpgW/view?usp=drivesdk"
+   }
+     ],
 
- 
-   "Master of Science AI/ML": [
-    {
-      "id": 1,
-      "name": "Aafiya Parveen",
-      "email": "aafiya0711@gmail.com",
-      "image": "01.jpg",
-      "highQual": "Bsc(Hons.) Computer Science",
-      "skills": "Python, NumPy, Pandas, Scikit-learn, Matplotlib, Data Structure,PyTorch ,Machine Learning, Deep Learning Basics, SQL",
-      "linkedin": "www.linkedin.com/in/aafiya-parveen-b061101b6",
-      "driveLink": "https://drive.google.com/file/d/1ZwH_8bIMliSlnvp04gY8z-Hs6MFgHH8K/view?usp=drivesdk"
-    },
-    {
-      "id": 2,
-      "name": "Adnan Sheikh",
-      "email": "adnanskh32@gmail.com",
-      "image": "02.jpg",
-      "highQual": "B.sc Chemistry (hons)",
-      "skills": "Python, Machine Learning, Generative AI, Agentic AI, LangChain, FastAPI, SQL, Git/GitHub, TensorFlow, PyTorch",
-      "linkedin": "https://www.linkedin.com/in/adnan-sheikh-001a62378?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      "driveLink": "https://drive.google.com/file/d/1hL7gzmRnQuMq8YAl2NbgTo0sLxxCwLN7/view?usp=drivesdk"
-    },
-    {
-      "id": 3,
-      "name": "Amaan Chaudhary",
-      "email": "amaanchaudhary67@gmail.com",
-      "image": "03.jpg",
-      "highQual": "B.Sc. (Hons.) Physics",
-      "skills": "Programming: Python, C/C++, Qiskit Artificial Intelligence: Machine Learning, Deep Learning, Computer Vision, CNNs, Transformers, Vision Transformers Frameworks & Tools: PyTorch, TensorFlow, Git, Linux Quantum Computing: Qiskit, Quantum Algorithms",
-      "linkedin": "www.linkedin.com/in/amaanchaudhary",
-      "driveLink": ""
-    },
-    {
-      "id": 4,
-      "name": "Anjum",
-      "email": "doi.anjum@gmail.com",
-      "image": "04Msc.jpg",
-      "highQual": "BCA",
-      "skills": "Artificial intelligence and machine learning",
-      "linkedin": "https://www.linkedin.com/in/anjum-a85549203",
-      "driveLink": ""
-    },
-    {
-      "id": 5,
-      "name": "Asaud Ashraf",
-      "email": "asadash759@gmail.com",
-      "image": "05.jpg",
-      "highQual": "Bsc",
-      "skills": "Ai/ml , computer networking, python, CAE, Data science",
-      "linkedin": "https://www.linkedin.com/in/asa-d-ashraf-9a7b6a227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-      "driveLink": ""
-    },
-    {
-      "id": 6,
-      "name": "Ayushman Maurya",
-      "email": "4yushman.maurya@gmail.com",
-      "image": "06.jpg",
-      "highQual": "BCA",
-      "skills": "Skills: Py, SQL (Postgres, SQLite), Pattern Recognition, Workflow Automation Technologies: ML, DL, Gen AI(RAG), Semantic Search, PyTorch, ChromaDB",
-      "linkedin": "linkedin.com/in/4yushman",
-      "driveLink": ""
-    },
-    {
-      "id": 7,
-      "name": "Bilal Wali",
-      "email": "bilalwali4@gmail.com",
-      "image": "07.jpeg",
-      "highQual": "B.Sc (general)",
-      "skills": "Deep Learning ML Gen AI Data Analysis Python SQL",
-      "linkedin": "https://www.linkedin.com/in/bilal-wali-1a1879251?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      "driveLink": "https://drive.google.com/file/d/1hGF0D73qEnow_H3RK22fqZ6W1KGOjuNd/view?usp=drivesdk"
-    },
-    {
-      "id": 8,
-      "name": "Daniya Shameem",
-      "email": "dan.shameem@gmail.com",
-      "image": "08.jpg",
-      "highQual": "PGDCA",
-      "skills": "TECHNOLOGIES: Programming Languages: Python, C Data Analytics & AI/ML: Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Deep Learning, Data Visualization, Data Preprocessing and Analysis Web Technologies: HTML, CSS Database: MySQL, DBMS SOFT SKILLS: Communication, Team Collaboration, Analytical Thinking, Problem Solving, Adaptability, Presentation Skills",
-      "linkedin": "https://www.linkedin.com/in/daniya-s",
-      "driveLink": ""
-    },
-    {
-      "id": 9,
-      "name": "FARAZ AHMAD",
-      "email": "mdfarazkhan85@gmail.com",
-      "image": "09.jpeg",
-      "highQual": "BA HONOURS IN PUBLIC ADMINISTRATION",
-      "skills": "Skills – Python, SQL Technologies – Machine Learning (ML), Deep Learning (DL), Computer Vision, Data Analytics, LLMs, RAG, Agentic AI",
-      "linkedin": "https://www.linkedin.com/in/farazahmadverse/",
-      "driveLink": "https://drive.google.com/file/d/1b1GeqqZXF1cLekjHvjIhwjQ89QK6h9F2/view?usp=drive_link"
-    },
-    {
-      "id": 10,
-      "name": "Fardeen khan",
-      "email": "nfardeen157@gmail.com",
-      "image": "10.png",
-      "highQual": "B.Sc chemistry (honors)",
-      "skills": "Python, SQL, Machine Learning, Deep Learning, Data Analysis, Power BI, Pandas, NumPy, Scikit-learn, PyTorch, HTML, CSS, Git, Data Visualization, NLP, Problem Solving, OOPs, DBMS",
-      "linkedin": "www.linkedin.com/in/fardeen-khan-26a956250",
-      "driveLink": "https://drive.google.com/file/d/12destJFXDNNgrdgANJWYHi_bcQyOi7hi/view?usp=sharing"
-    },
-    {
-      "id": 11,
-      "name": "Farhin Bano",
-      "email": "banofarhin1@gmail.com",
-      "image": "11.jpg",
-      "highQual": "B.Sc",
-      "skills": "Python, Pytorch, LangChain, Fast API, Deep Learning , NLP ,Gen AI",
-      "linkedin": "https://www.linkedin.com/in/farhinbano068",
-      "driveLink": ""
-    },
-    {
-      "id": 12,
-      "name": "Fozia",
-      "email": "fozia030802@gmail.com",
-      "image": "12.jpg",
-      "highQual": "Bsc(hons.)Chemistry",
-      "skills": "Python, SQL, Power BI, Data Analytics, Machine Learning, Data Visualization, Problem Solving, DBMS, Recommendation Systems, HTML, CSS, JavaScript, Git, MS Excel and Python, Pandas, NumPy, Scikit-learn, Streamlit, Power BI, MySQL, GitHub, VS Code",
-      "linkedin": "https://www.linkedin.com/in/fozia-saleem-587a46348",
-      "driveLink": "https://drive.google.com/file/d/1V_bvODFTWj8xg6SHC4R6xAk-VFjmGaAy/view?usp=drivesdk"
-    },
-    {
-      "id": 13,
-      "name": "Heena",
-      "email": "hk803193@gmail.com",
-      "image": "",
-      "highQual": "Bsc Computer Science",
-      "skills": "Python , sql , ml , data analytics , deep learning",
-      "linkedin": "https://www.linkedin.com/in/heena-khan-87986324a",
-      "driveLink": ""
-    },
-    {
-      "id": 14,
-      "name": "Humza Shadab",
-      "email": "hshadab105@gmail.com",
-      "image": "14.jpg",
-      "highQual": "Bsc (Hons Applied) Mathematics",
-      "skills": "Python, Machine Learning, Deep Learning, SQL, Data Analysis, Statistics, Pandas, NumPy, Data Structures",
-      "linkedin": "https://www.linkedin.com/in/humza-shadab-562a6b399?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      "driveLink": ""
-    },
-    {
-      "id": 15,
-      "name": "Jatin Chouhan",
-      "email": "chouhanjatin6265@gmail.com",
-      "image": "15.jpg",
-      "highQual": "B.Sc (H) Physics",
-      "skills": "Full Stack Web development,AI&ML,Agentic Ai,Data Analytics ,Ai & Automation",
-      "linkedin": "https://www.linkedin.com/in/jatin-chouhan-49b312291",
-      "driveLink": ""
-    },
-    {
-      "id": 16,
-      "name": "Jayant Aggarwal",
-      "email": "jayantaggarwal7122@gmail.com",
-      "image": "16.jpg",
-      "highQual": "Bachelor of computer application (BCA)",
-      "skills": "Html, Css, javascript, node.js, react.js, jupyter notebook, mysql, python, advance excel, powerbi",
-      "linkedin": "https://www.linkedin.com/in/j-aggarwal",
-      "driveLink": ""
-    },
-    {
-      "id": 17,
-      "name": "Kunal Singh",
-      "email": "kunalsinghh2611@gmail.com",
-      "image": "17.PNG",
-      "highQual": "Bachelor of Science (Industrial Chemistry)",
-      "skills": "Python, SQL, Excel, and data analysis along with a strong foundation in machine learning and deep learning. I am familiar with libraries such as Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn . I have a good hands on data structure and algorithms too. I have knowledge of data cleaning, exploratory data analysis, visualization, model building, and basic model deployment. I am also skilled in Tableau, Git/GitHub, and have an understanding of statistics, feature engineering, APIs, and GenAI concepts like prompt engineering and LLM basics. Additionally, I possess problem-solving and teamwork skills with hands-on experience through academic and personal projects.",
-      "linkedin": "https://www.linkedin.com/in/kunal-singh-a345683a4/",
-      "driveLink": ""
-    },
-    {
-      "id": 18,
-      "name": "Mansi",
-      "email": "singhmansi5367@gmail.com",
-      "image": "18.jpg",
-      "highQual": "B.Sc.(H) Mathematics",
-      "skills": "Python (with libraries like Pandas, NumPy, Scikit-Learn, PyTorch/TensorFlow), SQL, Machine Learning, Deep Learning basics, Tableau/Power BI, Excel, PowerPoint, Word, R, HTML, CSS, and LaTeX. I am also familiar with data analysis, data visualization, model building, and basic AI/ML concepts.",
-      "linkedin": "https://www.linkedin.com/in/mansi-singh-538109369",
-      "driveLink": "https://drive.google.com/file/d/1VMZv0SPEHnQLHZsRDH8nFUA4OLH-Eai3/view?usp=drivesdk"
-    },
-    {
-      "id": 19,
-      "name": "MD Afsar",
-      "email": "AFSARMD6201@GMAIL.COM",
-      "image": "19.jpg",
-      "highQual": "B.Sc computer science",
-      "skills": "Ai and Ml",
-      "linkedin": "https://www.linkedin.com/in/md-afsar-3077a5320",
-      "driveLink": "https://drive.google.com/drive/folders/1wZDo_33B93qx6kr6TH_QGygFlZs7XZoN"
-    },
-    {
-      "id": 20,
-      "name": "Megha R",
-      "email": "megharnair1312@gmail.com",
-      "image": "20.jpg",
-      "highQual": "BSc(Hons)Physics",
-      "skills": "Python, SQL, Machine Learning, Deep Learning, Data Analytics, Computer Vision",
-      "linkedin": "https://www.linkedin.com/in/megha-r-a978a7262",
-      "driveLink": ""
-    },
-    {
-      "id": 21,
-      "name": "Mohammad Sabeel",
-      "email": "mohammadsabeellone@gmail.com",
-      "image": "21.jpg",
-      "highQual": "BSc IT",
-      "skills": "Agentic AI training MCP Prompt engineering Loop engineering Graph engineering Machine Learning Python Docker Fast API Java",
-      "linkedin": "https://www.linkedin.com/in/connect-mohammadsabeels",
-      "driveLink": ""
-    },
-    {
-      "id": 22,
-      "name": "Mohammed Faraz Khan",
-      "email": "farazsisodiya786@gmail.com",
-      "image": "22.png",
-      "highQual": "Bachelor of science (Bsc)",
-      "skills": "Python, Machine Learning, Deep Learning, Data Science, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, NLP, SQL, Data Visualization, Git, FastAPI",
-      "linkedin": "https://www.linkedin.com/in/faraz-khan-987767316?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      "driveLink": "https://drive.google.com/file/d/16iXw9owgXuuGI5hxUaFapQQHCrY6N1Dr/view?usp=drivesdk"
-    },
-    {
-      "id": 23,
-      "name": "Mohammed Sehal Hasan",
-      "email": "sehal.hasan16@gmail.com",
-      "image": "23.jpg",
-      "highQual": "B.A.(Hons.) Mathematics / PG Diploma Applied Statistics",
-      "skills": "Skills - HR Tech, Process Automation, Web Scraping, API handling, Tech Documentation, System Design, App development, Database Administration, Data Visualization, Product Management, LLM, Gen AI, RAG Technologies - App Sheet, Python, App Scripts, App Sheet, Flutter, Data Studio, JavaScript, Flask, Supabase, SQL",
-      "linkedin": "https://www.linkedin.com/in/mohammed-sehal-hasan-733488155/",
-      "driveLink": ""
-    },
-    {
-      "id": 24,
-      "name": "Mohd Adil",
-      "email": "mohd4082@gmail.com",
-      "image": "24.jpg",
-      "highQual": "Bachelor of Science",
-      "skills": "Machine Learning Artificial Intelligence Data Analysis Data Preprocessing Feature Engineering Model Training & Evaluation Deep Learning Python NumPy Pandas Matplotlib Scikit-learn SQL",
-      "linkedin": "https://www.linkedin.com/in/mohd-adil-405679281/",
-      "driveLink": "https://drive.google.com/file/d/1sz_FxOVBKla5tG3yEmLce5-Zl3CmyNAS/view?usp=drivesdk"
-    },
-    {
-      "id": 25,
-      "name": "MOHD FAIZY",
-      "email": "faizyzaidi80@gmail.com",
-      "image": "25.jpg",
-      "highQual": "BCA",
-      "skills": "Python, SQL/MySQL, Excel, Google Sheets, Power BI, Data Analysis, EDA,Machine Learning, Deep Learning, NLP, Statistics, Streamlit, Web Scraping, Git & GitHub.",
-      "linkedin": "www.linkedin.com/in/mohd-faizy-59047b255",
-      "driveLink": ""
-    },
-    {
-      "id": 26,
-      "name": "Mohd Mushq",
-      "email": "mushqp1@gmail.com",
-      "image": "26.jpg",
-      "highQual": "BCA",
-      "skills": "C,C++,python,AI,ML,DSA",
-      "linkedin": "https://www.linkedin.com/in/mohd-mushq-6707431a2/",
-      "driveLink": "https://drive.google.com/file/d/1pWtcYUOwiGx5ljZvDSxSKnk9P1laKZcS/view?usp=drivesdk"
-    },
-    {
-      "id": 27,
-      "name": "MOHD SHIBLI KHAN",
-      "email": "mohdshiblikhan0@gmail.com",
-      "image": "27.png",
-      "highQual": "BCA",
-      "skills": "ML, DL, Data Science, GenAi, RAG, Python, Java, PostgreSQL, FastAPI",
-      "linkedin": "www.linkedin.com/in/mohdshiblikhan",
-      "driveLink": "https://drive.google.com/file/d/1IKWZY1BRr0BnFrM44wMfeSd-hi4K5Ovh/view?usp=share_link"
-    },
-    {
-      "id": 28,
-      "name": "Muhammed Anas Ali P Y",
-      "email": "hellomranas@gmail.com",
-      "image": "28Msc.jpg",
-      "highQual": "BSc. Computer Science",
-      "skills": "Python, SQL, Machine Learning, Deep Learning, Data Analytics, Power Bl",
-      "linkedin": "https://www.linkedin.com/in/anasalipy",
-      "driveLink": ""
-    },
-    {
-      "id": 29,
-      "name": "Noor Alam",
-      "email": "na.noor2149@gmail.com",
-      "image": "29.png",
-      "highQual": "B.Sc",
-      "skills": "AI & Machine Learning: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch Database: MySQL Tools: Git, GitHub, Visual Studio Code Other: Microsoft Excel, Microsoft PowerPoint",
-      "linkedin": "www.linkedin.com/in/noor-alam-9371a8364",
-      "driveLink": "https://drive.google.com/file/d/1kOqQDsRW7iZ0c9k5bci5_xBna6n92_Yc/view?usp=drive_link"
-    },
-    {
-      "id": 30,
-      "name": "Ravi Chaudhary",
-      "email": "ravichaudharychhata@gmail.com",
-      "image": "30.jpg",
-      "highQual": "Bsc(cs)",
-      "skills": "PYTHON,POWER BI,SQL,EXCEL,AI&ML, STATISTICS , TABLEAU",
-      "linkedin": "www.linkedin.com/in/ ravi-chaudhary-1858913",
-      "driveLink": ""
-    },
-    {
-      "id": 31,
-      "name": "Romana Ruqia",
-      "email": "romanakhan237@gmail.com",
-      "image": "31.jpg",
-      "highQual": "B.Sc (Hons) Physics",
-      "skills": "Technical skills: Python, C, LaTeX, Scilab, Wolfram Mathematica, SQL Co-curricular: Parliamentary Debating, Social Entrepreneurship",
-      "linkedin": "https://www.linkedin.com/in/romanaruqia/",
-      "driveLink": ""
-    },
-    {
-      "id": 32,
-      "name": "Saalim Aqueel",
-      "email": "aqueel192@gmail.com",
-      "image": "32.jpg",
-      "highQual": "BCA",
-      "skills": "Full Stack Development, JS/TS, Python, Golang, ML & DL , NLP, REST APIs, Git, Docker, Linux, RAG, PostgreSQL, GenAI",
-      "linkedin": "https://linkedin.com/in/saalim-aqueel",
-      "driveLink": ""
-    },
-    {
-      "id": 33,
-      "name": "Sana Ilahi",
-      "email": "sanailahi.india@gmail.com",
-      "image": "33.jpg",
-      "highQual": "Diploma in Data Science from IITM, BA (English) Hons from JMI, Diploma in Programming from IITM",
-      "skills": "Python, SQL, Machine Learning, NLP, Data Analysis, Exploratory Data Analysis (EDA), Feature Engineering, TF-IDF Vectorization, Statistical Analysis, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MS Excel, Jupyter Notebook, Technical Writing, Content Writing, Prompt Writing, Communication, Tutoring & Mentorship.",
-      "linkedin": "https://www.linkedin.com/in/sana-ilahi-27b38b238/",
-      "driveLink": "https://drive.google.com/file/d/1SWR7VNG5yurKHQq48npOf1wwlSq8bAPw/view?usp=drivesdk"
-    },
-    {
-      "id": 34,
-      "name": "Saurabh",
-      "email": "saurabh705301@gmail.com",
-      "image": "34.jpg",
-      "highQual": "BCA",
-      "skills": "Python MySQL ML&DL NLP Gen AI Docker",
-      "linkedin": "https://www.linkedin.com/in/saurabh-4443b838a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      "driveLink": ""
-    },
-    {
-      "id": 35,
-      "name": "Shabab Fatima",
-      "email": "002shababfatima@gmail.com",
-      "image": "35.jpg",
-      "highQual": "BSc computer science and mathematics",
-      "skills": "Skilled in Python, Machine Learning, Deep Learning, Artificial Intelligence, Data Analysis, TensorFlow, Scikit-learn, Pandas, NumPy, SQL, Computer Vision, Statistics, and Predictive Modeling, docker",
-      "linkedin": "https://www.linkedin.com/in/shabab-fatima",
-      "driveLink": "https://drive.google.com/file/d/1RpnWBRG9UuRML7Y6Yepd2HYsR0tahfq3/view?usp=drivesdk"
-    },
-    {
-      "id": 36,
-      "name": "Sheikh Saqlain",
-      "email": "sheikhsaqlain09@gmail.com",
-      "image": "36.jpg",
-      "highQual": "BCA",
-      "skills": "Python, Machine Learning, Deep Learning, TensorFlow, Scikit-learn, Data Analysis, SQL, MySQL, Data Structures & Algorithms, Git/GitHub, HTML, CSS, JavaScript, Pandas, NumPy, Jupyter Notebook, Data Visualization, Problem Solving, Team Collaboration.",
-      "linkedin": "https://www.linkedin.com/in/sheikh-saqlain?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-      "driveLink": ""
-    },
-    {
-      "id": 37,
-      "name": "Shibaditya Dasgupta",
-      "email": "ismokemydoobie24x7@gmail.com",
-      "image": "37.jpg",
-      "highQual": "Bsc Computer science",
-      "skills": "Python, Prompt Engineering, Data Science, Excel, Power BI",
-      "linkedin": "https://www.linkedin.com/in/shibaditya-dasgupta-7967043aa?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      "driveLink": ""
-    },
-    {
-      "id": 38,
-      "name": "Syed Irfan",
-      "email": "humanic004@gmail.com",
-      "image": "",
-      "highQual": "BSc IT",
-      "skills": "C",
-      "linkedin": "www.linkedin.com/in/syed-irfan-263539228",
-      "driveLink": ""
-    },
-    {
-      "id": 39,
-      "name": "Uruj Mirza",
-      "email": "urujmirza39@gmail.com",
-      "image": "39.jpg",
-      "highQual": "Bsc(general)",
-      "skills": "c, c++, java, python,Data structures, SQL, Scikit learn, pytorch, NLP, hugging face, Langchain , LLMs, Deep learning, Machine learning, RAG, Generative AI,Print Engeneering , Transformers, OpenCV, pandas, streamlit.",
-      "linkedin": "https://www.linkedin.com/in/uruj-mirza-89277836a",
-      "driveLink": "https://drive.google.com/file/d/1U6M-Tt5F68XQwBsjCDYKWLQpC_P4gyZH/view?usp=drivesdk"
-    },
-    {
-      "id": 40,
-      "name": "Yash Gautam",
-      "email": "gautamyash0123@gmail.com",
-      "image": "40.jpg",
-      "highQual": "B.Sc in Physics, Maths, Computer Science",
-      "skills": "HTML, CSS, C, C++, Python, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, SQL, Machine Learning, Deep Learning, ANN, CNN, RNN, LSTM, NLP",
-      "linkedin": "www.linkedin.com/in/gautamyash0123",
-      "driveLink": ""
-    },
-    {
-      "id": 41,
-      "name": "Yasin Reza",
-      "email": "rezayasin2018@gmail.com",
-      "image": "41.jpg",
-      "highQual": "B.COM (Hons)",
-      "skills": "Python, Numpy, Pandas, Matplotlib, Seaborn, SQL, MS Excel, Power BI, Machine Learning",
-      "linkedin": "www.linkedin.com/in/yasin09nov",
-      "driveLink": "https://drive.google.com/file/d/1qF4cl5cO9djvlMZkSzVd4PlmUjAtMy8O/view?usp=sharing"
-    }
-  ],
   
+    "Master of Science AI/ML": [
+     {
+       "id": 1,
+       "name": "Aafiya Parveen",
+       "email": "aafiya0711@gmail.com",
+       "image": "01.jpg",
+       "highQual": "Bsc(Hons.) Computer Science",
+       "skills": "Python, NumPy, Pandas, Scikit-learn, Matplotlib, Data Structure,PyTorch ,Machine Learning, Deep Learning Basics, SQL",
+       "linkedin": "www.linkedin.com/in/aafiya-parveen-b061101b6",
+       "driveLink": "https://drive.google.com/file/d/1ZwH_8bIMliSlnvp04gY8z-Hs6MFgHH8K/view?usp=drivesdk"
+     },
+     {
+       "id": 2,
+       "name": "Adnan Sheikh",
+       "email": "adnanskh32@gmail.com",
+       "image": "02.jpg",
+       "highQual": "B.sc Chemistry (hons)",
+       "skills": "Python, Machine Learning, Generative AI, Agentic AI, LangChain, FastAPI, SQL, Git/GitHub, TensorFlow, PyTorch",
+       "linkedin": "https://www.linkedin.com/in/adnan-sheikh-001a62378?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+       "driveLink": "https://drive.google.com/file/d/1hL7gzmRnQuMq8YAl2NbgTo0sLxxCwLN7/view?usp=drivesdk"
+     },
+     {
+       "id": 3,
+       "name": "Amaan Chaudhary",
+       "email": "amaanchaudhary67@gmail.com",
+       "image": "03.jpg",
+       "highQual": "B.Sc. (Hons.) Physics",
+       "skills": "Programming: Python, C/C++, Qiskit Artificial Intelligence: Machine Learning, Deep Learning, Computer Vision, CNNs, Transformers, Vision Transformers Frameworks & Tools: PyTorch,[...]",
+       "linkedin": "www.linkedin.com/in/amaanchaudhary",
+       "driveLink": ""
+     },
+     {
+       "id": 4,
+       "name": "Anjum",
+       "email": "doi.anjum@gmail.com",
+       "image": "04Msc.jpg",
+       "highQual": "BCA",
+       "skills": "Artificial intelligence and machine learning",
+       "linkedin": "https://www.linkedin.com/in/anjum-a85549203",
+       "driveLink": ""
+     },
+     {
+       "id": 5,
+       "name": "Asaud Ashraf",
+       "email": "asadash759@gmail.com",
+       "image": "05.jpg",
+       "highQual": "Bsc",
+       "skills": "Ai/ml , computer networking, python, CAE, Data science",
+       "linkedin": "https://www.linkedin.com/in/asa-d-ashraf-9a7b6a227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+       "driveLink": ""
+     },
+     {
+       "id": 6,
+       "name": "Ayushman Maurya",
+       "email": "4yushman.maurya@gmail.com",
+       "image": "06.jpg",
+       "highQual": "BCA",
+       "skills": "Skills: Py, SQL (Postgres, SQLite), Pattern Recognition, Workflow Automation Technologies: ML, DL, Gen AI(RAG), Semantic Search, PyTorch, ChromaDB",
+       "linkedin": "linkedin.com/in/4yushman",
+       "driveLink": ""
+     },
+     {
+       "id": 7,
+       "name": "Bilal Wali",
+       "email": "bilalwali4@gmail.com",
+       "image": "07.jpeg",
+       "highQual": "B.Sc (general)",
+       "skills": "Deep Learning ML Gen AI Data Analysis Python SQL",
+       "linkedin": "https://www.linkedin.com/in/bilal-wali-1a1879251?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+       "driveLink": "https://drive.google.com/file/d/1hGF0D73qEnow_H3RK22fqZ6W1KGOjuNd/view?usp=drivesdk"
+     },
+     {
+       "id": 8,
+       "name": "Daniya Shameem",
+       "email": "dan.shameem@gmail.com",
+       "image": "08.jpg",
+       "highQual": "PGDCA",
+       "skills": "TECHNOLOGIES: Programming Languages: Python, C Data Analytics & AI/ML: Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Deep Learning, Data Visualization, Data Preprocessing[...]",
+       "linkedin": "https://www.linkedin.com/in/daniya-s",
+       "driveLink": ""
+     },
+     {
+       "id": 9,
+       "name": "FARAZ AHMAD",
+       "email": "mdfarazkhan85@gmail.com",
+       "image": "09.jpeg",
+       "highQual": "BA HONOURS IN PUBLIC ADMINISTRATION",
+       "skills": "Skills – Python, SQL Technologies – Machine Learning (ML), Deep Learning (DL), Computer Vision, Data Analytics, LLMs, RAG, Agentic AI",
+       "linkedin": "https://www.linkedin.com/in/farazahmadverse/",
+       "driveLink": "https://drive.google.com/file/d/1b1GeqqZXF1cLekjHvjIhwjQ89QK6h9F2/view?usp=drive_link"
+     },
+     {
+       "id": 10,
+       "name": "Fardeen khan",
+       "email": "nfardeen157@gmail.com",
+       "image": "10.png",
+       "highQual": "B.Sc chemistry (honors)",
+       "skills": "Python, SQL, Machine Learning, Deep Learning, Data Analysis, Power BI, Pandas, NumPy, Scikit-learn, PyTorch, HTML, CSS, Git, Data Visualization, NLP, Problem Solving, OOPs, DBMS" ,
+       "linkedin": "www.linkedin.com/in/fardeen-khan-26a956250",
+       "driveLink": "https://drive.google.com/file/d/12destJFXDNNgrdgANJWYHi_bcQyOi7hi/view?usp=sharing"
+     },
+     {
+       "id": 11,
+       "name": "Farhin Bano",
+       "email": "banofarhin1@gmail.com",
+       "image": "11.jpg",
+       "highQual": "B.Sc",
+       "skills": "Python, Pytorch, LangChain, Fast API, Deep Learning , NLP ,Gen AI",
+       "linkedin": "https://www.linkedin.com/in/farhinbano068",
+       "driveLink": ""
+     },
+     {
+       "id": 12,
+       "name": "Fozia",
+       "email": "fozia030802@gmail.com",
+       "image": "12.jpg",
+       "highQual": "Bsc(hons.)Chemistry",
+       "skills": "Python, SQL, Power BI, Data Analytics, Machine Learning, Data Visualization, Problem Solving, DBMS, Recommendation Systems, HTML, CSS, JavaScript, Git, MS Excel and Python, Panda[... ]",
+       "linkedin": "https://www.linkedin.com/in/fozia-saleem-587a46348",
+       "driveLink": "https://drive.google.com/file/d/1V_bvODFTWj8xg6SHC4R6xAk-VFjmGaAy/view?usp=drivesdk"
+     },
+     {
+       "id": 13,
+       "name": "Heena",
+       "email": "hk803193@gmail.com",
+       "image": "",
+       "highQual": "Bsc Computer Science",
+       "skills": "Python , sql , ml , data analytics , deep learning",
+       "linkedin": "https://www.linkedin.com/in/heena-khan-87986324a",
+       "driveLink": ""
+     },
+     {
+       "id": 14,
+       "name": "Humza Shadab",
+       "email": "hshadab105@gmail.com",
+       "image": "14.jpg",
+       "highQual": "Bsc (Hons Applied) Mathematics",
+       "skills": "Python, Machine Learning, Deep Learning, SQL, Data Analysis, Statistics, Pandas, NumPy, Data Structures",
+       "linkedin": "https://www.linkedin.com/in/humza-shadab-562a6b399?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+       "driveLink": ""
+     },
+     {
+       "id": 15,
+       "name": "Jatin Chouhan",
+       "email": "chouhanjatin6265@gmail.com",
+       "image": "15.jpg",
+       "highQual": "B.Sc (H) Physics",
+       "skills": "Full Stack Web development,AI&ML,Agentic Ai,Data Analytics ,Ai & Automation",
+       "linkedin": "https://www.linkedin.com/in/jatin-chouhan-49b312291",
+       "driveLink": ""
+     },
+     {
+       "id": 16,
+       "name": "Jayant Aggarwal",
+       "email": "jayantaggarwal7122@gmail.com",
+       "image": "16.jpg",
+       "highQual": "Bachelor of computer application (BCA)",
+       "skills": "Html, Css, javascript, node.js, react.js, jupyter notebook, mysql, python, advance excel, powerbi",
+       "linkedin": "https://www.linkedin.com/in/j-aggarwal",
+       "driveLink": ""
+     },
+     {
+       "id": 17,
+       "name": "Kunal Singh",
+       "email": "kunalsinghh2611@gmail.com",
+       "image": "17.jpg",
+       "highQual": "Bachelor of Science (Industrial Chemistry)",
+       "skills": "Python, SQL, Excel, and data analysis along with a strong foundation in machine learning and deep learning. I am familiar with libraries such as Pandas, NumPy, Matplotlib, Seabor[... ]",
+       "linkedin": "https://www.linkedin.com/in/kunal-singh-a345683a4/",
+       "driveLink": ""
+     },
+     {
+       "id": 18,
+       "name": "Mansi",
+       "email": "singhmansi5367@gmail.com",
+       "image": "18.jpg",
+       "highQual": "B.Sc.(H) Mathematics",
+       "skills": "Python (with libraries like Pandas, NumPy, Scikit-Learn, PyTorch/TensorFlow), SQL, Machine Learning, Deep Learning basics, Tableau/Power BI, Excel, PowerPoint, Word, R, HTML, CSS[... ]",
+       "linkedin": "https://www.linkedin.com/in/mansi-singh-538109369",
+       "driveLink": "https://drive.google.com/file/d/1VMZv0SPEHnQLHZsRDH8nFUA4OLH-Eai3/view?usp=drivesdk"
+     },
+     {
+       "id": 19,
+       "name": "MD Afsar",
+       "email": "AFSARMD6201@GMAIL.COM",
+       "image": "19.jpg",
+       "highQual": "B.Sc computer science",
+       "skills": "Ai and Ml",
+       "linkedin": "https://www.linkedin.com/in/md-afsar-3077a5320",
+       "driveLink": "https://drive.google.com/drive/folders/1wZDo_33B93qx6kr6TH_QGygFlZs7XZoN"
+     },
+     {
+       "id": 20,
+       "name": "Megha R",
+       "email": "megharnair1312@gmail.com",
+       "image": "20.jpg",
+       "highQual": "BSc(Hons)Physics",
+       "skills": "Python, SQL, Machine Learning, Deep Learning, Data Analytics, Computer Vision",
+       "linkedin": "https://www.linkedin.com/in/megha-r-a978a7262",
+       "driveLink": ""
+     },
+     {
+       "id": 21,
+       "name": "Mohammad Sabeel",
+       "email": "mohammadsabeellone@gmail.com",
+       "image": "21.jpg",
+       "highQual": "BSc IT",
+       "skills": "Agentic AI training MCP Prompt engineering Loop engineering Graph engineering Machine Learning Python Docker Fast API Java",
+       "linkedin": "https://www.linkedin.com/in/connect-mohammadsabeels",
+       "driveLink": ""
+     },
+     {
+       "id": 22,
+       "name": "Mohammed Faraz Khan",
+       "email": "farazsisodiya786@gmail.com",
+       "image": "22.png",
+       "highQual": "Bachelor of science (Bsc)",
+       "skills": "Python, Machine Learning, Deep Learning, Data Science, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, NLP, SQL, Data Visualization, Git, FastAPI",
+       "linkedin": "https://www.linkedin.com/in/faraz-khan-987767316?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+       "driveLink": "https://drive.google.com/file/d/16iXw9owgXuuGI5hxUaFapQQHCrY6N1Dr/view?usp=drivesdk"
+     },
+     {
+       "id": 23,
+       "name": "Mohammed Sehal Hasan",
+       "email": "sehal.hasan16@gmail.com",
+       "image": "23.jpg",
+       "highQual": "B.A.(Hons.) Mathematics / PG Diploma Applied Statistics",
+       "skills": "Skills - HR Tech, Process Automation, Web Scraping, API handling, Tech Documentation, System Design, App development, Database Administration, Data Visualization, Product Managem[... ]",
+       "linkedin": "https://www.linkedin.com/in/mohammed-sehal-hasan-733488155/",
+       "driveLink": ""
+     },
+     {
+       "id": 24,
+       "name": "Mohd Adil",
+       "email": "mohd4082@gmail.com",
+       "image": "24.jpg",
+       "highQual": "Bachelor of Science",
+       "skills": "Machine Learning Artificial Intelligence Data Analysis Data Preprocessing Feature Engineering Model Training & Evaluation Deep Learning Python NumPy Pandas Matplotlib Scikit-lear[... ]",
+       "linkedin": "https://www.linkedin.com/in/mohd-adil-405679281/",
+       "driveLink": "https://drive.google.com/file/d/1sz_FxOVBKla5tG3yEmLce5-Zl3CmyNAS/view?usp=drivesdk"
+     },
+     {
+       "id": 25,
+       "name": "MOHD FAIZY",
+       "email": "faizyzaidi80@gmail.com",
+       "image": "25.jpg",
+       "highQual": "BCA",
+       "skills": "Python, SQL/MySQL, Excel, Google Sheets, Power BI, Data Analysis, EDA,Machine Learning, Deep Learning, NLP, Statistics, Streamlit, Web Scraping, Git & GitHub.",
+       "linkedin": "www.linkedin.com/in/mohd-faizy-59047b255",
+       "driveLink": ""
+     },
+     {
+       "id": 26,
+       "name": "Mohd Mushq",
+       "email": "mushqp1@gmail.com",
+       "image": "26.jpg",
+       "highQual": "BCA",
+       "skills": "C,C++,python,AI,ML,DSA",
+       "linkedin": "https://www.linkedin.com/in/mohd-mushq-6707431a2/",
+       "driveLink": "https://drive.google.com/file/d/1pWtcYUOwiGx5ljZvDSxSKnk9P1laKZcS/view?usp=drivesdk"
+     },
+     {
+       "id": 27,
+       "name": "MOHD SHIBLI KHAN",
+       "email": "mohdshiblikhan0@gmail.com",
+       "image": "27.png",
+       "highQual": "BCA",
+       "skills": "ML, DL, Data Science, GenAi, RAG, Python, Java, PostgreSQL, FastAPI",
+       "linkedin": "www.linkedin.com/in/mohdshiblikhan",
+       "driveLink": "https://drive.google.com/file/d/1IKWZY1BRr0BnFrM44wMfeSd-hiK5Ovh/view?usp=share_link"
+     },
+     {
+       "id": 28,
+       "name": "Muhammed Anas Ali P Y",
+       "email": "hellomranas@gmail.com",
+       "image": "28Msc.jpg",
+       "highQual": "BSc. Computer Science",
+       "skills": "Python, SQL, Machine Learning, Deep Learning, Data Analytics, Power Bl",
+       "linkedin": "https://www.linkedin.com/in/anasalipy",
+       "driveLink": ""
+     },
+     {
+       "id": 29,
+       "name": "Noor Alam",
+       "email": "na.noor2149@gmail.com",
+       "image": "29.png",
+       "highQual": "B.Sc",
+       "skills": "AI & Machine Learning: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch Database: MySQL Tools: Git, GitHub, Visual Studio Code Other: Microsoft Excel, Microsoft PowerPoint",
+       "linkedin": "www.linkedin.com/in/noor-alam-9371a8364",
+       "driveLink": "https://drive.google.com/file/d/1kOqQDsRW7iZ0c9k5bci5_xBna6n92_Yc/view?usp=drive_link"
+     },
+     {
+       "id": 30,
+       "name": "Ravi Chaudhary",
+       "email": "ravichaudharychhata@gmail.com",
+       "image": "30.jpg",
+       "highQual": "Bsc(cs)",
+       "skills": "PYTHON,POWER BI,SQL,EXCEL,AI&ML, STATISTICS , TABLEAU",
+       "linkedin": "www.linkedin.com/in/ ravi-chaudhary-1858913",
+       "driveLink": ""
+     },
+     {
+       "id": 31,
+       "name": "Romana Ruqia",
+       "email": "romanakhan237@gmail.com",
+       "image": "31.jpg",
+       "highQual": "B.Sc (Hons) Physics",
+       "skills": "Technical skills: Python, C, LaTeX, Scilab, Wolfram Mathematica, SQL Co-curricular: Parliamentary Debating, Social Entrepreneurship",
+       "linkedin": "https://www.linkedin.com/in/romanaruqia/",
+       "driveLink": ""
+     },
+     {
+       "id": 32,
+       "name": "Saalim Aqueel",
+       "email": "aqueel192@gmail.com",
+       "image": "32.jpg",
+       "highQual": "BCA",
+       "skills": "Full Stack Development, JS/TS, Python, Golang, ML & DL , NLP, REST APIs, Git, Docker, Linux, RAG, PostgreSQL, GenAI",
+       "linkedin": "https://linkedin.com/in/saalim-aqueel",
+       "driveLink": ""
+     },
+     {
+       "id": 33,
+       "name": "Sana Ilahi",
+       "email": "sanailahi.india@gmail.com",
+       "image": "33.jpg",
+       "highQual": "Diploma in Data Science from IITM, BA (English) Hons from JMI, Diploma in Programming from IITM",
+       "skills": "Python, SQL, Machine Learning, NLP, Data Analysis, Exploratory Data Analysis (EDA), Feature Engineering, TF-IDF Vectorization, Statistical Analysis, Scikit-learn, Pandas, NumPy, [...]",
+       "linkedin": "https://www.linkedin.com/in/sana-ilahi-27b38b238/",
+       "driveLink": "https://drive.google.com/file/d/1SWR7VNG5yurKHQq48npOf1wwlSq8bAPw/view?usp=drivesdk"
+     },
+     {
+       "id": 34,
+       "name": "Saurabh",
+       "email": "saurabh705301@gmail.com",
+       "image": "34.jpg",
+       "highQual": "BCA",
+       "skills": "Python MySQL ML&DL NLP Gen AI Docker",
+       "linkedin": "https://www.linkedin.com/in/saurabh-4443b838a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+       "driveLink": ""
+     },
+     {
+       "id": 35,
+       "name": "Shabab Fatima",
+       "email": "002shababfatima@gmail.com",
+       "image": "35.jpg",
+       "highQual": "BSc computer science and mathematics",
+       "skills": "Skilled in Python, Machine Learning, Deep Learning, Artificial Intelligence, Data Analysis, TensorFlow, Scikit-learn, Pandas, NumPy, SQL, Computer Vision, Statistics, and Predict[... ]",
+       "linkedin": "https://www.linkedin.com/in/shabab-fatima",
+       "driveLink": "https://drive.google.com/file/d/1RpnWBRG9UuRML7Y6Yepd2HYsR0tahfq3/view?usp=drivesdk"
+     },
+     {
+       "id": 36,
+       "name": "Sheikh Saqlain",
+       "email": "sheikhsaqlain09@gmail.com",
+       "image": "36.jpg",
+       "highQual": "BCA",
+       "skills": "Python, Machine Learning, Deep Learning, TensorFlow, Scikit-learn, Data Analysis, SQL, MySQL, Data Structures & Algorithms, Git/GitHub, HTML, CSS, JavaScript, Pandas, NumPy, Jupy[... ]",
+       "linkedin": "https://www.linkedin.com/in/sheikh-saqlain?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+       "driveLink": ""
+     },
+     {
+       "id": 37,
+       "name": "Shibaditya Dasgupta",
+       "email": "ismokemydoobie24x7@gmail.com",
+       "image": "37.jpg",
+       "highQual": "Bsc Computer science",
+       "skills": "Python, Prompt Engineering, Data Science, Excel, Power BI",
+       "linkedin": "https://www.linkedin.com/in/shibaditya-dasgupta-7967043aa?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+       "driveLink": ""
+     },
+     {
+       "id": 38,
+       "name": "Syed Irfan",
+       "email": "humanic004@gmail.com",
+       "image": "",
+       "highQual": "BSc IT",
+       "skills": "C",
+       "linkedin": "www.linkedin.com/in/syed-irfan-263539228",
+       "driveLink": ""
+     },
+     {
+       "id": 39,
+       "name": "Uruj Mirza",
+       "email": "urujmirza39@gmail.com",
+       "image": "39.jpg",
+       "highQual": "Bsc(general)",
+       "skills": "c, c++, java, python,Data structures, SQL, Scikit learn, pytorch, NLP, hugging face, Langchain , LLMs, Deep learning, Machine learning, RAG, Generative AI,Print Engeneering , Tra[... ]",
+       "linkedin": "https://www.linkedin.com/in/uruj-mirza-89277836a",
+       "driveLink": "https://drive.google.com/file/d/1U6M-Tt5F68XQwBsjCDYKWLQpC_P4gyZH/view?usp=drivesdk"
+     },
+     {
+       "id": 40,
+       "name": "Yash Gautam",
+       "email": "gautamyash0123@gmail.com",
+       "image": "40.jpg",
+       "highQual": "B.Sc in Physics, Maths, Computer Science",
+       "skills": "HTML, CSS, C, C++, Python, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, SQL, Machine Learning, Deep Learning, ANN, CNN, RNN, LSTM, NLP",
+       "linkedin": "www.linkedin.com/in/gautamyash0123",
+       "driveLink": ""
+     },
+     {
+       "id": 41,
+       "name": "Yasin Reza",
+       "email": "rezayasin2018@gmail.com",
+       "image": "41.jpg",
+       "highQual": "B.COM (Hons)",
+       "skills": "Python, Numpy, Pandas, Matplotlib, Seaborn, SQL, MS Excel, Power BI, Machine Learning",
+       "linkedin": "www.linkedin.com/in/yasin09nov",
+       "driveLink": "https://drive.google.com/file/d/1qF4cl5cO9djvlMZkSzVd4PlmUjAtMy8O/view?usp=sharing"
+     }
+   ],
+   
 
-  "Master of Science Bioinformatics": [
-  {
-    "id": 1,
-    "name": "Aaditya Singh",
-    "email": "2003singhaaditya@gmail.com",
-    "image": "Aaditya_Singh.jpg",
-    "highQual": "B. Sc. Lifesciences",
-    "skills": "C++, Python, R, SQL, HTML, CSS, MS Excel, Machine Learning (Foundational Knowledge), Basic Linux, Bioinformatics tools n Databases, Biostatistics.",
-    "linkedin": "https://www.linkedin.com/in/aaditya-singh-160826260",
-    "driveLink": "https://drive.google.com/file/d/1bga4SyT1wv-s2MykaoExLKzMqpvipTH8/view?usp=drivesdk"
-  },
-  {
-    "id": 2,
-    "name": "Aakriti Beniwal",
-    "email": "aakritibeniwal15@gmail.com",
-    "image": "Aakriti_Beniwal.jpg",
-    "highQual": "B.sc zoology hons",
-    "skills": "Project management, Communication skills, Computational biology, programming, Statistics",
-    "linkedin": "https://www.linkedin.com/in/aakriti-beniwal-768148204",
-    "driveLink": "https://drive.google.com/file/d/1T5F1DP3twig7JkgkF5aoiJ4F66Nh9ek_/view?usp=drivesdk"
-  },
-  {
-    "id": 3,
-    "name": "Abunashar Ayub",
-    "email": "Abunashar.ayub78654@gmail.com",
-    "image": "Abunashar_Ayub.jpg",
-    "highQual": "B.Sc. Zoology",
-    "skills": "Python | R programming | SQL | C++ | Machine Learning | PyMOL | Snakemake | Nextflow | NGS | GitHub | AutoDock | BLAST | MEGA",
-    "linkedin": "https://www.linkedin.com/in/abunasharayub1",
-    "driveLink": "https://drive.google.com/file/d/1JxQPWPQU91obPRvIOacnlnseSVvq1fVf/view?usp=drive_link"
-  },
-  {
-    "id": 4,
-    "name": "Adeeba",
-    "email": "adeebas1002@gmail.com",
-    "image": "Adeeba.jpg",
-    "highQual": "B.Sc. Biotechnology",
-    "skills": "Python, SQL, PL/SQL, Linux, Pandas, NumPy, Data Visualization, Bioinformatics, Sequence Analysis, BLAST, FASTA, Phylogenetic Analysis, Database Management, Machine Learning (Basics), Cell Culture, PCR, Gel Electrophoresis, Molecular Biology. Tools: Cytoscape, MEGA, EMBOSS, CellDesigner, COPASI, BLAST, RCSB PDB, UniProt, GenBank, VS Code, Microsoft Excel.",
-    "linkedin": "https://www.linkedin.com/in/adeeba-s-20a3593aa/",
-    "driveLink": "https://drive.google.com/file/d/1dlBqP19C1muEMD48ZuURZhY9UoPTYh7G/view?usp=sharing"
-  },
-  {
-    "id": 5,
-    "name": "Adeeba Ahmed",
-    "email": "adeebadecember4@gmail.com",
-    "image": "Adeeba_Ahmed.jpg",
-    "highQual": "B.Sc Life Sciences",
-    "skills": "Programming & Systems: Python, Biopython, R, C++, SQL, Linux, CLI/Terminal, Git & GitHub; Bioinformatics Tools & Databases: NCBI, GenBank, BLAST, ClustalW, MEGA/PHYLIP, ExPASy, PDB/RCSB, Cytoscape, PyMol, COPASI; Genomics & Analysis: FASTA/FASTQ formats, sequence retrieval/alignment, comparative & functional genomics, phylogenetics, GO enrichment, ORF/repeat/RNA-structure analysis; Data & Databases: Biostatistics, systems biology, MySQL, Oracle, MS Excel, Power BI, machine-learning exposure; Web & Digital: HTML, CSS, JavaScript, GitHub Pages, Wix",
-    "linkedin": "https://www.linkedin.com/in/adeeba-ahmed-598820427?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-    "driveLink": "https://drive.google.com/file/d/1Sit5zl2JcW9qSdr5o6-4V7uKyDQVwR-E/view?usp=drivesdk"
-  },
-  {
-    "id": 6,
-    "name": "Afreen Jahan",
-    "email": "afreenjahan9911@gmail.com",
-    "image": "Afreen_Jahan.jpg",
-    "highQual": "B.Sc Biochemistry",
-    "skills": "Python, C++, R programming, SQL, Linux, Tableau, Web development, Bioinformatics tools, NGS, Data analysis.",
-    "linkedin": "https://www.linkedin.com/in/afreen-jahan-ab804b378",
-    "driveLink": "https://drive.google.com/file/d/1ilELnTf1oySmq5x_xdEQy94lkp99Sn1P/view?usp=drivesdk"
-  },
-  {
-    "id": 7,
-    "name": "Ahmed Raza Zaidi",
-    "email": "theradahmed@gmail.com",
-    "image": "Ahmed_Raza_Zaidi.jpg",
-    "highQual": "B.Tech CSE",
-    "skills": "Python, C++, R, SQL/MySQL, HTML/CSS, NumPy, Pandas, dplyr, ggplot2, Bioconductor, HTSeq, SRA Toolkit, BLAST, FASTA, PyMOL, SWISS-MODEL, DALI, UniProt, NCBI/GenBank, PDB, Pfam, Cytoscape, COPASI, CellDesigner, STRING, GeneMANIA, Git/GitHub, VS Code, Conda, Sequence Analysis, Homology Searching, Multiple Sequence Alignment, Protein Structure Analysis, NGS Data Analysis, RNA-seq, Systems Biology, Pathway Analysis",
-    "linkedin": "https://www.linkedin.com/theradahmed",
-    "driveLink": "https://drive.google.com/file/d/1WlZPsuCM3ozLJCdLXDrwMfiC0-apatY4/view?usp=drivesdk"
-  },
-  {
-    "id": 8,
-    "name": "Amna Abbasi",
-    "email": "amnaabbasi2003@gmail.com",
-    "image": "Amna_Abbasi.jpg",
-    "highQual": "B.Voc.Medical Laboratory Science",
-    "skills": "Python, R",
-    "linkedin": "https://www.linkedin.com/in/amna-abbasi-782506412?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1FrrpTN1vG2uRh4w23DGRItfV4-WYXvR_/view?usp=drivesdk"
-  },
-  {
-    "id": 9,
-    "name": "ARIZ ALI",
-    "email": "arifbuxer@gmail.com",
-    "image": "ARIZ_ALI.jpg",
-    "highQual": "Bsc life science",
-    "skills": "Molecular biology, bioinformatics tools, SQL, Python, ML in biological data, programming in R, C++, Biopython, web-based programming, NGS analysis.",
-    "linkedin": "https://www.linkedin.com/in/ariz-ali-7bb477412?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1H7Rkh8sNIOQ2GLi5-ljPJvSdmZZrQRbm/view?usp=drivesdk"
-  },
-  {
-    "id": 10,
-    "name": "Fayza Ali",
-    "email": "ali.fayza19@gmail.com",
-    "image": "Fayza_Ali.jpg",
-    "highQual": "BCA",
-    "skills": "HTML & CSS",
-    "linkedin": "https://www.linkedin.com/in/fayza-ali-240359247?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1J-QhMXYNIj9KoZGSg8MvePU0lWfb9795/view?usp=drivesdk"
-  },
-  {
-    "id": 11,
-    "name": "Iqra zafar",
-    "email": "iqrazafarjnmch@gmail.com",
-    "image": "Iqra_zafar.jpg",
-    "highQual": "4 year Bsc in medical laboratory sciences",
-    "skills": "Wet lab skills as well as dry lab",
-    "linkedin": "https://www.linkedin.com/in/iqra-zafar-65aa983a9",
-    "driveLink": "https://drive.google.com/file/d/1xm1OkOTomWmp41ta_ZlSQBt_AbFYAUNc/view?usp=drivesdk"
-  },
-  {
-    "id": 12,
-    "name": "Iram Ahmed",
-    "email": "iirmahmed2@gmail.com",
-    "image": "Iram_Ahmed.jpg",
-    "highQual": "Bsc. Anesthesia and operation theatre techniques",
-    "skills": "Programming in R, MySQL",
-    "linkedin": "https://www.linkedin.com/in/iramahmed27?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-    "driveLink": "https://drive.google.com/file/d/1rn5uvPQGayB00CRMKXmQfXjwOfTUs3dT/view?usp=drivesdk"
-  },
-  {
-    "id": 13,
-    "name": "Jahnavi Garg",
-    "email": "Jahnavi.garg2708@gmail.com",
-    "image": "Jahnavi_Garg.jpg",
-    "highQual": "B.Sc. (Hons.) Botany, University of Delhi",
-    "skills": "Bioinformatics, Python, SQL, DBMS, Sequence Analysis, Phylogenetics, MS Excel",
-    "linkedin": "https://www.linkedin.com/in/jahnavi-garg-0058a01a8?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1yTM48OVeAv4wN73d7oD5P_u48_AcGBlr/view?usp=drivesdk"
-  },
-  {
-    "id": 14,
-    "name": "Jisha",
-    "email": "waseemjisha0018@gmail.com",
-    "image": "Jisha.jpg",
-    "highQual": "Bsc biology",
-    "skills": "RNA-seq analysis, Python, SQL, Bioinformatics, Data Analysis, NumPy, Pandas, Cytoscape, DBMS, Problem Solving, Analytical Skills",
-    "linkedin": "https://www.linkedin.com/in/jisha-waseem-1ba75a24a",
-    "driveLink": "https://drive.google.com/file/d/1RKwfn3LFSFqeyKn0bGQzMJPmcfFABnkz/view?usp=drivesdk"
-  },
-  {
-    "id": 15,
-    "name": "Kazi Md Rizwan Ahmed",
-    "email": "rizwanahmed2603@gmail.com",
-    "image": "Kazi_Md_Rizwan_Ahmed.jpg",
-    "highQual": "BSc Bioinformatics",
-    "skills": "Structural Bioinformatics, In-Silico Drug Repurposing, Bioinformatics Tools and Databases, Leadership Management",
-    "linkedin": "https://www.linkedin.com/in/kazi-md-rizwan-ahmed-488a33257?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/170yfapTU2FyRjT3pNgu_BOK0RVx1NeGF/view"
-  },
-  {
-    "id": 16,
-    "name": "MD SAWOOD ALAM",
-    "email": "mdsawood512@gmail.com",
-    "image": "MD_SAWOOD_ALAM.jpg",
-    "highQual": "BSC BIOTECHNOLOGY",
-    "skills": "Python, SQL, Bioinformatics Tools, Data Analysis, Machine Learning Basics, Cytoscape, Molecular Biology, Genomics, Database Management, MS Excel (advanced), Linux environment handling, Basic AWS cloud knowledge.",
-    "linkedin": "https://www.linkedin.com/in/md-sawood-9529aa253?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1qJFEc6RnnelbW_D4fDBTt09NmR7laYHD/view?usp=drivesdk"
-  },
-  {
-    "id": 17,
-    "name": "Md Talha Abbasi",
-    "email": "abbasitalha63@gmail.com",
-    "image": "Md_Talha_Abbasi.jpg",
-    "highQual": "Bsc(hons.) Botany",
-    "skills": "Python, HTML, PHP, R, NGS",
-    "linkedin": "https://www.linkedin.com/in/md-talha-245233332",
-    "driveLink": "https://drive.google.com/file/d/1uc8gqbrOBRUTqQvsTZC8hkyocPvajVFg/view?usp=drivesdk"
-  },
-  {
-    "id": 18,
-    "name": "MD. Arshad",
-    "email": "arshad10867c@gmail.com",
-    "image": "MD_Arshad.jpg",
-    "highQual": "B.Sc. Bioinformatics",
-    "skills": "Zig, C++20, Assembly, R, Python, Shell Scripting, Systems Biology, Docker, Qiskit && Cirq",
-    "linkedin": "https://www.linkedin.com/in/subjects/",
-    "driveLink": "https://drive.google.com/file/d/1supN0G6MtJ4qg1DOH0GLm8qlmDcS7KLJ/view?usp=drivesdk"
-  },
-  {
-    "id": 19,
-    "name": "Mohd imaad ahmed",
-    "email": "Mdim",
-    "image": "Mohd_imaad_ahmed.jpg",
-    "highQual": "Bsc life science",
-    "skills": "Molecular Docking, MD Simulations, NGS, Bioinformatics tools, Python, R, C++",
-    "linkedin": "https://www.linkedin.com/in/mohd-imaad-ahmed-916620248?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1BXjE0Hh-mhgvd8sQVQj1KA4lX8RVsp2j/view?usp=drivesdk"
-  },
-  {
-    "id": 20,
-    "name": "Mohd Shahnawaz",
-    "email": "mohdshahnawazsaif0123@gmail.com",
-    "image": "Mohd_Shahnawaz.jpg",
-    "highQual": "B.voc(Medical Electrophisiology)",
-    "skills": "R, Python, C++, SQL, POWER BI, MACHINE LEARNING, LINUX",
-    "linkedin": "https://www.linkedin.com/in/mohd-shahnawaz-aaa393349?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1qLGRVuLCwWXvr__ZXXgbqHStTnx_FN8h/view?usp=drivesdk"
-  },
-  {
-    "id": 21,
-    "name": "Mohd Sharique Khan",
-    "email": "shariq20702@gmail.com",
-    "image": "Mohd_Sharique_Khan.png",
-    "highQual": "Bsc Biotechnology",
-    "skills": "Bioinformatics, Linux, R, SQL, Python",
-    "linkedin": "https://www.linkedin.com/in/khan-sharique-a26369277/",
-    "driveLink": "https://drive.google.com/file/d/1Z2oEdiuPOS78HX_AjTRxrBbdJxoBC5yd/view?usp=drivesdk"
-  },
-  {
-    "id": 22,
-    "name": "Mohd.zaiba.khan",
-    "email": "zaibankhan12345@gmail.com",
-    "image": "Mohd_zaiba_khan.jpg",
-    "highQual": "B.voc Medical laboratory science",
-    "skills": "C++, Python, R-language (basics), Web development: DBMS, HTML (basics), Database: NCBI, UniProt, PDB, GenBank, Bioinformatics tools: BLAST, ClustalW, MEGA, FASTA, Cytoscape, CellDesigner, COPASI, Sequence Analysis, Genomic Data Interpretation, Machine Learning (Basics)",
-    "linkedin": "https://www.linkedin.com/in/mohd-zaiban-khan-738875330",
-    "driveLink": "https://drive.google.com/file/d/1BzQ5R1v1MgYx-mmBGVne3fjgiZnRN3fp/view?usp=drivesdk"
-  },
-  {
-    "id": 23,
-    "name": "Nusrat Parvin",
-    "email": "nusratk948@gmail.com",
-    "image": "Nusrat.jpg",
-    "highQual": "Bsc Biotechnology",
-    "skills": "Strong knowledge of biology and genomics, Bioinformatics tools and databases, R, Python, SQL. Drug discovery QSAR modelling - ligand based and structure based. Wet lab techniques - DNA isolation, gel electrophoresis, PCR.",
-    "linkedin": "https://www.linkedin.com/in/nusrat-parvin-69815329b",
-    "driveLink": "https://drive.google.com/drive/folders/1LK2NmBo6AlyFdthP3SB1Nh_ttIJc-hE-"
-  },
-  {
-    "id": 24,
-    "name": "Parul Sharma",
-    "email": "parulsharma1419@gmail.com",
-    "image": "Parul_Sharma.jpg",
-    "highQual": "BSc. Medical Laboratory Technology, Delhi Skill And Entrepreneurship University",
-    "skills": "Python (Pandas, NumPy), R, SQL, C++, Linux/Bash, Git/GitHub, Bioinformatics, Computational Biology, Comparative & Functional Genomics, Data Analysis & Visualization, Biostatistics, Machine Learning (Basic), Molecular Biology",
-    "linkedin": "https://www.linkedin.com/in/parul-s-10b626245/",
-    "driveLink": "https://drive.google.com/file/d/1uBYi33BCD-CYOj_MRm28YF_8ugm8oQum/view?usp=drivesdk"
-  },
-  {
-    "id": 25,
-    "name": "Prakriti singh",
-    "email": "prakritisingh309135@gmail.com",
-    "image": "Prakriti_singh.jpg",
-    "highQual": "Bsc (hons) botany",
-    "skills": "Biological Data Analysis, Python Programming, Sales and Marketing Strategies",
-    "linkedin": "https://www.linkedin.com/in/prakriti-singh-2a6042255?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1-88iC1zxvSJCK6xMajtRdjPWBVzrnFiO/view?usp=drivesdk"
-  },
-  {
-    "id": 26,
-    "name": "saad yusuf",
-    "email": "syed.saad7527@gmail.com",
-    "image": "saad_yusuf.jpg",
-    "highQual": "bsc life sciences",
-    "skills": "Bioinformatics: NGS Analysis (FASTQ/BAM/VCF), Phylogenetic Analysis (MEGA X), Homology Modeling (Swiss-Model), Molecular Docking (AutoDock Vina), Drug Design, BLAST, ClustalW. Programming: Python (BioPython, Pandas, NumPy), C++, SQL, Linux/Unix Shell Scripting, R Basics.",
-    "linkedin": "https://www.linkedin.com/in/sisyyphuss?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1OVe7QbHyat7FurRFSNUgRFQxL8-dNfwG/view?usp=drivesdk"
-  },
-  {
-    "id": 27,
-    "name": "Saksham Shrivastava",
-    "email": "isakshamshrivastava@gmail.com",
-    "image": "Saksham_Shrivastava.jpg",
-    "highQual": "B.Sc. Life Sciences",
-    "skills": "Python, Basic Molecular Biology, Biological Databases, Structural Bioinformatics",
-    "linkedin": "https://www.linkedin.com/in/isakshamshrivastava?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1kN6Pyo82G580zW0Z0g9JEBn3KHt5Bvsu/view?usp=drivesdk"
-  },
-  {
-    "id": 28,
-    "name": "Sania Zahid",
-    "email": "saniazahid3003@gmail.com",
-    "image": "Sania_Zahid.jpg",
-    "highQual": "BSc Biosciences",
-    "skills": "Python / C++ / R",
-    "linkedin": "https://www.linkedin.com/in/sania-zahid-ba7557297?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1FoNlOt33TLwdvaUXx-Xg705B_CpFMnLl/view?usp=drivesdk"
-  },
-  {
-    "id": 29,
-    "name": "Sanjana",
-    "email": "sammi.893136@gmail.com",
-    "image": "Sanjana.jpg",
-    "highQual": "Bsc (hons) microbiology",
-    "skills": "Bioinformatics tools, Python",
-    "linkedin": "https://www.linkedin.com/in/sanjana-singh-595563215?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1j-Hz3kl1IGwKaK4RwB2HCtUBa8DHmG5N/view?usp=drivesdk"
-  },
-  {
-    "id": 30,
-    "name": "SURAJ KUMAR",
-    "email": "kumar02surajj@gmail.com",
-    "image": "SURAJ_KUMAR.jpg",
-    "highQual": "Medical Electrophysiology",
-    "skills": "R programming, Python, SQL, C++, ML and Bioinformatics tools",
-    "linkedin": "https://www.linkedin.com/in/suraj-kumar-822698291",
-    "driveLink": "https://drive.google.com/file/d/1x5xijXU5aGHPtwuCe-v3eGDpcWzAI-qS/view?usp=drivesdk"
-  },
-  {
-    "id": 31,
-    "name": "Suraj Rana",
-    "email": "surajranaaa2003@gmail.com",
-    "image": "Suraj_Rana.jpg",
-    "highQual": "Bsc Life Sciences",
-    "skills": "R/Python, C++, Basic Power BI, Linux, NGS, Soft skills (team-oriented, adaptable, effective communication, fast learner)",
-    "linkedin": "https://www.linkedin.com/in/suraj-rana-1b387b2a1?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/1NIhvP_4trK2DpqxnDoPdRbC3KsU9iMsr/view"
-  },
-  {
-    "id": 32,
-    "name": "Syed Dur Rahman Tantray",
-    "email": "syedurrahman871@gmail.com",
-    "image": "Syed_Dur_Rahman_Tantray.jpg",
-    "highQual": "BSc in Zoology, Botany and Bioinformatics",
-    "skills": "Python, R, C++, MD Simulation, Molecular Docking, SQL",
-    "linkedin": "https://www.linkedin.com/in/syed-ur-rahman-183a32209",
-    "driveLink": "https://drive.google.com/file/d/1Fgb5YBaLQio4rWKy38yN0pw9j95OLEyU/view?usp=drivesdk"
-  },
-  {
-    "id": 33,
-    "name": "Towqeer un nisa",
-    "email": "shhnissa@gmail.com",
-    "image": "Towqeer_un_nisa.jpg",
-    "highQual": "Bsc ( life sciences)",
-    "skills": "Python (Basic), SQL, Cytoscape, Bioinformatics Databases, Linux (Basic), Sequence Analysis, NGS (Learning), Data Analysis, Analytical & Problem-Solving Skills.",
-    "linkedin": "https://www.linkedin.com/in/towqeer-un-nisa-699a12376",
-    "driveLink": "https://drive.google.com/file/d/1jo39xnJtqK9pHk41fFcWB9FDQXfXKr-n/view?usp=drivesdk"
-  },
-  {
-    "id": 34,
-    "name": "Urooj Fatima",
-    "email": "uroojf1025@gmail.com",
-    "image": "Urooj_Fatima.jpg",
-    "highQual": "Bachelor of Science",
-    "skills": "Python, SQL, Bioinformatic Tools",
-    "linkedin": "https://www.linkedin.com/in/urooj-fatima-4a64a6212?trk=contact-info",
-    "driveLink": "https://drive.google.com/file/d/1BFj8hRssVwDYbWz7r7FcifqzpfPaktZq/view?usp=drivesdk"
-  },
-  {
-    "id": 35,
-    "name": "Uzma khan",
-    "email": "6uzmakhan@gmail.com",
-    "image": "Uzma_khan.jpg",
-    "highQual": "Bsc biochemistry",
-    "skills": "R, Python, C++, DBMS, HTML",
-    "linkedin": "https://www.linkedin.com/in/uzma-khan-7b38b1374?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-    "driveLink": "https://drive.google.com/file/d/10XSSQd1DJQEn7envCONWBX9tZz7qaqvR/view?usp=drivesdk"
-  },
-  {
-    "id": 36,
-    "name": "Zainab",
-    "email": "zainahmed10522@gmail.com",
-    "image": "Zainab.jpg",
-    "highQual": "Medical electrophysiology",
-    "skills": "Python, PL/SQL, C++, Data Analysis, Research skills, R programming, HTML, CSS, Cytoscape",
-    "linkedin": "https://www.linkedin.com/in/zainab-ahmed-1244b7412",
-    "driveLink": "https://drive.google.com/file/d/1ZoKUz4-IO-FMDCHfKaAkfmCZgwuagoGu/view?usp=drive_link"
-  },
-  {
-    "id": 37,
-    "name": "Zainab Naseer",
-    "email": "zainabqadeemi@gmail.com",
-    "image": "Zainab_Naseer.jpg",
-    "highQual": "B.Sc Biotechnology",
-    "skills": "Bioinformatics and computational biology; sequence and genomic analysis; structural bioinformatics; pathway/network analysis; biological databases; Python, R, C++, and SQL; machine learning basics; cell culture; DNA/RNA/protein extraction; PCR, RT-PCR, gel electrophoresis; Western, Southern, Northern blotting",
-    "linkedin": "https://www.linkedin.com/in/zainab-n-23b110364",
-    "driveLink": "https://drive.google.com/file/d/1x34gY-eThCs4UEW3QFWujGUJPQ9nw4VY/view?usp=drivesdk"
-  },
-  {
-    "id": 38,
-    "name": "Noor Fatima Rizvi",
-    "email": "rizvinoor02@gmail.com",
-    "image": "noor_fatima_rizvi.jpg",
-    "highQual": "M.Sc. Mathematics",
-    "skills": "Bioinformatics tools and databases\nR language\nPython\nC++",
-    "linkedin": "https://www.linkedin.com/in/noor-fatima-rizvi-ab6874319",
-    "driveLink":"https://drive.google.com/file/d/1IOpCO6R7uMmsLi-XnUbXzNsPZU_ma5_g/view?usp=drivesdk"
-  },
-  {
-    "id": 39,
-    "name": "Samad Saifi",
-    "email": "samadlylives00@gmail.com",
-    "image": "samad_saifi.jpg",
-    "highQual": "B.Sc Life Science",
-    "skills": "Programming: C++, Python, JavaScript, Basic R\n\nBioinformatics Tools: BLAST, ClustalW, MEGA, FASTA, Cytoscape\n\nDatabases: NCBI, UniProt, PDB, Supabase\n\nWeb Development: Next.js, React, HTML, CSS\n\nData & ML: Sequence Analysis, Genomic Data Interpretation, Machine Learning Basics\n\nDev Tools: Git, GitHub, SQL (Basics), Google OAuth",
-    "linkedin": "https://www.linkedin.com/in/samad-saifi-ab91aa374/",
-    "driveLink":"https://drive.google.com/file/d/1Fe7jnVJmC6bLum80Jj4gSu-DaahIJL8X/view?usp=drivesdk"
-  },
-  {
-    "id": 40,
-    "name": "Ramsha Saud",
-    "email": "ramshasaud2316@gmail.com",
-    "image": "Ramsha.jpg",
-    "highQual": "B.Sc cardiology Lab Techniques",
-    "skills": "R, Python, C++, DBMS, HTML",
-    "linkedin": "https://www.linkedin.com/in/ramsha-saud-573826336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwHZoI2NHRJ2RDNcmuNFQtA%3D%3D",
-    "driveLink": "https://drive.google.com/file/d/1xkz5U59sks5yHz4hQ9kE7eq7hOAxRa7F/view"
-  },
-  {
-    "id": 41,
-    "name": "Khubaib Reyaz",
-    "email": "Khubaibreyaz0@gmail.com",
-    "image": "Khubaib_Reyaz.png",
-    "highQual": "B.Sc (Hons)Botany",
-    "skills": "Python, r, c++, md simulation, molecular docking, sql",
-    "linkedin": "https://www.linkedin.com/in/khubaibreyaz/",
-    "driveLink": "https://drive.google.com/file/d/1RU-vSQ-SXyG5p_ip8jsW5h4s22IOeAeN/view"
-}
-]
-}
+   "Master of Science Bioinformatics": [
+   {
+     "id": 1,
+     "name": "Aaditya Singh",
+     "email": "2003singhaaditya@gmail.com",
+     "image": "Aaditya_Singh.jpg",
+     "highQual": "B. Sc. Lifesciences",
+     "skills": "C++, Python, R, SQL, HTML, CSS, MS Excel, Machine Learning (Foundational Knowledge), Basic Linux, Bioinformatics tools n Databases, Biostatistics.",
+     "linkedin": "https://www.linkedin.com/in/aaditya-singh-160826260",
+     "driveLink": "https://drive.google.com/file/d/1bga4SyT1wv-s2MykaoExLKzMqpvipTH8/view?usp=drivesdk"
+   },
+   {
+     "id": 2,
+     "name": "Aakriti Beniwal",
+     "email": "aakritibeniwal15@gmail.com",
+     "image": "Aakriti_Beniwal.jpg",
+     "highQual": "B.sc zoology hons",
+     "skills": "Project management, Communication skills, Computational biology, programming, Statistics",
+     "linkedin": "https://www.linkedin.com/in/aakriti-beniwal-768148204",
+     "driveLink": "https://drive.google.com/file/d/1T5F1DP3twig7JkgkF5aoiJ4F66Nh9ek_/view?usp=drivesdk"
+   },
+   {
+     "id": 3,
+     "name": "Abunashar Ayub",
+     "email": "Abunashar.ayub78654@gmail.com",
+     "image": "Abunashar_Ayub.jpg",
+     "highQual": "B.Sc. Zoology",
+     "skills": "Python | R programming | SQL | C++ | Machine Learning | PyMOL | Snakemake | Nextflow | NGS | GitHub | AutoDock | BLAST | MEGA",
+     "linkedin": "https://www.linkedin.com/in/abunasharayub1",
+     "driveLink": "https://drive.google.com/file/d/1JxQPWPQU91obPRvIOacnlnseSVvq1fVf/view?usp=drive_link"
+   },
+   {
+     "id": 4,
+     "name": "Adeeba",
+     "email": "adeebas1002@gmail.com",
+     "image": "Adeeba.jpg",
+     "highQual": "B.Sc. Biotechnology",
+     "skills": "Python, SQL, PL/SQL, Linux, Pandas, NumPy, Data Visualization, Bioinformatics, Sequence Analysis, BLAST, FASTA, Phylogenetic Analysis, Database Management, Machine Learning (Basics[... ]",
+     "linkedin": "https://www.linkedin.com/in/adeeba-s-20a3593aa/",
+     "driveLink": "https://drive.google.com/file/d/1dlBqP19C1muEMD48ZuURZhY9UoPTYh7G/view?usp=sharing"
+   },
+   {
+     "id": 5,
+     "name": "Afiya",
+     "email": "afiya2019@gmail.com",
+     "image": "Afiya.jpg",
+     "highQual": "BSc Zoology (Hons)",
+     "skills": "Bioinformatics tool, Python, Machine Learning, SQL, Data Analysis",
+     "linkedin": "https://www.linkedin.com/in/afiya-",
+     "driveLink": ""
+   },
+   {
+     "id": 6,
+     "name": "Aisha Siddiqui",
+     "email": "aishasiddiqui724@gmail.com",
+     "image": "Aisha_Siddiqui.jpg",
+     "highQual": "B.Sc Life Sciences",
+     "skills": "Python, R, SQL, Stats, Data Analysis, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/aisha-siddiqui-894956233",
+     "driveLink": ""
+   },
+   {
+     "id": 7,
+     "name": "Alfiya",
+     "email": "alfiya1.903@gmail.com",
+     "image": "Alfiya.jpg",
+     "highQual": "B.Sc. Botany Hons",
+     "skills": "Biology, Science, Research, Data analysis",
+     "linkedin": "https://www.linkedin.com/in/alfiya-hasan-9a866b222",
+     "driveLink": ""
+   },
+   {
+     "id": 8,
+     "name": "Anam",
+     "email": "aml66126@gmail.com",
+     "image": "Anam.jpg",
+     "highQual": "BSc (Hons) Zoology",
+     "skills": "Python, R, SQL, Machine Learning, Bioinformatics, Research Coordination, Data Analysis",
+     "linkedin": "https://www.linkedin.com/in/anam-beg-3770a3377",
+     "driveLink": ""
+   },
+   {
+     "id": 9,
+     "name": "Anmol",
+     "email": "ankitn118@gmail.com",
+     "image": "Anmol.jpg",
+     "highQual": "B.Sc. (Hons.) Chemistry",
+     "skills": "Molecular Modelling, Docking, Molecular Dynamics",
+     "linkedin": "https://www.linkedin.com/in/anmol-bhati-314733269",
+     "driveLink": ""
+   },
+   {
+     "id": 10,
+     "name": "Arshad Ahmad Abbas",
+     "email": "arshadahmad78656@gmail.com",
+     "image": "Arshad_Ahmad_Abbas.jpg",
+     "highQual": "B.Sc (Hons) Zoology",
+     "skills": "R, Python, SQL, Data Analytics, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/arshad-ahmad-abbas-7197b4277",
+     "driveLink": ""
+   },
+   {
+     "id": 11,
+     "name": "Asma Jahan",
+     "email": "asmajahan71@gmail.com",
+     "image": "Asma_Jahan.jpg",
+     "highQual": "B.Sc Chemistry",
+     "skills": "C++, Python, Data Analysis, Chemistry, Genomics, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/asma-jahan-32b276241",
+     "driveLink": ""
+   },
+   {
+     "id": 12,
+     "name": "Bibi Bano",
+     "email": "bibi121@gmail.com",
+     "image": "Bibi_Bano.jpg",
+     "highQual": "B.Sc. (Hons.) Botany",
+     "skills": "C+, Python, Data Analysis, Biology, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/bibi-bano-31147a1b8",
+     "driveLink": ""
+   },
+   {
+     "id": 13,
+     "name": "Faiza",
+     "email": "faizaukhxxx@gmail.com",
+     "image": "Faiza.jpg",
+     "highQual": "B.Sc (Hons) Life Scinece",
+     "skills": "Bioinformatics, Sequence Analysis, Python, R, Statistical analysis",
+     "linkedin": "https://www.linkedin.com/in/faiza-232560263",
+     "driveLink": ""
+   },
+   {
+     "id": 14,
+     "name": "Hafsa",
+     "email": "hfsasif@gmail.com",
+     "image": "Hafsa.jpg",
+     "highQual": "B.Sc. Life Science",
+     "skills": "R, Python, Bash, Data Analysis, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/hafsa-anjum-244-b35a27a9",
+     "driveLink": ""
+   },
+   {
+     "id": 15,
+     "name": "Irum Khan",
+     "email": "khanirum177@gmail.com",
+     "image": "Irum_Khan.jpg",
+     "highQual": "B.Sc (Hons) Botany",
+     "skills": "Freshman",
+     "linkedin": "https://www.linkedin.com/in/irum-khan-43a736266",
+     "driveLink": ""
+   },
+   {
+     "id": 16,
+     "name": "Kajal",
+     "email": "kajalbano11171@gmail.com",
+     "image": "Kajal.jpg",
+     "highQual": "B.Sc. (Hons) Chemistry",
+     "skills": "Molecular docking, gene sequence analysis, Python, R, SQL",
+     "linkedin": "https://www.linkedin.com/in/kajal-bano-814912349",
+     "driveLink": ""
+   },
+   {
+     "id": 17,
+     "name": "Muneer Ahmad",
+     "email": "muneerahmadalam@gmail.com",
+     "image": "Muneer_Ahmad.jpg",
+     "highQual": "B. Sc. Bioinformatics",
+     "skills": "Python, R, Linux, BioinformaticsNGS, DNA Sequencing, RNA-Seq, Data Analysis",
+     "linkedin": "https://www.linkedin.com/in/muneer-ahmad-07a5b47a6",
+     "driveLink": ""
+   },
+   {
+     "id": 18,
+     "name": "Naila Amir",
+     "email": "nailaamirgmail.com@gmail.com",
+     "image": "Naila_Amir.jpg",
+     "highQual": "B.sc Life Science",
+     "skills": "Bioinformatics, Data Analysis, R, Python, SQL",
+     "linkedin": "https://www.linkedin.com/in/naila-amir-386b33264",
+     "driveLink": ""
+   },
+   {
+     "id": 19,
+     "name": "Nazia",
+     "email": "naziajmi@gmail.com",
+     "image": "Nazia.jpg",
+     "highQual": "BSc.",
+     "skills": "Learning",
+     "linkedin": "https://www.linkedin.com/in/nazia-jmi-49b7f6a8b",
+     "driveLink": ""
+   },
+   {
+     "id": 20,
+     "name": "Nishtha Jha",
+     "email": "nishthajha98@gmail.com",
+     "image": "Nishtha_Jha.jpg",
+     "highQual": "B.Sc. Zoology (Hons)",
+     "skills": "Bioinformatics, Machine Learning, Data analysis, R, Python, SQL, Data Visualization, Matplotlib, Seaborn",
+     "linkedin": "https://www.linkedin.com/in/nishtha-jha-57d39a4d",
+     "driveLink": ""
+   },
+   {
+     "id": 21,
+     "name": "Rafiya Nisha",
+     "email": "rafiyanisha@gmail.com",
+     "image": "Rafiya_Nisha.jpg",
+     "highQual": "B.Sc. Chemistry",
+     "skills": "Python, R, SQL, Data Analysis, Bioinformatics, Big Data, Bioinformatics tools",
+     "linkedin": "https://www.linkedin.com/in/rafiya-nisha-984527214",
+     "driveLink": ""
+   },
+   {
+     "id": 22,
+     "name": "Rida Ashraf",
+     "email": "ridaashraf24@gmail.com",
+     "image": "Rida_Ashraf.jpg",
+     "highQual": "B.Sc(hons) botany",
+     "skills": "Blast, FASTA, Nucleotide sequence analysis, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/rida-ashraf-09a88b8f",
+     "driveLink": ""
+   },
+   {
+     "id": 23,
+     "name": "Saman Nisar",
+     "email": "samannisar801@gmail.com",
+     "image": "Saman_Nisar.jpg",
+     "highQual": "BSc (Hons) Zoology",
+     "skills": "Bioinformatics, data analysis, python, SQL, C++, R, Machine Learning, cloud, statistics",
+     "linkedin": "https://www.linkedin.com/in/saman-nisar-913b54a0",
+     "driveLink": ""
+   },
+   {
+     "id": 24,
+     "name": "Sana Ali",
+     "email": "sanaali1432@gmail.com",
+     "image": "Sana_Ali.jpg",
+     "highQual": "B.Sc.(Hons) Botany",
+     "skills": "Python, SQL, R, Data Analysis, Bioinformatics, Machine learning",
+     "linkedin": "https://www.linkedin.com/in/sana-ali-2b4b0b6c4",
+     "driveLink": ""
+   },
+   {
+     "id": 25,
+     "name": "Sana Iqbal",
+     "email": "sanaiqbal1302@gmail.com",
+     "image": "Sana_Iqbal.jpg",
+     "highQual": "B.Sc. Botany",
+     "skills": "Python, R, SQL, Bioinformatics, Data Analysis",
+     "linkedin": "https://www.linkedin.com/in/sana-iqbal-0aa96c3d",
+     "driveLink": ""
+   },
+   {
+     "id": 26,
+     "name": "Sana Mirza",
+     "email": "sana.mirza@gmail.com",
+     "image": "Sana_Mirza.jpg",
+     "highQual": "B.SC (Hons.) Chemistry",
+     "skills": "Python, R, SQL, Data Analysis, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/sana-mirza-878067ab",
+     "driveLink": ""
+   },
+   {
+     "id": 27,
+     "name": "Shahid Hussain",
+     "email": "shahidbux86@gmail.com",
+     "image": "Shahid_Hussain.jpg",
+     "highQual": "B.Sc. (Hons) Chemistry",
+     "skills": "Molecular docking, R, Python, SQL, Data analysis",
+     "linkedin": "https://www.linkedin.com/in/shahid-hussain-15b1b2cf",
+     "driveLink": ""
+   },
+   {
+     "id": 28,
+     "name": "Shivani Singh",
+     "email": "shivani.singh@gmail.com",
+     "image": "Shivani_Singh.jpg",
+     "highQual": "B.Sc. Botany",
+     "skills": "Phylogenetic analysis, sequence alignment, Docker, R, Python, SQL",
+     "linkedin": "https://www.linkedin.com/in/shivani-singh-633638199",
+     "driveLink": ""
+   },
+   {
+     "id": 29,
+     "name": "Tuba Fatima",
+     "email": "tubafatima2002@gmail.com",
+     "image": "Tuba_Fatima.jpg",
+     "highQual": "B.Sc. Biotechnology",
+     "skills": "Python, R, SQL, Data Analysis, Bioinformatics, NGS, Nextflow, Bioinformatics Tools, Graphical User Interface (GUI)",
+     "linkedin": "https://www.linkedin.com/in/tuba-fatima-9414e767",
+     "driveLink": ""
+   },
+   {
+     "id": 30,
+     "name": "Ubais Ali",
+     "email": "ubaisali@gmail.com",
+     "image": "Ubais_Ali.jpg",
+     "highQual": "BSc Computer Science",
+     "skills": "Python, SQL, C++, Data Analysis, Machine learning, Bioinformatics",
+     "linkedin": "https://www.linkedin.com/in/ubais-ali-8521a554",
+     "driveLink": ""
+   }
+   ]
+ }
