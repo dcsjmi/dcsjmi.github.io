@@ -3,5 +3,15 @@
     "Batch": "2026",
     "Link": "/DCS_Brochure.pdf",
     "Image": "mca.jpg"
+  },
+  "M.Sc. AI/ML": {
+    "Batch": "2027",
+    "Link": "/brochure_msc_ai2027.pdf",
+    "Image": "msc_ai.jpg"
+  },
+  "M.Sc. Bioinformatics": {
+    "Batch": "2027",
+    "Link": "/brochure_msc_bi2027.pdf",
+    "Image": "msc.jpg"
   }
 }
